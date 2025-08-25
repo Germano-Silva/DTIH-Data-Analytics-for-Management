@@ -162,7 +162,7 @@ Claro! Segue um resumo estruturado sobre a importância da qualidade dos dados e
 
 ---
 
-### **5. O que é Banco de Dados e Porque Interessa Aprender Isso?**
+### [**5. O que é Banco de Dados e Porque Interessa Aprender Isso?**](https://www.youtube.com/watch?v=XfO3TRvESBo)
 
 #### **1. Importância de Aprender Banco de Dados**
 - Bancos de dados estão presentes em praticamente todos os sistemas digitais:
@@ -225,7 +225,7 @@ Claro! Segue um resumo estruturado sobre a importância da qualidade dos dados e
 
 --- 
 
-### **6. Conceitos Básicos de Inteligência Comercial (Dados para Vendas)**
+### [**6. Conceitos Básicos de Inteligência Comercial (Dados para Vendas)**](https://www.youtube.com/watch?v=pmjmSdziLpI)
 
 #### **1. O que é Inteligência Comercial?**  
 É um conjunto de estratégias e processos que utilizam **dados e análise** para entender melhor o mercado, os clientes e as oportunidades de vendas. Seu objetivo é **aumentar a eficácia da prospecção e das vendas** por meio do direcionamento preciso.
