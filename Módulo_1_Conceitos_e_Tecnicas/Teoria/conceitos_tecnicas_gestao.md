@@ -27,9 +27,6 @@ Sem a análise de dados, ações de marketing e vendas seriam baseadas em suposi
 - Aumento de receita e fidelização de clientes.
 
 ---
-Claro! Segue um resumo dos principais conceitos de análise de dados abordados:
-
----
 
 ### **2. Principais Conceitos de Análise de Dados**
 
@@ -60,10 +57,6 @@ Claro! Segue um resumo dos principais conceitos de análise de dados abordados:
 
 #### **Conclusão**
 O processo de análise de dados envolve coleta, armazenamento, limpeza, visualização e interpretação dos dados, sempre com o objetivo de transformar informações brutas em insights valiosos para a tomada de decisões. A combinação de técnicas estatísticas, mineração de dados e storytelling é essencial para gerar valor real a partir dos dados.
-
---- 
-
-Claro! Segue um resumo estruturado sobre as técnicas de análise de dados:
 
 ---
 
@@ -96,10 +89,6 @@ Claro! Segue um resumo estruturado sobre as técnicas de análise de dados:
   - **Preditiva**: Antecipa o futuro.
   - **Prescritiva**: Orienta ações estratégicas.
 - Juntas, elas permitem que organizações tomem decisões mais informadas, baseadas em dados, desde a compreensão de eventos passados até a definição de ações futuras eficazes.
-
----
-
-Claro! Segue um resumo estruturado sobre a importância da qualidade dos dados e sua influência nas decisões gerenciais:
 
 ---
 
