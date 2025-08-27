@@ -30,7 +30,7 @@ O objetivo principal deste repositório é documentar a jornada de aprendizado e
 - **Versionamento:** Git, GitHub
 - **Outras:** Excel Avançado, APIs, SaaS Platforms
 
-## 👨‍💻 Autor
+
 
 **Seu Nome**  
 - LinkedIn: [Link para o seu LinkedIn](https://www.linkedin.com/in/germanorodriguessilva/)  
@@ -39,6 +39,22 @@ O objetivo principal deste repositório é documentar a jornada de aprendizado e
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Germano-Silva/DTIH-Data-Analytics-for-Management/blob/main/LICENSE) para mais detalhes.
+
+
+## 👨‍💻 Autor 
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/104945531?v=4" alt="Germano Silva" width="100" />
+  <br>
+  <strong>Germano Silva</strong>
+  <br>
+  <em>"Dados são a linguagem do futuro. E o futuro é diverso."</em> – Lynn Conway
+</div>
+
+<div align="center">
+  <a href="https://github.com/Germano-Silva">GitHub</a> •
+  <a href="https://linkedin.com/in/germano-silva">LinkedIn</a>
+</div>
 
 ---
 
