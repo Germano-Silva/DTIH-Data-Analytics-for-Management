@@ -859,8 +859,7 @@ A coluna apresentou preenchimento completo (100%), sem valores nulos ou vazios. 
 
 ### 2.3 Colunas mais relevantes
 
-No modelo estrela desenvolvido, as tabelas **dimensionais** (`Dim_Pessoa`, `Dim_Empresa`, `Dim_Geografia`, `Dim_Tempo`, `Dim_Cargo` e `Dim_Setor`) fornecem informações descritivas, enquanto a tabela **fato** (`Fact_Contatos`) captura os eventos de interação entre pessoas e empresas. Conforme podemos ver na imagem abaixo:
-![Diagrama](<diagram _ Mermaid.png>)
+No modelo estrela desenvolvido, as tabelas **dimensionais** (`Dim_Pessoa`, `Dim_Empresa`, `Dim_Geografia`, `Dim_Tempo`, `Dim_Cargo` e `Dim_Setor`) fornecem informações descritivas, enquanto a tabela **fato** (`Fact_Contatos`) captura os eventos de interação entre pessoas e empresas.
 
 ```mermaid
    erDiagram
@@ -928,6 +927,8 @@ No modelo estrela desenvolvido, as tabelas **dimensionais** (`Dim_Pessoa`, `Dim_
       }
 
 ```
+
+
 Também disponivel no [link.](https://www.mermaidchart.com/app/projects/08de3bc0-6499-4745-b968-ac650055e4de/diagrams/3d4ca5b8-d26a-412b-9832-be5e30096eb1/version/v0.1/edit)
 
 As principais colunas que agregam valor estratégico são:
