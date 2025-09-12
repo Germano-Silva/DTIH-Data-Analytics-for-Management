@@ -1,0 +1,1028 @@
+País,Problemas_Pais,Pais_Extraido_Localizacao,Consistencia_Pais,Pais_Padronizado_Temp,Validade_Pais,País_Corrigido,Validade_Pais_Corrigido
+Lithuania,['OK'],Lithuania,Consistente,Lithuania,Válido,Lithuania,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Turkey,Apenas Localização tem país,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Turkey,Apenas Localização tem país,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Lithuania,Apenas Localização tem país,,Inválido (vazio),Lithuania,Válido
+,['Vazio/Nulo'],Lithuania,Apenas Localização tem país,,Inválido (vazio),Lithuania,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+Ireland,['OK'],,Apenas País preenchido,Ireland,Válido,Ireland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],China,Apenas Localização tem país,,Inválido (vazio),China,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Ireland,['OK'],Ireland,Consistente,Ireland,Válido,Ireland,Válido
+Ireland,['OK'],Ireland,Consistente,Ireland,Válido,Ireland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Luxembourg,['OK'],Luxembourg,Consistente,Luxembourg,Válido,Luxembourg,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Belgium,Apenas Localização tem país,,Inválido (vazio),Belgium,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Mexico,Apenas Localização tem país,,Inválido (vazio),Mexico,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Gibraltar,['OK'],,Apenas País preenchido,Gibraltar,Possivelmente inválido,Gibraltar,Válido
+Gibraltar,['OK'],,Apenas País preenchido,Gibraltar,Possivelmente inválido,Gibraltar,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Belgium,['OK'],,Apenas País preenchido,Belgium,Válido,Belgium,Válido
+Belgium,['OK'],,Apenas País preenchido,Belgium,Válido,Belgium,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Singapore,['OK'],,Apenas País preenchido,Singapore,Possivelmente inválido,Singapore,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Ireland,['OK'],Ireland,Consistente,Ireland,Válido,Ireland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Austria,Apenas Localização tem país,,Inválido (vazio),Austria,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Australia,Apenas Localização tem país,,Inválido (vazio),Australia,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Switzerland,Apenas Localização tem país,,Inválido (vazio),Switzerland,Válido
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+Estonia,['OK'],,Apenas País preenchido,Estonia,Válido,Estonia,Válido
+,['Vazio/Nulo'],Denmark,Apenas Localização tem país,,Inválido (vazio),Denmark,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Belgium,Apenas Localização tem país,,Inválido (vazio),Belgium,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],New Zealand,Apenas Localização tem país,,Inválido (vazio),New Zealand,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Argentina,['OK'],,Apenas País preenchido,Argentina,Válido,Argentina,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+Pakistan,['OK'],Pakistan,Consistente,Pakistan,Possivelmente inválido,Pakistan,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Ireland,['OK'],,Apenas País preenchido,Ireland,Válido,Ireland,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+United States,['OK'],,Apenas País preenchido,United States,Válido,United States,Válido
+United States,['OK'],,Apenas País preenchido,United States,Válido,United States,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],South Africa,Apenas Localização tem país,,Inválido (vazio),South Africa,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+Russia,['OK'],Russia,Consistente,Russia,Válido,Russia,Inválido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Allemagne,Inconsistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Argentina,['OK'],,Apenas País preenchido,Argentina,Válido,Argentina,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Switzerland,['OK'],,Apenas País preenchido,Switzerland,Válido,Switzerland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Egypt,['OK'],,Apenas País preenchido,Egypt,Possivelmente inválido,Egypt,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+India,['OK'],India,Consistente,India,Válido,India,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Switzerland,Apenas Localização tem país,,Inválido (vazio),Switzerland,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Ireland,Apenas Localização tem país,,Inválido (vazio),Ireland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Switzerland,['OK'],Switzerland,Consistente,Switzerland,Válido,Switzerland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Netherlands,['OK'],Netherlands,Consistente,Netherlands,Válido,Netherlands,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Brazil,Apenas Localização tem país,,Inválido (vazio),Brazil,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+India,['OK'],,Apenas País preenchido,India,Válido,India,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Austria,['OK'],Austria,Consistente,Austria,Válido,Austria,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Singapore,['OK'],,Apenas País preenchido,Singapore,Possivelmente inválido,Singapore,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Lithuania,Apenas Localização tem país,,Inválido (vazio),Lithuania,Válido
+,['Vazio/Nulo'],Lithuania,Apenas Localização tem país,,Inválido (vazio),Lithuania,Válido
+,['Vazio/Nulo'],Lithuania,Apenas Localização tem país,,Inválido (vazio),Lithuania,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Luxembourg,['OK'],,Apenas País preenchido,Luxembourg,Válido,Luxembourg,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Ukraine,['OK'],,Apenas País preenchido,Ukraine,Válido,Ukraine,Válido
+Austria,['OK'],,Apenas País preenchido,Austria,Válido,Austria,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+United Arab Emirates,['OK'],,Apenas País preenchido,United Arab Emirates,Possivelmente inválido,United Arab Emirates,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Algeria,['OK'],Algeria,Consistente,Algeria,Possivelmente inválido,Algeria,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Malta,['OK'],,Apenas País preenchido,Malta,Possivelmente inválido,Malta,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],España,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Belgium,['OK'],,Apenas País preenchido,Belgium,Válido,Belgium,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Allemagne,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],Indonesia,Apenas Localização tem país,,Inválido (vazio),Indonesia,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Slovenia,Apenas Localização tem país,,Inválido (vazio),Slovenia,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Japan,Apenas Localização tem país,,Inválido (vazio),Japan,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],Belgium,Apenas Localização tem país,,Inválido (vazio),Belgium,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Belgium,Apenas Localização tem país,,Inválido (vazio),Belgium,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+Madagascar,['OK'],,Apenas País preenchido,Madagascar,Possivelmente inválido,Madagascar,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Latvia,['OK'],,Apenas País preenchido,Latvia,Possivelmente inválido,Latvia,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United States,Apenas Localização tem país,,Inválido (vazio),United States,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Belgium,Apenas Localização tem país,,Inválido (vazio),Belgium,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+United States,['OK'],United States,Consistente,United States,Válido,United States,Válido
+United States,['OK'],United States,Consistente,United States,Válido,United States,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+South Korea,['OK'],,Apenas País preenchido,South Korea,Válido,South Korea,Válido
+South Korea,['OK'],,Apenas País preenchido,South Korea,Válido,South Korea,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+India,['OK'],India,Consistente,India,Válido,India,Válido
+,['Vazio/Nulo'],Bulgarie,Apenas Localização tem país,,Inválido (vazio),Unknown,Unknown
+Ireland,['OK'],Ireland,Consistente,Ireland,Válido,Ireland,Válido
+Switzerland,['OK'],Switzerland,Consistente,Switzerland,Válido,Switzerland,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Arab Emirates,['OK'],,Apenas País preenchido,United Arab Emirates,Possivelmente inválido,United Arab Emirates,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Estonia,['OK'],,Apenas País preenchido,Estonia,Válido,Estonia,Válido
+Israel,['OK'],,Apenas País preenchido,Israel,Possivelmente inválido,Israel,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Hungary,['OK'],Hungary,Consistente,Hungary,Válido,Hungary,Válido
+Austria,['OK'],,Apenas País preenchido,Austria,Válido,Austria,Válido
+Austria,['OK'],,Apenas País preenchido,Austria,Válido,Austria,Válido
+Austria,['OK'],,Apenas País preenchido,Austria,Válido,Austria,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Ireland,['OK'],,Apenas País preenchido,Ireland,Válido,Ireland,Válido
+Venezuela,['OK'],,Apenas País preenchido,Venezuela,Possivelmente inválido,Venezuela,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Moldova,['OK'],,Apenas País preenchido,Moldova,Possivelmente inválido,Moldova,Válido
+,['Vazio/Nulo'],Brasil,Apenas Localização tem país,,Inválido (vazio),Brazil,Válido
+,['Vazio/Nulo'],India,Apenas Localização tem país,,Inválido (vazio),India,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],France,Apenas Localização tem país,,Inválido (vazio),France,Válido
+,['Vazio/Nulo'],Denmark,Apenas Localização tem país,,Inválido (vazio),Denmark,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],Philippines,Apenas Localização tem país,,Inválido (vazio),Philippines,Válido
+,['Vazio/Nulo'],Philippines,Apenas Localização tem país,,Inválido (vazio),Philippines,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Ireland,['OK'],Ireland,Consistente,Ireland,Válido,Ireland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Brazil,['OK'],,Apenas País preenchido,Brazil,Válido,Brazil,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Netherlands,['OK'],,Apenas País preenchido,Netherlands,Válido,Netherlands,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Ireland,['OK'],,Apenas País preenchido,Ireland,Válido,Ireland,Válido
+Ireland,['OK'],,Apenas País preenchido,Ireland,Válido,Ireland,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],United Kingdom,Apenas Localização tem país,,Inválido (vazio),United Kingdom,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+,['Vazio/Nulo'],Germany,Apenas Localização tem país,,Inválido (vazio),Germany,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+Lithuania,['OK'],,Apenas País preenchido,Lithuania,Válido,Lithuania,Válido
+France,['OK'],France,Consistente,France,Válido,France,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+France,['OK'],,Apenas País preenchido,France,Válido,France,Válido
+India,['OK'],India,Consistente,India,Válido,India,Válido
+Greece,['OK'],Greece,Consistente,Greece,Válido,Greece,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Germany,['OK'],,Apenas País preenchido,Germany,Válido,Germany,Válido
+Poland,['OK'],Poland,Consistente,Poland,Válido,Poland,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+Poland,['OK'],,Apenas País preenchido,Poland,Válido,Poland,Válido
+United Kingdom,['OK'],,Apenas País preenchido,United Kingdom,Válido,United Kingdom,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Germany,['OK'],Germany,Consistente,Germany,Válido,Germany,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+United States,['OK'],United States,Consistente,United States,Válido,United States,Válido
+United States,['OK'],United States,Consistente,United States,Válido,United States,Válido
+United Kingdom,['OK'],United Kingdom,Consistente,United Kingdom,Válido,United Kingdom,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+United States,['OK'],United States,Consistente,United States,Válido,United States,Válido
+Brazil,['OK'],Brazil,Consistente,Brazil,Válido,Brazil,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Belgium,Apenas Localização tem país,,Inválido (vazio),Belgium,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Finland,['OK'],,Apenas País preenchido,Finland,Válido,Finland,Válido
+Sweden,['OK'],Sweden,Consistente,Sweden,Válido,Sweden,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Switzerland,['OK'],Switzerland,Consistente,Switzerland,Válido,Switzerland,Válido
+Belgium,['OK'],Belgium,Consistente,Belgium,Válido,Belgium,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Finland,['OK'],,Apenas País preenchido,Finland,Válido,Finland,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Venezuela,['OK'],,Apenas País preenchido,Venezuela,Possivelmente inválido,Venezuela,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Poland,Apenas Localização tem país,,Inválido (vazio),Poland,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Spain,Apenas Localização tem país,,Inválido (vazio),Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+,['Vazio/Nulo'],Chile,Apenas Localização tem país,,Inválido (vazio),Chile,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],Spain,Consistente,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Spain,['OK'],,Apenas País preenchido,Spain,Válido,Spain,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],Mexico,Apenas Localização tem país,,Inválido (vazio),Mexico,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+Mexico,['OK'],Mexico,Consistente,Mexico,Válido,Mexico,Válido
+Mexico,['OK'],Mexico,Consistente,Mexico,Válido,Mexico,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],Mexico,Apenas Localização tem país,,Inválido (vazio),Mexico,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Mexico,Apenas Localização tem país,,Inválido (vazio),Mexico,Válido
+,['Vazio/Nulo'],Netherlands,Apenas Localização tem país,,Inválido (vazio),Netherlands,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],,Apenas País preenchido,Portugal,Válido,Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+Portugal,['OK'],Portugal,Consistente,Portugal,Válido,Portugal,Válido
+,['Vazio/Nulo'],,Ambos nulos,,Inválido (vazio),Unknown,Unknown
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido
+,['Vazio/Nulo'],Portugal,Apenas Localização tem país,,Inválido (vazio),Portugal,Válido

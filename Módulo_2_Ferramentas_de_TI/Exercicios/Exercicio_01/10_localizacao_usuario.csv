@@ -1,0 +1,1028 @@
+Localização,Formato_Localizacao,Pais_Localizacao,Consistencia_Pais_Completa,Problemas_Localizacao,Localização_Padronizada,Cidade_Padronizada,Estado_Padronizado,Pais_Localizacao_Padronizado,Consistencia_Validada
+"Vilnius, Vilniaus, Lithuania","Cidade, Estado, País",Lithuania,Consistente,['OK'],"Vilnius, Vilniaus, Lithuania",Vilnius,Vilniaus,Lithuania,True
+"Bonn, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bonn, North Rhine-Westphalia, Germany",Bonn,North Rhine-Westphalia,Germany,True
+"Mieres del Camino, Principality of Asturias, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Mieres del Camino, Principality of Asturias, Spain",Mieres del Camino,Principality of Asturias,Spain,True
+"Istanbul, Istanbul, Turkey","Cidade, Estado, País",Turkey,Apenas Localização tem país,['OK'],"Istanbul, Istanbul, Turkey",Istanbul,Istanbul,Turkey,True
+"Istanbul, Istanbul, Turkey","Cidade, Estado, País",Turkey,Apenas Localização tem país,['OK'],"Istanbul, Istanbul, Turkey",Istanbul,Istanbul,Turkey,True
+"Liverpool, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Liverpool, England, United Kingdom",Liverpool,England,United Kingdom,True
+"Neufahrn bei Freising, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Neufahrn bei Freising, Bavaria, Germany",Neufahrn bei Freising,Bavaria,Germany,True
+"Castelldefels, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Castelldefels, Catalonia, Spain",Castelldefels,Catalonia,Spain,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Gloucester, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gloucester, England, United Kingdom",Gloucester,England,United Kingdom,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Krzeszowice, Małopolskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Krzeszowice, Małopolskie, Poland",Krzeszowice,Małopolskie,Poland,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Gdynia, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdynia, Pomorskie, Poland",Gdynia,Pomorskie,Poland,True
+"Auneau, Centre-Val de Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Auneau, Centre-Val de Loire, France",Auneau,Centre-Val de Loire,France,True
+"Auneau, Centre-Val de Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Auneau, Centre-Val de Loire, France",Auneau,Centre-Val de Loire,France,True
+"Auneau, Centre-Val de Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Auneau, Centre-Val de Loire, France",Auneau,Centre-Val de Loire,France,True
+Greater Toulouse Metropolitan Area,Apenas País,Greater Toulouse Metropolitan Area,Apenas Localização tem país,['OK'],Greater Toulouse Metropolitan Area,,,Greater Toulouse Metropolitan Area,True
+"Basingstoke, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Basingstoke, England, United Kingdom",Basingstoke,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Zaragoza, Aragon, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Zaragoza, Aragon, Spain",Zaragoza,Aragon,Spain,True
+"Zaragoza, Aragon, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Zaragoza, Aragon, Spain",Zaragoza,Aragon,Spain,True
+"Vilnius, Vilniaus, Lithuania","Cidade, Estado, País",Lithuania,Apenas Localização tem país,['OK'],"Vilnius, Vilniaus, Lithuania",Vilnius,Vilniaus,Lithuania,True
+"Vilnius, Vilniaus, Lithuania","Cidade, Estado, País",Lithuania,Apenas Localização tem país,['OK'],"Vilnius, Vilniaus, Lithuania",Vilnius,Vilniaus,Lithuania,True
+"Liverpool Street, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Liverpool Street, England, United Kingdom",Liverpool Street,England,United Kingdom,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Saarbrücken, Saarland, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Saarbrücken, Saarland, Germany",Saarbrücken,Saarland,Germany,True
+"Saarbrücken, Saarland, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Saarbrücken, Saarland, Germany",Saarbrücken,Saarland,Germany,True
+"Saarbrücken, Saarland, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Saarbrücken, Saarland, Germany",Saarbrücken,Saarland,Germany,True
+"Gdynia, Pomorskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Gdynia, Pomorskie, Poland",Gdynia,Pomorskie,Poland,True
+Greater Nuremberg Metropolitan Area,Apenas País,Greater Nuremberg Metropolitan Area,Inconsistente,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,False
+Greater Nuremberg Metropolitan Area,Apenas País,Greater Nuremberg Metropolitan Area,Inconsistente,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,False
+"Cronton, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Cronton, England, United Kingdom",Cronton,England,United Kingdom,True
+"Chorley, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Chorley, England, United Kingdom",Chorley,England,United Kingdom,True
+"Chafford Hundred, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Chafford Hundred, England, United Kingdom",Chafford Hundred,England,United Kingdom,True
+"Ingolstadt, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Ingolstadt, Bavaria, Germany",Ingolstadt,Bavaria,Germany,True
+"Ingolstadt, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Ingolstadt, Bavaria, Germany",Ingolstadt,Bavaria,Germany,True
+"Ubá, Minas Gerais, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"Ubá, Minas Gerais, Brazil",Ubá,Minas Gerais,Brazil,True
+"Ubá, Minas Gerais, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"Ubá, Minas Gerais, Brazil",Ubá,Minas Gerais,Brazil,True
+Israel,Apenas País,Israel,Apenas Localização tem país,['OK'],Israel,,,Israel,True
+Israel,Apenas País,Israel,Apenas Localização tem país,['OK'],Israel,,,Israel,True
+Israel,Apenas País,Israel,Apenas Localização tem país,['OK'],Israel,,,Israel,True
+"Baduria, West Bengal, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Baduria, West Bengal, India",Baduria,West Bengal,India,True
+"Baduria, West Bengal, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Baduria, West Bengal, India",Baduria,West Bengal,India,True
+Ireland,Apenas País,Ireland,Consistente,['OK'],Ireland,,,Ireland,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"São Paulo, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"São Paulo, São Paulo, Brazil",São Paulo,São Paulo,Brazil,True
+"Marinha Grande, Leiria, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Marinha Grande, Leiria, Portugal",Marinha Grande,Leiria,Portugal,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Gosport, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gosport, England, United Kingdom",Gosport,England,United Kingdom,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"Nordhausen, Thuringia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Nordhausen, Thuringia, Germany",Nordhausen,Thuringia,Germany,True
+"Huangpu District, Shanghai, China","Cidade, Estado, País",China,Apenas Localização tem país,['OK'],"Huangpu District, Shanghai, China",Huangpu District,Shanghai,China,True
+"Wrocław, Dolnośląskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Wrocław, Dolnośląskie, Poland",Wrocław,Dolnośląskie,Poland,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Greater Marseille Metropolitan Area,Apenas País,Greater Marseille Metropolitan Area,Inconsistente,['OK'],Greater Marseille Metropolitan Area,,,Greater Marseille Metropolitan Area,False
+"Nordhofen, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Nordhofen, Rhineland-Palatinate, Germany",Nordhofen,Rhineland-Palatinate,Germany,True
+Greater Lyon Area,Apenas País,Greater Lyon Area,Apenas Localização tem país,['OK'],"Lyon, Auvergne-Rhône-Alpes, France",Lyon,Auvergne-Rhône-Alpes,France,True
+"Gressy, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Gressy, Ile-de-France, France",Gressy,Ile-de-France,France,True
+"São Paulo, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"São Paulo, São Paulo, Brazil",São Paulo,São Paulo,Brazil,True
+"São Paulo, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"São Paulo, São Paulo, Brazil",São Paulo,São Paulo,Brazil,True
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Inconsistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,False
+"St.-Denis, Île-de-France, France","Cidade, Estado, País",France,Consistente,['Caracteres especiais'],"St.-Denis, Ile-de-France, France",St.-Denis,Ile-de-France,France,True
+"Waterloo, Walloon Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Waterloo, Walloon Region, Belgium",Waterloo,Walloon Region,Belgium,True
+"Rostock Area, Germany","Cidade, País",Germany,Apenas Localização tem país,['OK'],"Rostock Area, Germany",Rostock Area,,Germany,True
+"Pau Area, France","Cidade, País",France,Consistente,['OK'],"Pau Area, France",Pau Area,,France,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Apenas Localização tem país,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Apenas Localização tem país,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"Oviedo, Principality of Asturias, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Oviedo, Principality of Asturias, Spain",Oviedo,Principality of Asturias,Spain,True
+"Emsdetten, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Emsdetten, North Rhine-Westphalia, Germany",Emsdetten,North Rhine-Westphalia,Germany,True
+"Emsdetten, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Emsdetten, North Rhine-Westphalia, Germany",Emsdetten,North Rhine-Westphalia,Germany,True
+Greater Oxford Area,Apenas País,Greater Oxford Area,Inconsistente,['OK'],Greater Oxford Area,,,Greater Oxford Area,False
+Greater Oxford Area,Apenas País,Greater Oxford Area,Inconsistente,['OK'],Greater Oxford Area,,,Greater Oxford Area,False
+"Paris 15, Île-de-France, France","Cidade, Estado, País",France,Consistente,['Contém números'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Dublin, County Dublin, Ireland","Cidade, Estado, País",Ireland,Consistente,['OK'],"Dublin, County Dublin, Ireland",Dublin,County Dublin,Ireland,True
+"Dublin, County Dublin, Ireland","Cidade, Estado, País",Ireland,Consistente,['OK'],"Dublin, County Dublin, Ireland",Dublin,County Dublin,Ireland,True
+"South Gyeongsang, South Korea","Cidade, País",South Korea,Apenas Localização tem país,['OK'],"South Gyeongsang, South Korea",South Gyeongsang,,South Korea,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Weiterstadt, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Weiterstadt, Hesse, Germany",Weiterstadt,Hesse,Germany,True
+"Gdańsk, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdańsk, Pomorskie, Poland",Gdańsk,Pomorskie,Poland,True
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Luxembourg, Luxembourg, Luxembourg","Cidade, Estado, País",Luxembourg,Consistente,['OK'],"Luxembourg, Luxembourg, Luxembourg",Luxembourg,Luxembourg,Luxembourg,True
+"Ballyward, Northern Ireland, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Ballyward, Northern Ireland, United Kingdom",Ballyward,Northern Ireland,United Kingdom,True
+"Ballyward, Northern Ireland, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Ballyward, Northern Ireland, United Kingdom",Ballyward,Northern Ireland,United Kingdom,True
+"Ballyward, Northern Ireland, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Ballyward, Northern Ireland, United Kingdom",Ballyward,Northern Ireland,United Kingdom,True
+"Ballyward, Northern Ireland, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Ballyward, Northern Ireland, United Kingdom",Ballyward,Northern Ireland,United Kingdom,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Inconsistente,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,False
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Inconsistente,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+"Lyon Area, France","Cidade, País",France,Consistente,['OK'],"Lyon Area, France",Lyon Area,,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Gdynia, Pomorskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Gdynia, Pomorskie, Poland",Gdynia,Pomorskie,Poland,True
+Greater Bremen Area,Apenas País,Greater Bremen Area,Inconsistente,['OK'],Greater Bremen Area,,,Greater Bremen Area,False
+Greater Bremen Area,Apenas País,Greater Bremen Area,Inconsistente,['OK'],Greater Bremen Area,,,Greater Bremen Area,False
+"Leipzig, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Leipzig, Saxony, Germany",Leipzig,Saxony,Germany,True
+"Leipzig, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Leipzig, Saxony, Germany",Leipzig,Saxony,Germany,True
+"Chelmsford, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Chelmsford, England, United Kingdom",Chelmsford,England,United Kingdom,True
+"Föhren, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Föhren, Rhineland-Palatinate, Germany",Föhren,Rhineland-Palatinate,Germany,True
+"Roßdorf, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Roßdorf, Hesse, Germany",Roßdorf,Hesse,Germany,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+Greater Karlsruhe Area,Apenas País,Greater Karlsruhe Area,Apenas Localização tem país,['OK'],Greater Karlsruhe Area,,,Greater Karlsruhe Area,True
+Spain,Apenas País,Spain,Apenas Localização tem país,['OK'],"Capital, Spain",Capital,,Spain,True
+Spain,Apenas País,Spain,Apenas Localização tem país,['OK'],"Capital, Spain",Capital,,Spain,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Duffel, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Apenas Localização tem país,['OK'],"Duffel, Flemish Region, Belgium",Duffel,Flemish Region,Belgium,True
+Greater Reading Area,Apenas País,Greater Reading Area,Inconsistente,['OK'],Greater Reading Area,,,Greater Reading Area,False
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+Greater Bielefeld Area,Apenas País,Greater Bielefeld Area,Inconsistente,['OK'],Greater Bielefeld Area,,,Greater Bielefeld Area,False
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Lublin, Lubelskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Lublin, Lubelskie, Poland",Lublin,Lubelskie,Poland,True
+"Lublin, Lubelskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Lublin, Lubelskie, Poland",Lublin,Lubelskie,Poland,True
+"La Línea, Andalusia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"La Línea, Andalusia, Spain",La Línea,Andalusia,Spain,True
+Ruhr Region,Apenas País,Ruhr Region,Apenas Localização tem país,['OK'],Ruhr Region,,,Ruhr Region,True
+Ruhr Region,Apenas País,Ruhr Region,Apenas Localização tem país,['OK'],Ruhr Region,,,Ruhr Region,True
+Ruhr Region,Apenas País,Ruhr Region,Apenas Localização tem país,['OK'],Ruhr Region,,,Ruhr Region,True
+Ruhr Region,Apenas País,Ruhr Region,Apenas Localização tem país,['OK'],Ruhr Region,,,Ruhr Region,True
+Ruhr Region,Apenas País,Ruhr Region,Apenas Localização tem país,['OK'],Ruhr Region,,,Ruhr Region,True
+"Waterlooville, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Waterlooville, England, United Kingdom",Waterlooville,England,United Kingdom,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Bordeaux, Nouvelle-Aquitaine, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Bordeaux, Nouvelle-Aquitaine, France",Bordeaux,Nouvelle-Aquitaine,France,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+"Temascalapa, México, Mexico","Cidade, Estado, País",Mexico,Apenas Localização tem país,['OK'],"Temascalapa, México, Mexico",Temascalapa,México,Mexico,True
+"Las Rozas de Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Las Rozas de Madrid, Community of Madrid, Spain",Las Rozas de Madrid,Community of Madrid,Spain,True
+Greater Valencia Metropolitan Area,Apenas País,Greater Valencia Metropolitan Area,Apenas Localização tem país,['OK'],Greater Valencia Metropolitan Area,,,Greater Valencia Metropolitan Area,True
+"Dresden, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Dresden, Saxony, Germany",Dresden,Saxony,Germany,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+"Gibraltar, Gibraltar","Cidade, País",Gibraltar,Consistente,['OK'],"Gibraltar, Gibraltar",Gibraltar,,Gibraltar,True
+"Gibraltar, Gibraltar","Cidade, País",Gibraltar,Consistente,['OK'],"Gibraltar, Gibraltar",Gibraltar,,Gibraltar,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Birmingham, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Birmingham, England, United Kingdom",Birmingham,England,United Kingdom,True
+"Lyon, Auvergne-Rhône-Alpes, France","Cidade, Estado, País",France,Consistente,['OK'],"Lyon, Auvergne-Rhone-Alpes, France",Lyon,Auvergne-Rhone-Alpes,France,True
+"Issy-les-Moulineaux, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Issy-les-Moulineaux, Ile-de-France, France",Issy-les-Moulineaux,Ile-de-France,France,True
+Charleroi Metropolitan Area,Apenas País,Charleroi Metropolitan Area,Inconsistente,['OK'],Charleroi Metropolitan Area,,,Charleroi Metropolitan Area,False
+Charleroi Metropolitan Area,Apenas País,Charleroi Metropolitan Area,Inconsistente,['OK'],Charleroi Metropolitan Area,,,Charleroi Metropolitan Area,False
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Wallingford, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Wallingford, England, United Kingdom",Wallingford,England,United Kingdom,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"Lyon, Auvergne-Rhône-Alpes, France","Cidade, Estado, País",France,Consistente,['OK'],"Lyon, Auvergne-Rhone-Alpes, France",Lyon,Auvergne-Rhone-Alpes,France,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Singapore,Apenas País,Singapore,Consistente,['OK'],Singapore,,,Singapore,True
+"Rueil-Malmaison, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Rueil-Malmaison, Ile-de-France, France",Rueil-Malmaison,Ile-de-France,France,True
+Isle of Man,Apenas País,Isle of Man,Apenas Localização tem país,['OK'],Isle of Man,,,Isle of Man,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Barberà del Vallès, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barberà del Vallès, Catalonia, Spain",Barberà del Vallès,Catalonia,Spain,True
+"Rambouillet, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Rambouillet, Ile-de-France, France",Rambouillet,Ile-de-France,France,True
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Dublin, County Dublin, Ireland","Cidade, Estado, País",Ireland,Consistente,['OK'],"Dublin, County Dublin, Ireland",Dublin,County Dublin,Ireland,True
+Croatia,Apenas País,Croatia,Apenas Localização tem país,['OK'],Croatia,,,Croatia,True
+"Vienna, Vienna, Austria","Cidade, Estado, País",Austria,Apenas Localização tem país,['OK'],"Vienna, Vienna, Austria",Vienna,Vienna,Austria,True
+"Eichwalde, Brandenburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Eichwalde, Brandenburg, Germany",Eichwalde,Brandenburg,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Springwood, Queensland, Australia","Cidade, Estado, País",Australia,Apenas Localização tem país,['OK'],"Springwood, Queensland, Australia",Springwood,Queensland,Australia,True
+Greater Bielefeld Area,Apenas País,Greater Bielefeld Area,Inconsistente,['OK'],Greater Bielefeld Area,,,Greater Bielefeld Area,False
+"Bavaria, Germany","Cidade, País",Germany,Consistente,['OK'],"Bavaria, Germany",Bavaria,,Germany,True
+"Bavaria, Germany","Cidade, País",Germany,Consistente,['OK'],"Bavaria, Germany",Bavaria,,Germany,True
+Wroclaw Metropolitan Area,Apenas País,Wroclaw Metropolitan Area,Inconsistente,['OK'],Wroclaw Metropolitan Area,,,Wroclaw Metropolitan Area,False
+Wroclaw Metropolitan Area,Apenas País,Wroclaw Metropolitan Area,Inconsistente,['OK'],Wroclaw Metropolitan Area,,,Wroclaw Metropolitan Area,False
+"Schwalbach, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Schwalbach, Hesse, Germany",Schwalbach,Hesse,Germany,True
+"Schwalbach, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Schwalbach, Hesse, Germany",Schwalbach,Hesse,Germany,True
+"Ansbach, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Ansbach, Bavaria, Germany",Ansbach,Bavaria,Germany,True
+"Ansbach, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Ansbach, Bavaria, Germany",Ansbach,Bavaria,Germany,True
+Ireland,Apenas País,Ireland,Apenas Localização tem país,['OK'],Ireland,,,Ireland,True
+"Willisau, Lucerne, Switzerland","Cidade, Estado, País",Switzerland,Apenas Localização tem país,['OK'],"Willisau, Lucerne, Switzerland",Willisau,Lucerne,Switzerland,True
+Lithuania,Apenas País,Lithuania,Consistente,['OK'],Lithuania,,,Lithuania,True
+Lithuania,Apenas País,Lithuania,Consistente,['OK'],Lithuania,,,Lithuania,True
+"Böblingen, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Böblingen, Baden-Württemberg, Germany",Böblingen,Baden-Württemberg,Germany,True
+"Mainz, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Mainz, Rhineland-Palatinate, Germany",Mainz,Rhineland-Palatinate,Germany,True
+"Mainz, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Mainz, Rhineland-Palatinate, Germany",Mainz,Rhineland-Palatinate,Germany,True
+"Berlin und Umgebung, Deutschland","Cidade, País",Deutschland,Inconsistente,['OK'],"Berlin und Umgebung, Deutschland",Berlin und Umgebung,,Deutschland,True
+"Berlin und Umgebung, Deutschland","Cidade, País",Deutschland,Inconsistente,['OK'],"Berlin und Umgebung, Deutschland",Berlin und Umgebung,,Deutschland,True
+"Berlin und Umgebung, Deutschland","Cidade, País",Deutschland,Inconsistente,['OK'],"Berlin und Umgebung, Deutschland",Berlin und Umgebung,,Deutschland,True
+"Bochum, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bochum, North Rhine-Westphalia, Germany",Bochum,North Rhine-Westphalia,Germany,True
+"Bochum, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bochum, North Rhine-Westphalia, Germany",Bochum,North Rhine-Westphalia,Germany,True
+"Bochum, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bochum, North Rhine-Westphalia, Germany",Bochum,North Rhine-Westphalia,Germany,True
+Argentina,Apenas País,Argentina,Apenas Localização tem país,['OK'],Argentina,,,Argentina,True
+"Griesheim, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Griesheim, Hesse, Germany",Griesheim,Hesse,Germany,True
+"Griesheim, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Griesheim, Hesse, Germany",Griesheim,Hesse,Germany,True
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Inconsistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,False
+"Zaragoza, Aragon, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Zaragoza, Aragon, Spain",Zaragoza,Aragon,Spain,True
+"Zaragoza, Aragon, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Zaragoza, Aragon, Spain",Zaragoza,Aragon,Spain,True
+"Pabianicki, Łódzkie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Pabianicki, Łódzkie, Poland",Pabianicki,Łódzkie,Poland,True
+"Pabianicki, Łódzkie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Pabianicki, Łódzkie, Poland",Pabianicki,Łódzkie,Poland,True
+"Göttingen, Lower Saxony, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Göttingen, Lower Saxony, Germany",Göttingen,Lower Saxony,Germany,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Chicago, Illinois, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Chicago, Illinois, United States",Chicago,Illinois,United States,True
+"Chicago, Illinois, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Chicago, Illinois, United States",Chicago,Illinois,United States,True
+Tallinn Metropolitan Area,Apenas País,Tallinn Metropolitan Area,Inconsistente,['OK'],Tallinn Metropolitan Area,,,Tallinn Metropolitan Area,False
+"Copenhagen, Capital Region of Denmark, Denmark","Cidade, Estado, País",Denmark,Apenas Localização tem país,['OK'],"Copenhagen, Capital Region of Denmark, Denmark",Copenhagen,Capital Region of Denmark,Denmark,True
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Inconsistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+"Rottenburg, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Rottenburg, Baden-Württemberg, Germany",Rottenburg,Baden-Württemberg,Germany,True
+"Schleswig, Schleswig-Holstein, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Schleswig, Schleswig-Holstein, Germany",Schleswig,Schleswig-Holstein,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+Greater Pittsburgh Area,Apenas País,Greater Pittsburgh Area,Apenas Localização tem país,['OK'],Greater Pittsburgh Area,,,Greater Pittsburgh Area,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Milwaukee, Wisconsin, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Milwaukee, Wisconsin, United States",Milwaukee,Wisconsin,United States,True
+"Mesa, Arizona, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Mesa, Arizona, United States",Mesa,Arizona,United States,True
+"Mesa, Arizona, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Mesa, Arizona, United States",Mesa,Arizona,United States,True
+"Munich Area, Germany","Cidade, País",Germany,Apenas Localização tem país,['OK'],"Munich Area, Germany",Munich Area,,Germany,True
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Apenas Localização tem país,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"Harlow, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Harlow, England, United Kingdom",Harlow,England,United Kingdom,True
+"Sint-Truiden Halmaal, Flanders, Belgium","Cidade, Estado, País",Belgium,Apenas Localização tem país,['OK'],"Sint-Truiden Halmaal, Flanders, Belgium",Sint-Truiden Halmaal,Flanders,Belgium,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Toulouse Area, France","Cidade, País",France,Consistente,['OK'],"Toulouse Area, France",Toulouse Area,,France,True
+United Kingdom,Apenas País,United Kingdom,Apenas Localização tem país,['OK'],United Kingdom,,,United Kingdom,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"Hyderabad, Telangana, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Hyderabad, Telangana, India",Hyderabad,Telangana,India,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Troy, Michigan, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Troy, Michigan, United States",Troy,Michigan,United States,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+"Auckland, Auckland, New Zealand","Cidade, Estado, País",New Zealand,Apenas Localização tem país,['OK'],"Auckland, Auckland, New Zealand",Auckland,Auckland,New Zealand,True
+"Île-de-France, France","Cidade, País",France,Apenas Localização tem país,['OK'],"Ile-de-France, France",Ile-de-France,,France,True
+United Arab Emirates,Apenas País,United Arab Emirates,Apenas Localização tem país,['OK'],United Arab Emirates,,,United Arab Emirates,True
+"Great Wakering, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Great Wakering, England, United Kingdom",Great Wakering,England,United Kingdom,True
+"Berlin Area, Germany","Cidade, País",Germany,Apenas Localização tem país,['OK'],"Berlin Area, Germany",Berlin Area,,Germany,True
+"Gdynia, Pomorskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Gdynia, Pomorskie, Poland",Gdynia,Pomorskie,Poland,True
+"Krefeld, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Krefeld, North Rhine-Westphalia, Germany",Krefeld,North Rhine-Westphalia,Germany,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+"Lyon, Rhône-Alpes, France","Cidade, Estado, País",France,Consistente,['OK'],"Lyon, Rhône-Alpes, France",Lyon,Rhône-Alpes,France,True
+"Montpellier, Languedoc-Roussillon, France","Cidade, Estado, País",France,Consistente,['OK'],"Montpellier, Languedoc-Roussillon, France",Montpellier,Languedoc-Roussillon,France,True
+Greater Montreal Metropolitan Area,Apenas País,Greater Montreal Metropolitan Area,Apenas Localização tem país,['OK'],Greater Montreal Metropolitan Area,,,Greater Montreal Metropolitan Area,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+Lithuania,Apenas País,Lithuania,Apenas Localização tem país,['OK'],Lithuania,,,Lithuania,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Consistente,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+Brussels Metropolitan Area,Apenas País,Brussels Metropolitan Area,Apenas Localização tem país,['OK'],Brussels Metropolitan Area,,,Brussels Metropolitan Area,True
+"Région de Paris, France","Cidade, País",France,Apenas Localização tem país,['OK'],"Région de Paris, France",Région de Paris,,France,True
+"London, Greater London, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, Greater London, United Kingdom",London,Greater London,United Kingdom,True
+"Schöneck, Saxony, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Schöneck, Saxony, Germany",Schöneck,Saxony,Germany,True
+Argentina,Apenas País,Argentina,Consistente,['OK'],Argentina,,,Argentina,True
+Egypt,Apenas País,Egypt,Apenas Localização tem país,['OK'],Egypt,,,Egypt,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Prescot, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Prescot, England, United Kingdom",Prescot,England,United Kingdom,True
+"Manchester Area, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"Manchester Area, United Kingdom",Manchester Area,,United Kingdom,True
+"Swindon, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Swindon, England, United Kingdom",Swindon,England,United Kingdom,True
+"Karlsruhe, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Karlsruhe, Baden-Württemberg, Germany",Karlsruhe,Baden-Württemberg,Germany,True
+"Bengaluru, Karnataka, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Bengaluru, Karnataka, India",Bengaluru,Karnataka,India,True
+"Bengaluru, Karnataka, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Bengaluru, Karnataka, India",Bengaluru,Karnataka,India,True
+"Bengaluru, Karnataka, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Bengaluru, Karnataka, India",Bengaluru,Karnataka,India,True
+"Bengaluru, Karnataka, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Bengaluru, Karnataka, India",Bengaluru,Karnataka,India,True
+"Hyderabad, Telangana, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Hyderabad, Telangana, India",Hyderabad,Telangana,India,True
+India,Apenas País,India,Apenas Localização tem país,['OK'],India,,,India,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+Greater Pittsburgh Area,Apenas País,Greater Pittsburgh Area,Apenas Localização tem país,['OK'],Greater Pittsburgh Area,,,Greater Pittsburgh Area,True
+"Simmerath, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Simmerath, North Rhine-Westphalia, Germany",Simmerath,North Rhine-Westphalia,Germany,True
+"Simmerath, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Simmerath, North Rhine-Westphalia, Germany",Simmerath,North Rhine-Westphalia,Germany,True
+"Gdańsk, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdańsk, Pomorskie, Poland",Gdańsk,Pomorskie,Poland,True
+"Peshawar, Khyber Pakhtunkhwa, Pakistan","Cidade, Estado, País",Pakistan,Consistente,['OK'],"Peshawar, Khyber Pakhtunkhwa, Pakistan",Peshawar,Khyber Pakhtunkhwa,Pakistan,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Inconsistente,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,False
+"Nancy, Grand Est, France","Cidade, Estado, País",France,Consistente,['OK'],"Nancy, Grand Est, France",Nancy,Grand Est,France,True
+Greater Chemnitz Area,Apenas País,Greater Chemnitz Area,Inconsistente,['OK'],Greater Chemnitz Area,,,Greater Chemnitz Area,False
+Cork Metropolitan Area,Apenas País,Cork Metropolitan Area,Inconsistente,['OK'],Cork Metropolitan Area,,,Cork Metropolitan Area,False
+"Seattle, Washington, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Seattle, Washington, United States",Seattle,Washington,United States,True
+"Rio de Janeiro, Rio de Janeiro, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"Rio de Janeiro, Rio de Janeiro, Brazil",Rio de Janeiro,Rio de Janeiro,Brazil,True
+,Vazio,,Apenas País preenchido,['Vazio'],,,,,True
+,Vazio,,Apenas País preenchido,['Vazio'],,,,,True
+"Cologne, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Cologne, North Rhine-Westphalia, Germany",Cologne,North Rhine-Westphalia,Germany,True
+France,Apenas País,France,Apenas Localização tem país,['OK'],"Capital, France",Capital,,France,True
+"Brighton, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Brighton, England, United Kingdom",Brighton,England,United Kingdom,True
+Ghent Metropolitan Area,Apenas País,Ghent Metropolitan Area,Apenas Localização tem país,['OK'],Ghent Metropolitan Area,,,Ghent Metropolitan Area,True
+"Vilniaus, Lithuania","Cidade, País",Lithuania,Consistente,['OK'],"Vilniaus, Lithuania",Vilniaus,,Lithuania,True
+"Bangalore Urban, Karnataka, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Bangalore Urban, Karnataka, India",Bangalore Urban,Karnataka,India,True
+Greater Lyon Area,Apenas País,Greater Lyon Area,Inconsistente,['OK'],"Lyon, Auvergne-Rhône-Alpes, France",Lyon,Auvergne-Rhône-Alpes,France,False
+"Prague, Czechia","Cidade, País",Czechia,Apenas Localização tem país,['OK'],"Prague, Czechia",Prague,,Czechia,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Dudley, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"Dudley, United Kingdom",Dudley,,United Kingdom,True
+Malta,Apenas País,Malta,Apenas Localização tem país,['OK'],Malta,,,Malta,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Poznań, Wielkopolskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Poznań, Wielkopolskie, Poland",Poznań,Wielkopolskie,Poland,True
+"Castelldefels, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Castelldefels, Catalonia, Spain",Castelldefels,Catalonia,Spain,True
+"Caen, Lower Normandy, France","Cidade, Estado, País",France,Consistente,['OK'],"Caen, Lower Normandy, France",Caen,Lower Normandy,France,True
+"Chamalières, Auvergne-Rhône-Alpes, France","Cidade, Estado, País",France,Consistente,['OK'],"Chamalières, Auvergne-Rhone-Alpes, France",Chamalières,Auvergne-Rhone-Alpes,France,True
+"Kiel, Schleswig-Holstein, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Kiel, Schleswig-Holstein, Germany",Kiel,Schleswig-Holstein,Germany,True
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Sainte-Eulalie, Nouvelle-Aquitaine, France","Cidade, Estado, País",France,Consistente,['OK'],"Sainte-Eulalie, Nouvelle-Aquitaine, France",Sainte-Eulalie,Nouvelle-Aquitaine,France,True
+"Newcastle, KwaZulu-Natal, South Africa","Cidade, Estado, País",South Africa,Apenas Localização tem país,['OK'],"Newcastle, KwaZulu-Natal, South Africa",Newcastle,KwaZulu-Natal,South Africa,True
+"Gdańsk, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdańsk, Pomorskie, Poland",Gdańsk,Pomorskie,Poland,True
+"Moscow, Moscow City, Russia","Cidade, Estado, País",Russia,Consistente,['OK'],"Moscow, Moscow City, Russia",Moscow,Moscow City,Russia,True
+"Brussels, Brussels Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Brussels, Brussels Region, Belgium",Brussels,Brussels Region,Belgium,True
+Greater Rennes Metropolitan Area,Apenas País,Greater Rennes Metropolitan Area,Inconsistente,['OK'],Greater Rennes Metropolitan Area,,,Greater Rennes Metropolitan Area,False
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Apenas Localização tem país,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Limoges, Limousin, France","Cidade, Estado, País",France,Consistente,['OK'],"Limoges, Limousin, France",Limoges,Limousin,France,True
+"Limoges, Limousin, France","Cidade, Estado, País",France,Consistente,['OK'],"Limoges, Limousin, France",Limoges,Limousin,France,True
+"Nantes, Pays de la Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Nantes, Pays de la Loire, France",Nantes,Pays de la Loire,France,True
+"Nantes, Pays de la Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Nantes, Pays de la Loire, France",Nantes,Pays de la Loire,France,True
+"Berlin, Berlin, Allemagne","Cidade, Estado, País",Allemagne,Inconsistente,['OK'],"Berlin, Berlin, Allemagne",Berlin,Berlin,Allemagne,False
+"Dartford, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"Dartford, United Kingdom",Dartford,,United Kingdom,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+Argentina,Apenas País,Argentina,Consistente,['OK'],Argentina,,,Argentina,True
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+"Lublin, Lubelskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Lublin, Lubelskie, Poland",Lublin,Lubelskie,Poland,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Slough, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"Slough, United Kingdom",Slough,,United Kingdom,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Lausanne Metropolitan Area,Apenas País,Lausanne Metropolitan Area,Inconsistente,['OK'],Lausanne Metropolitan Area,,,Lausanne Metropolitan Area,False
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"Wielkopolskie, Poland","Cidade, País",Poland,Consistente,['OK'],"Wielkopolskie, Poland",Wielkopolskie,,Poland,True
+"Wielkopolskie, Poland","Cidade, País",Poland,Consistente,['OK'],"Wielkopolskie, Poland",Wielkopolskie,,Poland,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Leipzig, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Leipzig, Saxony, Germany",Leipzig,Saxony,Germany,True
+"Leipzig, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Leipzig, Saxony, Germany",Leipzig,Saxony,Germany,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Apenas Localização tem país,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,True
+Egypt,Apenas País,Egypt,Consistente,['OK'],Egypt,,,Egypt,True
+South Korea,Apenas País,South Korea,Apenas Localização tem país,['OK'],South Korea,,,South Korea,True
+Spain,Apenas País,Spain,Consistente,['OK'],"Capital, Spain",Capital,,Spain,True
+"Leioa, Basque Country, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Leioa, Basque Country, Spain",Leioa,Basque Country,Spain,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Friedberg, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Friedberg, Bavaria, Germany",Friedberg,Bavaria,Germany,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+Greater Blackburn with Darwen Area,Apenas País,Greater Blackburn with Darwen Area,Inconsistente,['OK'],Greater Blackburn with Darwen Area,,,Greater Blackburn with Darwen Area,False
+"Noida, Uttar Pradesh, India","Cidade, Estado, País",India,Consistente,['OK'],"Noida, Uttar Pradesh, India",Noida,Uttar Pradesh,India,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Inconsistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,False
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Inconsistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,False
+"Gondomar, Porto, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Gondomar, Porto, Portugal",Gondomar,Porto,Portugal,True
+Romania,Apenas País,Romania,Apenas Localização tem país,['OK'],Romenia,,,Romenia,True
+Romania,Apenas País,Romania,Apenas Localização tem país,['OK'],Romenia,,,Romenia,True
+"Le Plessis-Robinson, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Le Plessis-Robinson, Ile-de-France, France",Le Plessis-Robinson,Ile-de-France,France,True
+"Crépy-en-Valois, Picardy, France","Cidade, Estado, País",France,Consistente,['OK'],"Crépy-en-Valois, Picardy, France",Crépy-en-Valois,Picardy,France,True
+"Gent Area, Belgium","Cidade, País",Belgium,Apenas Localização tem país,['OK'],"Gent Area, Belgium",Gent Area,,Belgium,True
+"Berlin Area, Germany","Cidade, País",Germany,Consistente,['OK'],"Berlin Area, Germany",Berlin Area,,Germany,True
+"Gamston, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Gamston, England, United Kingdom",Gamston,England,United Kingdom,True
+Ireland,Apenas País,Ireland,Apenas Localização tem país,['OK'],Ireland,,,Ireland,True
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Blagnac, Midi-Pyrénées, France","Cidade, Estado, País",France,Consistente,['OK'],"Blagnac, Midi-Pyrénées, France",Blagnac,Midi-Pyrénées,France,True
+Mauritius,Apenas País,Mauritius,Apenas Localização tem país,['OK'],Mauritius,,,Mauritius,True
+"Frankfurt, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Frankfurt, Hesse, Germany",Frankfurt,Hesse,Germany,True
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Hendersonville, Tennessee, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Hendersonville, Tennessee, United States",Hendersonville,Tennessee,United States,True
+Estonia,Apenas País,Estonia,Apenas Localização tem país,['OK'],Estonia,,,Estonia,True
+"Ulverston, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Ulverston, England, United Kingdom",Ulverston,England,United Kingdom,True
+"Bern, Berne, Switzerland","Cidade, Estado, País",Switzerland,Apenas Localização tem país,['OK'],"Bern, Berne, Switzerland",Bern,Berne,Switzerland,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Rochester, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"Rochester, United Kingdom",Rochester,,United Kingdom,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+"Nuremberg, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Nuremberg, Bavaria, Germany",Nuremberg,Bavaria,Germany,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+"Wingfield, Wiltshire, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Wingfield, Wiltshire, United Kingdom",Wingfield,Wiltshire,United Kingdom,True
+"Cork, County Cork, Ireland","Cidade, Estado, País",Ireland,Apenas Localização tem país,['OK'],"Cork, County Cork, Ireland",Cork,County Cork,Ireland,True
+Rwanda,Apenas País,Rwanda,Apenas Localização tem país,['OK'],Rwanda,,,Rwanda,True
+"Casablanca, Morocco","Cidade, País",Morocco,Apenas Localização tem país,['OK'],"Casablanca, Morocco",Casablanca,,Morocco,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"London Area, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"London Area, United Kingdom",London Area,,United Kingdom,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Redhill, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Redhill, England, United Kingdom",Redhill,England,United Kingdom,True
+"Bournemouth, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"Bournemouth, United Kingdom",Bournemouth,,United Kingdom,True
+"Montauban Area, France","Cidade, País",France,Consistente,['OK'],"Montauban Area, France",Montauban Area,,France,True
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+"Peterborough, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Peterborough, England, United Kingdom",Peterborough,England,United Kingdom,True
+"Heitersheim, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Heitersheim, Baden-Württemberg, Germany",Heitersheim,Baden-Württemberg,Germany,True
+"Meyrin, Geneva, Switzerland","Cidade, Estado, País",Switzerland,Consistente,['OK'],"Meyrin, Geneva, Switzerland",Meyrin,Geneva,Switzerland,True
+Pakistan,Apenas País,Pakistan,Apenas Localização tem país,['OK'],Pakistan,,,Pakistan,True
+"Darlington, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Darlington, England, United Kingdom",Darlington,England,United Kingdom,True
+Piotrków Trybunalski Metropolitan Area,Apenas País,Piotrków Trybunalski Metropolitan Area,Apenas Localização tem país,['OK'],Piotrków Trybunalski Metropolitan Area,,,Piotrków Trybunalski Metropolitan Area,True
+Ireland,Apenas País,Ireland,Apenas Localização tem país,['OK'],Ireland,,,Ireland,True
+"Hagen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hagen, North Rhine-Westphalia, Germany",Hagen,North Rhine-Westphalia,Germany,True
+India,Apenas País,India,Apenas Localização tem país,['OK'],India,,,India,True
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Amsterdam, North Holland, Netherlands","Cidade, Estado, País",Netherlands,Consistente,['OK'],"Amsterdam, North Holland, Netherlands",Amsterdam,North Holland,Netherlands,True
+"Regensburg, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Regensburg, Bavaria, Germany",Regensburg,Bavaria,Germany,True
+"Passau, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Passau, Bavaria, Germany",Passau,Bavaria,Germany,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+Greater Lyon Area,Apenas País,Greater Lyon Area,Inconsistente,['OK'],"Lyon, Auvergne-Rhône-Alpes, France",Lyon,Auvergne-Rhône-Alpes,France,False
+Greater Lyon Area,Apenas País,Greater Lyon Area,Inconsistente,['OK'],"Lyon, Auvergne-Rhône-Alpes, France",Lyon,Auvergne-Rhône-Alpes,France,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Rueil-Malmaison, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Rueil-Malmaison, Ile-de-France, France",Rueil-Malmaison,Ile-de-France,France,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Hasselt, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Hasselt, Flemish Region, Belgium",Hasselt,Flemish Region,Belgium,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+"Cologne, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Cologne, North Rhine-Westphalia, Germany",Cologne,North Rhine-Westphalia,Germany,True
+"Frankfurt, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Frankfurt, Hesse, Germany",Frankfurt,Hesse,Germany,True
+Croatia,Apenas País,Croatia,Apenas Localização tem país,['OK'],Croatia,,,Croatia,True
+"Guará, Federal District, Brazil","Cidade, Estado, País",Brazil,Apenas Localização tem país,['OK'],"Guará, Federal District, Brazil",Guará,Federal District,Brazil,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Apenas Localização tem país,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Apenas Localização tem país,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Osnabrück, Lower Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Osnabrück, Lower Saxony, Germany",Osnabrück,Lower Saxony,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Inconsistente,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,False
+Stuttgart Region,Apenas País,Stuttgart Region,Apenas Localização tem país,['OK'],Stuttgart Region,,,Stuttgart Region,True
+"Cologne, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Cologne, North Rhine-Westphalia, Germany",Cologne,North Rhine-Westphalia,Germany,True
+"Cologne, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Cologne, North Rhine-Westphalia, Germany",Cologne,North Rhine-Westphalia,Germany,True
+"Essen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Essen, North Rhine-Westphalia, Germany",Essen,North Rhine-Westphalia,Germany,True
+"Cambridge, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"Cambridge, United Kingdom",Cambridge,,United Kingdom,True
+"Wrocław, Dolnośląskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Wrocław, Dolnośląskie, Poland",Wrocław,Dolnośląskie,Poland,True
+"Châtenay-en-France, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Châtenay-en-France, Ile-de-France, France",Châtenay-en-France,Ile-de-France,France,True
+Russia,Apenas País,Russia,Apenas Localização tem país,['OK'],Russia,,,Russia,True
+"Nordhausen, Thuringia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Nordhausen, Thuringia, Germany",Nordhausen,Thuringia,Germany,True
+Malta,Apenas País,Malta,Apenas Localização tem país,['OK'],Malta,,,Malta,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London Area, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"London Area, United Kingdom",London Area,,United Kingdom,True
+Greater Málaga Metropolitan Area,Apenas País,Greater Málaga Metropolitan Area,Apenas Localização tem país,['OK'],Greater Málaga Metropolitan Area,,,Greater Málaga Metropolitan Area,True
+Spain,Apenas País,Spain,Consistente,['OK'],"Capital, Spain",Capital,,Spain,True
+"Mandres-les-Roses, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Mandres-les-Roses, Ile-de-France, France",Mandres-les-Roses,Ile-de-France,France,True
+Bulgaria,Apenas País,Bulgaria,Apenas Localização tem país,['OK'],Bulgaria,,,Bulgaria,True
+Israel,Apenas País,Israel,Apenas Localização tem país,['OK'],Israel,,,Israel,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Aachen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Aachen, North Rhine-Westphalia, Germany",Aachen,North Rhine-Westphalia,Germany,True
+"Greater Northampton Area, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"Greater Northampton Area, United Kingdom",Greater Northampton Area,,United Kingdom,True
+"Thane, Maharashtra, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Thane, Maharashtra, India",Thane,Maharashtra,India,True
+"Münster, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Münster, North Rhine-Westphalia, Germany",Münster,North Rhine-Westphalia,Germany,True
+"Übach-Palenberg, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Übach-Palenberg, North Rhine-Westphalia, Germany",Übach-Palenberg,North Rhine-Westphalia,Germany,True
+India,Apenas País,India,Consistente,['OK'],India,,,India,True
+"São Paulo, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"São Paulo, São Paulo, Brazil",São Paulo,São Paulo,Brazil,True
+"Edinburgh, Scotland, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Edinburgh, Scotland, United Kingdom",Edinburgh,Scotland,United Kingdom,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Graz, Styria, Austria","Cidade, Estado, País",Austria,Consistente,['OK'],"Graz, Styria, Austria",Graz,Styria,Austria,True
+"Greater Northampton Area, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"Greater Northampton Area, United Kingdom",Greater Northampton Area,,United Kingdom,True
+"Greater Northampton Area, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"Greater Northampton Area, United Kingdom",Greater Northampton Area,,United Kingdom,True
+"Edinburgh, Scotland, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Edinburgh, Scotland, United Kingdom",Edinburgh,Scotland,United Kingdom,True
+Singapore,Apenas País,Singapore,Consistente,['OK'],Singapore,,,Singapore,True
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Vilnius, Vilniaus, Lithuania","Cidade, Estado, País",Lithuania,Apenas Localização tem país,['OK'],"Vilnius, Vilniaus, Lithuania",Vilnius,Vilniaus,Lithuania,True
+"Vilnius, Vilniaus, Lithuania","Cidade, Estado, País",Lithuania,Apenas Localização tem país,['OK'],"Vilnius, Vilniaus, Lithuania",Vilnius,Vilniaus,Lithuania,True
+"Vilnius, Vilniaus, Lithuania","Cidade, Estado, País",Lithuania,Apenas Localização tem país,['OK'],"Vilnius, Vilniaus, Lithuania",Vilnius,Vilniaus,Lithuania,True
+"Wealden, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Wealden, England, United Kingdom",Wealden,England,United Kingdom,True
+Lithuania,Apenas País,Lithuania,Consistente,['OK'],Lithuania,,,Lithuania,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"St.-Maur-des-Fossés, Île-de-France, France","Cidade, Estado, País",France,Consistente,['Caracteres especiais'],"St.-Maur-des-Fossés, Ile-de-France, France",St.-Maur-des-Fossés,Ile-de-France,France,True
+"Münster, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Münster, North Rhine-Westphalia, Germany",Münster,North Rhine-Westphalia,Germany,True
+"Grevenbroich, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Grevenbroich, North Rhine-Westphalia, Germany",Grevenbroich,North Rhine-Westphalia,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Oeiras, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Oeiras, Lisbon, Portugal",Oeiras,Lisbon,Portugal,True
+Luxembourg,Apenas País,Luxembourg,Consistente,['OK'],Luxembourg,,,Luxembourg,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+"Massy, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Massy, Ile-de-France, France",Massy,Ile-de-France,France,True
+Stuttgart Region,Apenas País,Stuttgart Region,Inconsistente,['OK'],Stuttgart Region,,,Stuttgart Region,False
+Stuttgart Region,Apenas País,Stuttgart Region,Inconsistente,['OK'],Stuttgart Region,,,Stuttgart Region,False
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Milton Keynes, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Milton Keynes, England, United Kingdom",Milton Keynes,England,United Kingdom,True
+"Acton, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Acton, England, United Kingdom",Acton,England,United Kingdom,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+"Bavière, Allemagne","Cidade, País",Allemagne,Apenas Localização tem país,['OK'],"Bavière, Allemagne",Bavière,,Allemagne,True
+"Cottenham, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Cottenham, England, United Kingdom",Cottenham,England,United Kingdom,True
+Ukraine,Apenas País,Ukraine,Consistente,['OK'],Ukraine,,,Ukraine,True
+Austria,Apenas País,Austria,Consistente,['OK'],Austria,,,Austria,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+"Langenfeld, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Langenfeld, North Rhine-Westphalia, Germany",Langenfeld,North Rhine-Westphalia,Germany,True
+"Langenfeld, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Langenfeld, North Rhine-Westphalia, Germany",Langenfeld,North Rhine-Westphalia,Germany,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Consistente,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+Greater Nantes Metropolitan Area,Apenas País,Greater Nantes Metropolitan Area,Inconsistente,['OK'],Greater Nantes Metropolitan Area,,,Greater Nantes Metropolitan Area,False
+"Gdynia, Pomorskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Gdynia, Pomorskie, Poland",Gdynia,Pomorskie,Poland,True
+"Tadley, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Tadley, England, United Kingdom",Tadley,England,United Kingdom,True
+France,Apenas País,France,Apenas Localização tem país,['OK'],"Capital, France",Capital,,France,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Kippax, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Kippax, England, United Kingdom",Kippax,England,United Kingdom,True
+"Poznań, Wielkopolskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Poznań, Wielkopolskie, Poland",Poznań,Wielkopolskie,Poland,True
+United Kingdom,Apenas País,United Kingdom,Apenas Localização tem país,['OK'],United Kingdom,,,United Kingdom,True
+"Bilbao, Basque Country, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Bilbao, Basque Country, Spain",Bilbao,Basque Country,Spain,True
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Dubai, United Arab Emirates","Cidade, País",United Arab Emirates,Consistente,['OK'],"Dubai, United Arab Emirates",Dubai,,United Arab Emirates,True
+"Freiburg, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Freiburg, Baden-Württemberg, Germany",Freiburg,Baden-Württemberg,Germany,True
+United Kingdom,Apenas País,United Kingdom,Apenas Localização tem país,['OK'],United Kingdom,,,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+Lithuania,Apenas País,Lithuania,Apenas Localização tem país,['OK'],Lithuania,,,Lithuania,True
+"Almada, Setúbal, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Almada, Setúbal, Portugal",Almada,Setúbal,Portugal,True
+"Herzogenaurach, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Herzogenaurach, Bavaria, Germany",Herzogenaurach,Bavaria,Germany,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Inconsistente,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,False
+"Fulda, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Fulda, Hesse, Germany",Fulda,Hesse,Germany,True
+"Fulda, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Fulda, Hesse, Germany",Fulda,Hesse,Germany,True
+"Leipzig, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Leipzig, Saxony, Germany",Leipzig,Saxony,Germany,True
+"Slough, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Slough, England, United Kingdom",Slough,England,United Kingdom,True
+"Liège, Walloon Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Liège, Walloon Region, Belgium",Liège,Walloon Region,Belgium,True
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Burj Al Kifan, Algiers, Algeria","Cidade, Estado, País",Algeria,Consistente,['OK'],"Burj Al Kifan, Algiers, Algeria",Burj Al Kifan,Algiers,Algeria,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Weilburg, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Weilburg, Hesse, Germany",Weilburg,Hesse,Germany,True
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Aachen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Aachen, North Rhine-Westphalia, Germany",Aachen,North Rhine-Westphalia,Germany,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Chanteloup-les-Vignes, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Chanteloup-les-Vignes, Ile-de-France, France",Chanteloup-les-Vignes,Ile-de-France,France,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Bourne, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Bourne, England, United Kingdom",Bourne,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Sutton Coldfield, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Sutton Coldfield, England, United Kingdom",Sutton Coldfield,England,United Kingdom,True
+"Alzey, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Alzey, Rhineland-Palatinate, Germany",Alzey,Rhineland-Palatinate,Germany,True
+"Bad Salzdetfurth, Lower Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bad Salzdetfurth, Lower Saxony, Germany",Bad Salzdetfurth,Lower Saxony,Germany,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Bordeaux, Nouvelle-Aquitaine, France","Cidade, Estado, País",France,Consistente,['OK'],"Bordeaux, Nouvelle-Aquitaine, France",Bordeaux,Nouvelle-Aquitaine,France,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"São Paulo, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"São Paulo, São Paulo, Brazil",São Paulo,São Paulo,Brazil,True
+"São Paulo, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"São Paulo, São Paulo, Brazil",São Paulo,São Paulo,Brazil,True
+Israel,Apenas País,Israel,Apenas Localização tem país,['OK'],Israel,,,Israel,True
+"Sliema, Malta","Cidade, País",Malta,Consistente,['OK'],"Sliema, Malta",Sliema,,Malta,True
+"Sittingbourne, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Sittingbourne, England, United Kingdom",Sittingbourne,England,United Kingdom,True
+Greater Bremen Area,Apenas País,Greater Bremen Area,Apenas Localização tem país,['OK'],Greater Bremen Area,,,Greater Bremen Area,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+"Aulnay-sous-Bois, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Aulnay-sous-Bois, Ile-de-France, France",Aulnay-sous-Bois,Ile-de-France,France,True
+"Aulnay-sous-Bois, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Aulnay-sous-Bois, Ile-de-France, France",Aulnay-sous-Bois,Ile-de-France,France,True
+"Barcelona, Cataluña, España","Cidade, Estado, País",España,Apenas Localização tem país,['OK'],"Barcelona, Cataluña, España",Barcelona,Cataluña,España,True
+France,Apenas País,France,Apenas Localização tem país,['OK'],"Capital, France",Capital,,France,True
+Bruxelles et périphérie,Apenas País,Bruxelles et périphérie,Inconsistente,['OK'],Brussels et périphérie,,,Brussels et périphérie,False
+"Madrid, Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Madrid, Spain",Madrid,Madrid,Spain,True
+"Nuremberg, Bavière, Allemagne","Cidade, Estado, País",Allemagne,Apenas Localização tem país,['OK'],"Nuremberg, Bavière, Allemagne",Nuremberg,Bavière,Allemagne,True
+"Bogor, West Java, Indonesia","Cidade, Estado, País",Indonesia,Apenas Localização tem país,['OK'],"Bogor, West Java, Indonesia",Bogor,West Java,Indonesia,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+Dresde et périphérie,Apenas País,Dresde et périphérie,Apenas Localização tem país,['OK'],Dresde et périphérie,,,Dresde et périphérie,True
+"Maribor, Maribor, Slovenia","Cidade, Estado, País",Slovenia,Apenas Localização tem país,['OK'],"Maribor, Maribor, Slovenia",Maribor,Maribor,Slovenia,True
+"Montmorency, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Montmorency, Ile-de-France, France",Montmorency,Ile-de-France,France,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Indore, Madhya Pradesh, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Indore, Madhya Pradesh, India",Indore,Madhya Pradesh,India,True
+"Nantes, Pays de la Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Nantes, Pays de la Loire, France",Nantes,Pays de la Loire,France,True
+Serbia,Apenas País,Serbia,Apenas Localização tem país,['OK'],Serbia,,,Serbia,True
+"Yokohama, Kanagawa, Japan","Cidade, Estado, País",Japan,Apenas Localização tem país,['OK'],"Yokohama, Kanagawa, Japan",Yokohama,Kanagawa,Japan,True
+Greater Dublin,Apenas País,Greater Dublin,Apenas Localização tem país,['OK'],Greater Dublin,,,Greater Dublin,True
+"Longridge, Scotland, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Longridge, Scotland, United Kingdom",Longridge,Scotland,United Kingdom,True
+"Landen, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Apenas Localização tem país,['OK'],"Landen, Flemish Region, Belgium",Landen,Flemish Region,Belgium,True
+Brussels Metropolitan Area,Apenas País,Brussels Metropolitan Area,Apenas Localização tem país,['OK'],Brussels Metropolitan Area,,,Brussels Metropolitan Area,True
+"Brussels Region, Belgium","Cidade, País",Belgium,Apenas Localização tem país,['OK'],"Brussels Region, Belgium",Brussels Region,,Belgium,True
+"Charleroi, Walloon Region, Belgium","Cidade, Estado, País",Belgium,Apenas Localização tem país,['OK'],"Charleroi, Walloon Region, Belgium",Charleroi,Walloon Region,Belgium,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Greater Northampton Area, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"Greater Northampton Area, United Kingdom",Greater Northampton Area,,United Kingdom,True
+"Nancy, Grand Est, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Nancy, Grand Est, France",Nancy,Grand Est,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+Namur Metropolitan Area,Apenas País,Namur Metropolitan Area,Apenas Localização tem país,['OK'],Namur Metropolitan Area,,,Namur Metropolitan Area,True
+"Voiron, Auvergne-Rhône-Alpes, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Voiron, Auvergne-Rhone-Alpes, France",Voiron,Auvergne-Rhone-Alpes,France,True
+"Cologne, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Cologne, North Rhine-Westphalia, Germany",Cologne,North Rhine-Westphalia,Germany,True
+"Worcester City, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Worcester City, England, United Kingdom",Worcester City,England,United Kingdom,True
+"Worcester City, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Worcester City, England, United Kingdom",Worcester City,England,United Kingdom,True
+Greater Toulouse Metropolitan Area,Apenas País,Greater Toulouse Metropolitan Area,Apenas Localização tem país,['OK'],Greater Toulouse Metropolitan Area,,,Greater Toulouse Metropolitan Area,True
+El Salvador,Apenas País,El Salvador,Apenas Localização tem país,['OK'],El Salvador,,,El Salvador,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+Greater Nice Metropolitan Area,Apenas País,Greater Nice Metropolitan Area,Inconsistente,['OK'],Greater Nice Metropolitan Area,,,Greater Nice Metropolitan Area,False
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Bordeaux, Nouvelle-Aquitaine, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Bordeaux, Nouvelle-Aquitaine, France",Bordeaux,Nouvelle-Aquitaine,France,True
+Madagascar,Apenas País,Madagascar,Consistente,['OK'],Madagascar,,,Madagascar,True
+"Porto, Porto, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Porto, Porto, Portugal",Porto,Porto,Portugal,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Riga, Latvia","Cidade, País",Latvia,Consistente,['OK'],"Riga, Latvia",Riga,,Latvia,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+"Cluj, Romania","Cidade, País",Romania,Apenas Localização tem país,['OK'],"Cluj, Romenia",Cluj,,Romenia,True
+Greater Bremen Area,Apenas País,Greater Bremen Area,Apenas Localização tem país,['OK'],Greater Bremen Area,,,Greater Bremen Area,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+Lithuania,Apenas País,Lithuania,Apenas Localização tem país,['OK'],Lithuania,,,Lithuania,True
+Lithuania,Apenas País,Lithuania,Apenas Localização tem país,['OK'],Lithuania,,,Lithuania,True
+Greece,Apenas País,Greece,Apenas Localização tem país,['OK'],Greece,,,Greece,True
+"Derby, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Derby, England, United Kingdom",Derby,England,United Kingdom,True
+"Plattling, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Plattling, Bavaria, Germany",Plattling,Bavaria,Germany,True
+"Plattling, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Plattling, Bavaria, Germany",Plattling,Bavaria,Germany,True
+Lithuania,Apenas País,Lithuania,Apenas Localização tem país,['OK'],Lithuania,,,Lithuania,True
+"Dresden, Saxony, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Dresden, Saxony, Germany",Dresden,Saxony,Germany,True
+"Cologne, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Cologne, North Rhine-Westphalia, Germany",Cologne,North Rhine-Westphalia,Germany,True
+"Bromley, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Bromley, England, United Kingdom",Bromley,England,United Kingdom,True
+Cracow Metropolitan Area,Apenas País,Cracow Metropolitan Area,Apenas Localização tem país,['OK'],Cracow Metropolitan Area,,,Cracow Metropolitan Area,True
+Serbia,Apenas País,Serbia,Apenas Localização tem país,['OK'],Serbia,,,Serbia,True
+"Marburg an der Lahn, Hesse, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Marburg an der Lahn, Hesse, Germany",Marburg an der Lahn,Hesse,Germany,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+"Reno, Nevada, United States","Cidade, Estado, País",United States,Apenas Localização tem país,['OK'],"Reno, Nevada, United States",Reno,Nevada,United States,True
+,Vazio,,Ambos nulos,['Vazio'],,,,,True
+Wroclaw Metropolitan Area,Apenas País,Wroclaw Metropolitan Area,Apenas Localização tem país,['OK'],Wroclaw Metropolitan Area,,,Wroclaw Metropolitan Area,True
+Wroclaw Metropolitan Area,Apenas País,Wroclaw Metropolitan Area,Apenas Localização tem país,['OK'],Wroclaw Metropolitan Area,,,Wroclaw Metropolitan Area,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+Greater Bordeaux Metropolitan Area,Apenas País,Greater Bordeaux Metropolitan Area,Inconsistente,['OK'],Greater Bordeaux Metropolitan Area,,,Greater Bordeaux Metropolitan Area,False
+Greater Lille Metropolitan Area,Apenas País,Greater Lille Metropolitan Area,Inconsistente,['OK'],Greater Lille Metropolitan Area,,,Greater Lille Metropolitan Area,False
+"Lyon, Auvergne-Rhône-Alpes, France","Cidade, Estado, País",France,Consistente,['OK'],"Lyon, Auvergne-Rhone-Alpes, France",Lyon,Auvergne-Rhone-Alpes,France,True
+"Bourgogne-Franche-Comté, France","Cidade, País",France,Consistente,['OK'],"Bourgogne-Franche-Comté, France",Bourgogne-Franche-Comté,,France,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+Lodz Metropolitan Area,Apenas País,Lodz Metropolitan Area,Inconsistente,['OK'],Lodz Metropolitan Area,,,Lodz Metropolitan Area,False
+"Stuttgart, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Stuttgart, Baden-Württemberg, Germany",Stuttgart,Baden-Württemberg,Germany,True
+"Metz, Grand Est, France","Cidade, Estado, País",France,Consistente,['OK'],"Metz, Grand Est, France",Metz,Grand Est,France,True
+"Metz, Grand Est, France","Cidade, Estado, País",France,Consistente,['OK'],"Metz, Grand Est, France",Metz,Grand Est,France,True
+"Bamberg, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bamberg, Bavaria, Germany",Bamberg,Bavaria,Germany,True
+"Bamberg, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Bamberg, Bavaria, Germany",Bamberg,Bavaria,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Dortmund, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Dortmund, North Rhine-Westphalia, Germany",Dortmund,North Rhine-Westphalia,Germany,True
+"Dortmund, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Dortmund, North Rhine-Westphalia, Germany",Dortmund,North Rhine-Westphalia,Germany,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Hasselt, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Apenas Localização tem país,['OK'],"Hasselt, Flemish Region, Belgium",Hasselt,Flemish Region,Belgium,True
+Hannover-Braunschweig-Göttingen-Wolfsburg Region,Apenas País,Hannover-Braunschweig-Göttingen-Wolfsburg Region,Inconsistente,['OK'],Hannover-Braunschweig-Göttingen-Wolfsburg Region,,,Hannover-Braunschweig-Göttingen-Wolfsburg Region,False
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Leeds, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Leeds, England, United Kingdom",Leeds,England,United Kingdom,True
+Lithuania,Apenas País,Lithuania,Consistente,['OK'],Lithuania,,,Lithuania,True
+Greater Rennes Metropolitan Area,Apenas País,Greater Rennes Metropolitan Area,Inconsistente,['OK'],Greater Rennes Metropolitan Area,,,Greater Rennes Metropolitan Area,False
+"Weimar, Thuringia, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Weimar, Thuringia, Germany",Weimar,Thuringia,Germany,True
+"City Of Westminster, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"City Of Westminster, England, United Kingdom",City Of Westminster,England,United Kingdom,True
+United Kingdom,Apenas País,United Kingdom,Apenas Localização tem país,['OK'],United Kingdom,,,United Kingdom,True
+"Gurgaon, Haryana, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Gurgaon, Haryana, India",Gurgaon,Haryana,India,True
+"Gurgaon, Haryana, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Gurgaon, Haryana, India",Gurgaon,Haryana,India,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Consistente,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Ranst, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Ranst, Flemish Region, Belgium",Ranst,Flemish Region,Belgium,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Constance, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Constance, Baden-Württemberg, Germany",Constance,Baden-Württemberg,Germany,True
+"Mechelen, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Mechelen, Flemish Region, Belgium",Mechelen,Flemish Region,Belgium,True
+"Wokingham, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Wokingham, England, United Kingdom",Wokingham,England,United Kingdom,True
+"Wokingham, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Wokingham, England, United Kingdom",Wokingham,England,United Kingdom,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Apenas Localização tem país,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Inconsistente,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,False
+"Düsseldorf, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Düsseldorf, North Rhine-Westphalia, Germany",Düsseldorf,North Rhine-Westphalia,Germany,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Apenas Localização tem país,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Apenas Localização tem país,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,True
+"Vitrolles, Provence-Alpes-Côte d'Azur, France","Cidade, Estado, País",France,Consistente,['Caracteres especiais'],"Vitrolles, Provence-Alpes-Cote d'Azur, France",Vitrolles,Provence-Alpes-Cote d'Azur,France,True
+"Vitrolles, Provence-Alpes-Côte d'Azur, France","Cidade, Estado, País",France,Consistente,['Caracteres especiais'],"Vitrolles, Provence-Alpes-Cote d'Azur, France",Vitrolles,Provence-Alpes-Cote d'Azur,France,True
+Spain,Apenas País,Spain,Consistente,['OK'],"Capital, Spain",Capital,,Spain,True
+Spain,Apenas País,Spain,Consistente,['OK'],"Capital, Spain",Capital,,Spain,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Inconsistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,False
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Valencia, Valencian Community, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Valencia, Valencian Community, Spain",Valencia,Valencian Community,Spain,True
+"Valencia, Valencian Community, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Valencia, Valencian Community, Spain",Valencia,Valencian Community,Spain,True
+"Valencia, Valencian Community, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Valencia, Valencian Community, Spain",Valencia,Valencian Community,Spain,True
+"Valencia, Valencian Community, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Valencia, Valencian Community, Spain",Valencia,Valencian Community,Spain,True
+"Holzkirchen, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Holzkirchen, Bavaria, Germany",Holzkirchen,Bavaria,Germany,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Hamden, Connecticut, United States","Cidade, Estado, País",United States,Consistente,['OK'],"Hamden, Connecticut, United States",Hamden,Connecticut,United States,True
+"Hamden, Connecticut, United States","Cidade, Estado, País",United States,Consistente,['OK'],"Hamden, Connecticut, United States",Hamden,Connecticut,United States,True
+Greater Lyon Area,Apenas País,Greater Lyon Area,Inconsistente,['OK'],"Lyon, Auvergne-Rhône-Alpes, France",Lyon,Auvergne-Rhône-Alpes,France,False
+Greater Lyon Area,Apenas País,Greater Lyon Area,Inconsistente,['OK'],"Lyon, Auvergne-Rhône-Alpes, France",Lyon,Auvergne-Rhône-Alpes,France,False
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Inconsistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Seoul, South Korea","Cidade, País",South Korea,Consistente,['OK'],"Seoul, South Korea",Seoul,,South Korea,True
+"Seoul, South Korea","Cidade, País",South Korea,Consistente,['OK'],"Seoul, South Korea",Seoul,,South Korea,True
+"Canterbury, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Canterbury, England, United Kingdom",Canterbury,England,United Kingdom,True
+Greater Aberdeen Area,Apenas País,Greater Aberdeen Area,Apenas Localização tem país,['OK'],Greater Aberdeen Area,,,Greater Aberdeen Area,True
+"Eppertshausen, Hesse, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Eppertshausen, Hesse, Germany",Eppertshausen,Hesse,Germany,True
+"Eppertshausen, Hesse, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Eppertshausen, Hesse, Germany",Eppertshausen,Hesse,Germany,True
+"Schloß Holte-Stukenbrock, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Schloß Holte-Stukenbrock, North Rhine-Westphalia, Germany",Schloß Holte-Stukenbrock,North Rhine-Westphalia,Germany,True
+"Mumbai, Maharashtra, India","Cidade, Estado, País",India,Consistente,['OK'],"Mumbai, Maharashtra, India",Mumbai,Maharashtra,India,True
+"Lozenets, Sofia, Bulgarie","Cidade, Estado, País",Bulgarie,Apenas Localização tem país,['OK'],"Lozenets, Sofia, Bulgarie",Lozenets,Sofia,Bulgarie,True
+"Sandyford, Dún Laoghaire-Rathdown, Ireland","Cidade, Estado, País",Ireland,Consistente,['OK'],"Sandyford, Dún Laoghaire-Rathdown, Ireland",Sandyford,Dún Laoghaire-Rathdown,Ireland,True
+"Geneva, Geneva, Switzerland","Cidade, Estado, País",Switzerland,Consistente,['OK'],"Geneva, Geneva, Switzerland",Geneva,Geneva,Switzerland,True
+Lodz Metropolitan Area,Apenas País,Lodz Metropolitan Area,Inconsistente,['OK'],Lodz Metropolitan Area,,,Lodz Metropolitan Area,False
+"Liège, Walloon Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Liège, Walloon Region, Belgium",Liège,Walloon Region,Belgium,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Consistente,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+Rhein-Neckar Metropolitan Region,Apenas País,Rhein-Neckar Metropolitan Region,Inconsistente,['OK'],Rhein-Neckar Metropolitan Region,,,Rhein-Neckar Metropolitan Region,False
+Greater Valencia Metropolitan Area,Apenas País,Greater Valencia Metropolitan Area,Apenas Localização tem país,['OK'],Greater Valencia Metropolitan Area,,,Greater Valencia Metropolitan Area,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+Stuttgart Region,Apenas País,Stuttgart Region,Inconsistente,['OK'],Stuttgart Region,,,Stuttgart Region,False
+"Isernhagen Farster Bauerschaft, Lower Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Isernhagen Farster Bauerschaft, Lower Saxony, Germany",Isernhagen Farster Bauerschaft,Lower Saxony,Germany,True
+"Ismaning, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Ismaning, Bavaria, Germany",Ismaning,Bavaria,Germany,True
+Greater Karlsruhe Area,Apenas País,Greater Karlsruhe Area,Inconsistente,['OK'],Greater Karlsruhe Area,,,Greater Karlsruhe Area,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+United Arab Emirates,Apenas País,United Arab Emirates,Consistente,['OK'],United Arab Emirates,,,United Arab Emirates,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Kassel Area,Apenas País,Greater Kassel Area,Inconsistente,['OK'],Greater Kassel Area,,,Greater Kassel Area,False
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+Estonia,Apenas País,Estonia,Consistente,['OK'],Estonia,,,Estonia,True
+"Tel Aviv District, Israel","Cidade, País",Israel,Consistente,['OK'],"Tel Aviv District, Israel",Tel Aviv District,,Israel,True
+"Stadt Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Stadt Hamburg, Hamburg, Germany",Stadt Hamburg,Hamburg,Germany,True
+"Budapest, Budapest, Hungary","Cidade, Estado, País",Hungary,Consistente,['OK'],"Budapest, Budapest, Hungary",Budapest,Budapest,Hungary,True
+Austria,Apenas País,Austria,Consistente,['OK'],Austria,,,Austria,True
+Austria,Apenas País,Austria,Consistente,['OK'],Austria,,,Austria,True
+Austria,Apenas País,Austria,Consistente,['OK'],Austria,,,Austria,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+"London Area, United Kingdom","Cidade, País",United Kingdom,Consistente,['OK'],"London Area, United Kingdom",London Area,,United Kingdom,True
+"Pamplona, Chartered Community of Navarre, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Pamplona, Chartered Community of Navarre, Spain",Pamplona,Chartered Community of Navarre,Spain,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Inconsistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,False
+"Ozoir-la-Ferrière, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Ozoir-la-Ferrière, Ile-de-France, France",Ozoir-la-Ferrière,Ile-de-France,France,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater La Rochelle Area,Apenas País,Greater La Rochelle Area,Inconsistente,['OK'],Greater La Rochelle Area,,,Greater La Rochelle Area,False
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Gilching, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Gilching, Bavaria, Germany",Gilching,Bavaria,Germany,True
+"Leicester, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Leicester, England, United Kingdom",Leicester,England,United Kingdom,True
+Ireland,Apenas País,Ireland,Consistente,['OK'],Ireland,,,Ireland,True
+"Bolívar, Venezuela","Cidade, País",Venezuela,Consistente,['OK'],"Bolívar, Venezuela",Bolívar,,Venezuela,True
+"Lyon, Auvergne-Rhône-Alpes, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Lyon, Auvergne-Rhone-Alpes, France",Lyon,Auvergne-Rhone-Alpes,France,True
+"Ingelheim am Rhein, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Ingelheim am Rhein, Rhineland-Palatinate, Germany",Ingelheim am Rhein,Rhineland-Palatinate,Germany,True
+"Braşov, Romania","Cidade, País",Romania,Inconsistente,['OK'],"Braşov, Romenia",Braşov,,Romenia,False
+"São Paulo, São Paulo, Brasil","Cidade, Estado, País",Brasil,Apenas Localização tem país,['OK'],"São Paulo, São Paulo, Brasil",São Paulo,São Paulo,Brasil,True
+"Mumbai, Maharashtra, India","Cidade, Estado, País",India,Apenas Localização tem país,['OK'],"Mumbai, Maharashtra, India",Mumbai,Maharashtra,India,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+"Greater London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Greater London, England, United Kingdom",Greater London,England,United Kingdom,True
+Stuttgart Region,Apenas País,Stuttgart Region,Inconsistente,['OK'],Stuttgart Region,,,Stuttgart Region,False
+Stuttgart Region,Apenas País,Stuttgart Region,Inconsistente,['OK'],Stuttgart Region,,,Stuttgart Region,False
+"Bromley, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Bromley, England, United Kingdom",Bromley,England,United Kingdom,True
+Greater Vigo Metropolitan Area,Apenas País,Greater Vigo Metropolitan Area,Inconsistente,['OK'],Greater Vigo Metropolitan Area,,,Greater Vigo Metropolitan Area,False
+"Framlingham, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Framlingham, England, United Kingdom",Framlingham,England,United Kingdom,True
+"Toulouse, Occitanie, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Toulouse, Occitanie, France",Toulouse,Occitanie,France,True
+"Paris Area, France","Cidade, País",France,Consistente,['OK'],"Paris Area, France",Paris Area,,France,True
+"Nantes, Pays de la Loire, France","Cidade, Estado, País",France,Consistente,['OK'],"Nantes, Pays de la Loire, France",Nantes,Pays de la Loire,France,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Berlin, Berlin, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Berlin, Berlin, Germany",Berlin,Berlin,Germany,True
+"Montabaur, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Montabaur, Rhineland-Palatinate, Germany",Montabaur,Rhineland-Palatinate,Germany,True
+"Rosenheim, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Rosenheim, Bavaria, Germany",Rosenheim,Bavaria,Germany,True
+"Raubling, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Raubling, Bavaria, Germany",Raubling,Bavaria,Germany,True
+"Iphofen, Bavaria, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Iphofen, Bavaria, Germany",Iphofen,Bavaria,Germany,True
+"Aachen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Aachen, North Rhine-Westphalia, Germany",Aachen,North Rhine-Westphalia,Germany,True
+"South Croydon, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"South Croydon, England, United Kingdom",South Croydon,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Paris, Île-de-France, France","Cidade, Estado, País",France,Apenas Localização tem país,['OK'],"Paris, Ile-de-France, France",Paris,Ile-de-France,France,True
+"Copenhagen, Capital Region of Denmark, Denmark","Cidade, Estado, País",Denmark,Apenas Localização tem país,['OK'],"Copenhagen, Capital Region of Denmark, Denmark",Copenhagen,Capital Region of Denmark,Denmark,True
+"Tonbridge, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Tonbridge, England, United Kingdom",Tonbridge,England,United Kingdom,True
+"Reading, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Reading, England, United Kingdom",Reading,England,United Kingdom,True
+"Vallendar, Rhineland-Palatinate, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Vallendar, Rhineland-Palatinate, Germany",Vallendar,Rhineland-Palatinate,Germany,True
+Lodz Metropolitan Area,Apenas País,Lodz Metropolitan Area,Inconsistente,['OK'],Lodz Metropolitan Area,,,Lodz Metropolitan Area,False
+Greater Munich Metropolitan Area,Apenas País,Greater Munich Metropolitan Area,Apenas Localização tem país,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Cologne Bonn Region,Apenas País,Cologne Bonn Region,Inconsistente,['OK'],Cologne Bonn Region,,,Cologne Bonn Region,False
+"Münster, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Münster, North Rhine-Westphalia, Germany",Münster,North Rhine-Westphalia,Germany,True
+"Woodley, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Woodley, England, United Kingdom",Woodley,England,United Kingdom,True
+Germany,Apenas País,Germany,Consistente,['OK'],"Capital, Germany",Capital,,Germany,True
+Cracow Metropolitan Area,Apenas País,Cracow Metropolitan Area,Inconsistente,['OK'],Cracow Metropolitan Area,,,Cracow Metropolitan Area,False
+"Metro Manila, National Capital Region, Philippines","Cidade, Estado, País",Philippines,Apenas Localização tem país,['OK'],"Metro Manila, National Capital Region, Philippines",Metro Manila,National Capital Region,Philippines,True
+"Metro Manila, National Capital Region, Philippines","Cidade, Estado, País",Philippines,Apenas Localização tem país,['OK'],"Metro Manila, National Capital Region, Philippines",Metro Manila,National Capital Region,Philippines,True
+Bosnia and Herzegovina,Apenas País,Bosnia and Herzegovina,Apenas Localização tem país,['OK'],Bosnia and Herzegovina,,,Bosnia and Herzegovina,True
+"Swindon, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Swindon, England, United Kingdom",Swindon,England,United Kingdom,True
+United Kingdom,Apenas País,United Kingdom,Apenas Localização tem país,['OK'],United Kingdom,,,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Newcastle Upon Tyne, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Newcastle Upon Tyne, England, United Kingdom",Newcastle Upon Tyne,England,United Kingdom,True
+"Newcastle upon Tyne, United Kingdom","Cidade, País",United Kingdom,Apenas Localização tem país,['OK'],"Newcastle upon Tyne, United Kingdom",Newcastle upon Tyne,,United Kingdom,True
+"Redhill, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Redhill, England, United Kingdom",Redhill,England,United Kingdom,True
+"Schliersee, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Schliersee, Bavaria, Germany",Schliersee,Bavaria,Germany,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Killorglin, County Kerry, Ireland","Cidade, Estado, País",Ireland,Consistente,['OK'],"Killorglin, County Kerry, Ireland",Killorglin,County Kerry,Ireland,True
+"Sinsheim, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Sinsheim, Baden-Württemberg, Germany",Sinsheim,Baden-Württemberg,Germany,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"São Paulo, Brazil","Cidade, País",Brazil,Consistente,['OK'],"São Paulo, Brazil",São Paulo,,Brazil,True
+"Gdańsk, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdańsk, Pomorskie, Poland",Gdańsk,Pomorskie,Poland,True
+"Gdańsk, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdańsk, Pomorskie, Poland",Gdańsk,Pomorskie,Poland,True
+"Gdańsk, Pomorskie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Gdańsk, Pomorskie, Poland",Gdańsk,Pomorskie,Poland,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Skipton, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Skipton, England, United Kingdom",Skipton,England,United Kingdom,True
+"Braga, Braga, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Braga, Braga, Portugal",Braga,Braga,Portugal,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Hasselt, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Hasselt, Flemish Region, Belgium",Hasselt,Flemish Region,Belgium,True
+"Milton Keynes, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Milton Keynes, England, United Kingdom",Milton Keynes,England,United Kingdom,True
+"Murcia, Región de Murcia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Murcia, Región de Murcia, Spain",Murcia,Región de Murcia,Spain,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Mannheim, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Mannheim, Baden-Württemberg, Germany",Mannheim,Baden-Württemberg,Germany,True
+Portugal,Apenas País,Portugal,Apenas Localização tem país,['OK'],"Capital, Portugal",Capital,,Portugal,True
+Netherlands,Apenas País,Netherlands,Consistente,['OK'],Netherlands,,,Netherlands,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"Dresden, Saxony, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Dresden, Saxony, Germany",Dresden,Saxony,Germany,True
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Apenas Localização tem país,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Trossingen, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Trossingen, Baden-Württemberg, Germany",Trossingen,Baden-Württemberg,Germany,True
+"Neuses, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Neuses, Baden-Württemberg, Germany",Neuses,Baden-Württemberg,Germany,True
+"Karlsruhe, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Karlsruhe, Baden-Württemberg, Germany",Karlsruhe,Baden-Württemberg,Germany,True
+"Greater London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Greater London, England, United Kingdom",Greater London,England,United Kingdom,True
+Greater Valencia Metropolitan Area,Apenas País,Greater Valencia Metropolitan Area,Apenas Localização tem país,['OK'],Greater Valencia Metropolitan Area,,,Greater Valencia Metropolitan Area,True
+"Marseille, Provence-Alpes-Côte d'Azur, France","Cidade, Estado, País",France,Consistente,['Caracteres especiais'],"Marseille, Provence-Alpes-Cote d'Azur, France",Marseille,Provence-Alpes-Cote d'Azur,France,True
+"Gilching, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Gilching, Bavaria, Germany",Gilching,Bavaria,Germany,True
+"Gilching, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Gilching, Bavaria, Germany",Gilching,Bavaria,Germany,True
+"Frankfurt, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Frankfurt, Hesse, Germany",Frankfurt,Hesse,Germany,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+Greater Hamburg Area,Apenas País,Greater Hamburg Area,Inconsistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,False
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Inconsistente,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,False
+"Eschweiler, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Eschweiler, North Rhine-Westphalia, Germany",Eschweiler,North Rhine-Westphalia,Germany,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"Kempen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Kempen, North Rhine-Westphalia, Germany",Kempen,North Rhine-Westphalia,Germany,True
+Germany,Apenas País,Germany,Apenas Localização tem país,['OK'],"Capital, Germany",Capital,,Germany,True
+Ireland,Apenas País,Ireland,Consistente,['OK'],Ireland,,,Ireland,True
+Ireland,Apenas País,Ireland,Consistente,['OK'],Ireland,,,Ireland,True
+"Munich, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Munich, Bavaria, Germany",Munich,Bavaria,Germany,True
+"Freiburg, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Freiburg, Baden-Württemberg, Germany",Freiburg,Baden-Württemberg,Germany,True
+"Poznań, Wielkopolskie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Poznań, Wielkopolskie, Poland",Poznań,Wielkopolskie,Poland,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+United Kingdom,Apenas País,United Kingdom,Apenas Localização tem país,['OK'],United Kingdom,,,United Kingdom,True
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Warrington, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Warrington, England, United Kingdom",Warrington,England,United Kingdom,True
+"Leeds, England, United Kingdom","Cidade, Estado, País",United Kingdom,Apenas Localização tem país,['OK'],"Leeds, England, United Kingdom",Leeds,England,United Kingdom,True
+Frankfurt Rhine-Main Metropolitan Area,Apenas País,Frankfurt Rhine-Main Metropolitan Area,Apenas Localização tem país,['OK'],Frankfurt Rhine-Main Metropolitan Area,,,Frankfurt Rhine-Main Metropolitan Area,True
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Linkenheim-Hochstetten, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Apenas Localização tem país,['OK'],"Linkenheim-Hochstetten, Baden-Württemberg, Germany",Linkenheim-Hochstetten,Baden-Württemberg,Germany,True
+"Fleury-la-Montagne, Bourgogne-Franche-Comté, France","Cidade, Estado, País",France,Consistente,['OK'],"Fleury-la-Montagne, Bourgogne-Franche-Comté, France",Fleury-la-Montagne,Bourgogne-Franche-Comté,France,True
+Lithuania,Apenas País,Lithuania,Consistente,['OK'],Lithuania,,,Lithuania,True
+Lithuania,Apenas País,Lithuania,Consistente,['OK'],Lithuania,,,Lithuania,True
+"Castres, Occitanie, France","Cidade, Estado, País",France,Consistente,['OK'],"Castres, Occitanie, France",Castres,Occitanie,France,True
+"Aveiro, Aveiro, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Aveiro, Aveiro, Portugal",Aveiro,Aveiro,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Maharashtra, India","Cidade, País",India,Apenas Localização tem país,['OK'],"Maharashtra, India",Maharashtra,,India,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Mühltal, Hesse, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Mühltal, Hesse, Germany",Mühltal,Hesse,Germany,True
+France,Apenas País,France,Consistente,['OK'],"Capital, France",Capital,,France,True
+"Panaji, Goa, India","Cidade, Estado, País",India,Consistente,['OK'],"Panaji, Goa, India",Panaji,Goa,India,True
+"Níkaia, Attiki, Greece","Cidade, Estado, País",Greece,Consistente,['OK'],"Níkaia, Attiki, Greece",Níkaia,Attiki,Greece,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+"London, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"London, England, United Kingdom",London,England,United Kingdom,True
+Berlin Metropolitan Area,Apenas País,Berlin Metropolitan Area,Inconsistente,['OK'],Berlin Metropolitan Area,,,Berlin Metropolitan Area,False
+Greater Bielefeld Area,Apenas País,Greater Bielefeld Area,Inconsistente,['OK'],Greater Bielefeld Area,,,Greater Bielefeld Area,False
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Consistente,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+Wroclaw Metropolitan Area,Apenas País,Wroclaw Metropolitan Area,Inconsistente,['OK'],Wroclaw Metropolitan Area,,,Wroclaw Metropolitan Area,False
+Wroclaw Metropolitan Area,Apenas País,Wroclaw Metropolitan Area,Inconsistente,['OK'],Wroclaw Metropolitan Area,,,Wroclaw Metropolitan Area,False
+United Kingdom,Apenas País,United Kingdom,Consistente,['OK'],United Kingdom,,,United Kingdom,True
+"Karlsruhe, Baden-Württemberg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Karlsruhe, Baden-Württemberg, Germany",Karlsruhe,Baden-Württemberg,Germany,True
+"Möhrendorf, Bavaria, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Möhrendorf, Bavaria, Germany",Möhrendorf,Bavaria,Germany,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+Greater Paris Metropolitan Region,Apenas País,Greater Paris Metropolitan Region,Apenas Localização tem país,['OK'],"Paris, Île-de-France, France",Paris,Île-de-France,France,True
+"Würselen, North Rhine-Westphalia, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Würselen, North Rhine-Westphalia, Germany",Würselen,North Rhine-Westphalia,Germany,True
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Inconsistente,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,False
+"Hamburg, Hamburg, Germany","Cidade, Estado, País",Germany,Consistente,['OK'],"Hamburg, Hamburg, Germany",Hamburg,Hamburg,Germany,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lynnfield, Massachusetts, United States","Cidade, Estado, País",United States,Consistente,['OK'],"Lynnfield, Massachusetts, United States",Lynnfield,Massachusetts,United States,True
+"Boca Raton, Florida, United States","Cidade, Estado, País",United States,Consistente,['OK'],"Boca Raton, Florida, United States",Boca Raton,Florida,United States,True
+"Manchester, England, United Kingdom","Cidade, Estado, País",United Kingdom,Consistente,['OK'],"Manchester, England, United Kingdom",Manchester,England,United Kingdom,True
+Portugal,Apenas País,Portugal,Consistente,['OK'],"Capital, Portugal",Capital,,Portugal,True
+Portugal,Apenas País,Portugal,Consistente,['OK'],"Capital, Portugal",Capital,,Portugal,True
+"Santa Barbara, California, United States","Cidade, Estado, País",United States,Consistente,['OK'],"Santa Barbara, California, United States",Santa Barbara,California,United States,True
+"Boituva, São Paulo, Brazil","Cidade, Estado, País",Brazil,Consistente,['OK'],"Boituva, São Paulo, Brazil",Boituva,São Paulo,Brazil,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Braga, Braga, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Braga, Braga, Portugal",Braga,Braga,Portugal,True
+Portugal,Apenas País,Portugal,Consistente,['OK'],"Capital, Portugal",Capital,,Portugal,True
+"Ponte do Lima, Viana do Castelo, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Ponte do Lima, Viana do Castelo, Portugal",Ponte do Lima,Viana do Castelo,Portugal,True
+"Porto, Porto, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Porto, Porto, Portugal",Porto,Porto,Portugal,True
+"Porto, Portugal","Cidade, País",Portugal,Consistente,['OK'],"Porto, Portugal",Porto,,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Aveiro, Aveiro, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Aveiro, Aveiro, Portugal",Aveiro,Aveiro,Portugal,True
+"Aveiro, Aveiro, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Aveiro, Aveiro, Portugal",Aveiro,Aveiro,Portugal,True
+"Aveiro, Aveiro, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Aveiro, Aveiro, Portugal",Aveiro,Aveiro,Portugal,True
+"Aveiro, Aveiro, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Aveiro, Aveiro, Portugal",Aveiro,Aveiro,Portugal,True
+"Cascais, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Cascais, Lisbon, Portugal",Cascais,Lisbon,Portugal,True
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Inconsistente,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,False
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Inconsistente,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,False
+"Porto, Porto, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Porto, Porto, Portugal",Porto,Porto,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Santiago do Cacém, Setúbal, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Santiago do Cacém, Setúbal, Portugal",Santiago do Cacém,Setúbal,Portugal,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Aartselaar, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Apenas Localização tem país,['OK'],"Aartselaar, Flemish Region, Belgium",Aartselaar,Flemish Region,Belgium,True
+"Sant Boi de Llobregat, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Sant Boi de Llobregat, Catalonia, Spain",Sant Boi de Llobregat,Catalonia,Spain,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+Helsinki Metropolitan Area,Apenas País,Helsinki Metropolitan Area,Inconsistente,['OK'],Helsinki Metropolitan Area,,,Helsinki Metropolitan Area,False
+"Stockholm, Stockholm County, Sweden","Cidade, Estado, País",Sweden,Consistente,['OK'],"Stockholm, Stockholm County, Sweden",Stockholm,Stockholm County,Sweden,True
+"Murcia, Región de Murcia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Murcia, Región de Murcia, Spain",Murcia,Región de Murcia,Spain,True
+"Logroño, Autonomía de La Rioja, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Logroño, Autonomía de La Rioja, Spain",Logroño,Autonomía de La Rioja,Spain,True
+"Uster, Zurich, Switzerland","Cidade, Estado, País",Switzerland,Consistente,['OK'],"Uster, Zurich, Switzerland",Uster,Zurich,Switzerland,True
+"Keerbergen, Flemish Region, Belgium","Cidade, Estado, País",Belgium,Consistente,['OK'],"Keerbergen, Flemish Region, Belgium",Keerbergen,Flemish Region,Belgium,True
+"Gijón, Principality of Asturias, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Gijón, Principality of Asturias, Spain",Gijón,Principality of Asturias,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+Finland,Apenas País,Finland,Consistente,['OK'],Finland,,,Finland,True
+Greater Palma de Mallorca Metropolitan Area,Apenas País,Greater Palma de Mallorca Metropolitan Area,Apenas Localização tem país,['OK'],Greater Palma de Mallorca Metropolitan Area,,,Greater Palma de Mallorca Metropolitan Area,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+Venezuela,Apenas País,Venezuela,Consistente,['OK'],Venezuela,,,Venezuela,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+Greater Palma de Mallorca Metropolitan Area,Apenas País,Greater Palma de Mallorca Metropolitan Area,Inconsistente,['OK'],Greater Palma de Mallorca Metropolitan Area,,,Greater Palma de Mallorca Metropolitan Area,False
+"Warsaw, Mazowieckie, Poland","Cidade, Estado, País",Poland,Apenas Localização tem país,['OK'],"Warsaw, Mazowieckie, Poland",Warsaw,Mazowieckie,Poland,True
+"Palma, Balearic Islands, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Palma, Balearic Islands, Spain",Palma,Balearic Islands,Spain,True
+Greater Sevilla Metropolitan Area,Apenas País,Greater Sevilla Metropolitan Area,Inconsistente,['OK'],Greater Sevilla Metropolitan Area,,,Greater Sevilla Metropolitan Area,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+"Madrid, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Logroño, Autonomía de La Rioja, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Logroño, Autonomía de La Rioja, Spain",Logroño,Autonomía de La Rioja,Spain,True
+"Valencia, Valencian Community, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Valencia, Valencian Community, Spain",Valencia,Valencian Community,Spain,True
+"Barcelona, Catalonia, Spain","Cidade, Estado, País",Spain,Apenas Localização tem país,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,True
+"Valencia, Valencian Community, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Valencia, Valencian Community, Spain",Valencia,Valencian Community,Spain,True
+Greater Palma de Mallorca Metropolitan Area,Apenas País,Greater Palma de Mallorca Metropolitan Area,Apenas Localização tem país,['OK'],Greater Palma de Mallorca Metropolitan Area,,,Greater Palma de Mallorca Metropolitan Area,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+"Santiago, Santiago Metropolitan Region, Chile","Cidade, Estado, País",Chile,Apenas Localização tem país,['OK'],"Santiago, Santiago Metropolitan Region, Chile",Santiago,Santiago Metropolitan Region,Chile,True
+"Cartagena, Región de Murcia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Cartagena, Región de Murcia, Spain",Cartagena,Región de Murcia,Spain,True
+"Getafe, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Getafe, Community of Madrid, Spain",Getafe,Community of Madrid,Spain,True
+"Getafe, Community of Madrid, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Getafe, Community of Madrid, Spain",Getafe,Community of Madrid,Spain,True
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Palma de Mallorca Metropolitan Area,Apenas País,Greater Palma de Mallorca Metropolitan Area,Inconsistente,['OK'],Greater Palma de Mallorca Metropolitan Area,,,Greater Palma de Mallorca Metropolitan Area,False
+Greater Palma de Mallorca Metropolitan Area,Apenas País,Greater Palma de Mallorca Metropolitan Area,Inconsistente,['OK'],Greater Palma de Mallorca Metropolitan Area,,,Greater Palma de Mallorca Metropolitan Area,False
+"Puenteareas, Galicia, Spain","Cidade, Estado, País",Spain,Consistente,['OK'],"Puenteareas, Galicia, Spain",Puenteareas,Galicia,Spain,True
+Greater Barcelona Metropolitan Area,Apenas País,Greater Barcelona Metropolitan Area,Inconsistente,['OK'],"Barcelona, Catalonia, Spain",Barcelona,Catalonia,Spain,False
+Greater Madrid Metropolitan Area,Apenas País,Greater Madrid Metropolitan Area,Inconsistente,['OK'],"Madrid, Community of Madrid, Spain",Madrid,Community of Madrid,Spain,False
+Greater Palma de Mallorca Metropolitan Area,Apenas País,Greater Palma de Mallorca Metropolitan Area,Inconsistente,['OK'],Greater Palma de Mallorca Metropolitan Area,,,Greater Palma de Mallorca Metropolitan Area,False
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Inconsistente,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,False
+"Unidad Hab Lomas de San Lorenzo, Federal District, Mexico","Cidade, Estado, País",Mexico,Apenas Localização tem país,['OK'],"Unidad Hab Lomas de San Lorenzo, Federal District, Mexico",Unidad Hab Lomas de San Lorenzo,Federal District,Mexico,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Gustavo A. Madero, Mexico City, Mexico","Cidade, Estado, País",Mexico,Consistente,['Caracteres especiais'],"Gustavo A. Madero, Mexico City, Mexico",Gustavo A. Madero,Mexico City,Mexico,True
+"Gustavo A. Madero, Mexico City, Mexico","Cidade, Estado, País",Mexico,Consistente,['Caracteres especiais'],"Gustavo A. Madero, Mexico City, Mexico",Gustavo A. Madero,Mexico City,Mexico,True
+"Santarém, Santarém, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Santarém, Santarém, Portugal",Santarém,Santarém,Portugal,True
+"Santarém, Santarém, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Santarém, Santarém, Portugal",Santarém,Santarém,Portugal,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Braga, Braga, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Braga, Braga, Portugal",Braga,Braga,Portugal,True
+"Viana do Castelo, Viana do Castelo, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Viana do Castelo, Viana do Castelo, Portugal",Viana do Castelo,Viana do Castelo,Portugal,True
+"Porto, Porto, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Porto, Porto, Portugal",Porto,Porto,Portugal,True
+"Juárez, Federal District, Mexico","Cidade, Estado, País",Mexico,Apenas Localização tem país,['OK'],"Juárez, Federal District, Mexico",Juárez,Federal District,Mexico,True
+"Maia, Porto, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Maia, Porto, Portugal",Maia,Porto,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+Lisbon Metropolitan Area,Apenas País,Lisbon Metropolitan Area,Apenas Localização tem país,['OK'],Lisbon Metropolitan Area,,,Lisbon Metropolitan Area,True
+"Montijo, Setúbal, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Montijo, Setúbal, Portugal",Montijo,Setúbal,Portugal,True
+"Tlalpan, Mexico City, Mexico","Cidade, Estado, País",Mexico,Apenas Localização tem país,['OK'],"Tlalpan, Mexico City, Mexico",Tlalpan,Mexico City,Mexico,True
+"Baarn, Utrecht Province, Netherlands","Cidade, Estado, País",Netherlands,Apenas Localização tem país,['OK'],"Baarn, Utrecht Province, Netherlands",Baarn,Utrecht Province,Netherlands,True
+"Mexico City, Mexico","Cidade, País",Mexico,Apenas Localização tem país,['OK'],"Mexico City, Mexico",Mexico City,,Mexico,True
+"Seixal, Setúbal, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Seixal, Setúbal, Portugal",Seixal,Setúbal,Portugal,True
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Inconsistente,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,False
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Évora, Portugal","Cidade, País",Portugal,Apenas Localização tem país,['OK'],"Évora, Portugal",Évora,,Portugal,True
+"Alcobaça, Leiria, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Alcobaça, Leiria, Portugal",Alcobaça,Leiria,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+Lisbon Metropolitan Area,Apenas País,Lisbon Metropolitan Area,Apenas Localização tem país,['OK'],Lisbon Metropolitan Area,,,Lisbon Metropolitan Area,True
+"Lisbon, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+"Santo Tirso, Porto, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Santo Tirso, Porto, Portugal",Santo Tirso,Porto,Portugal,True
+"Lajes, Portugal","Cidade, País",Portugal,Consistente,['OK'],"Lajes, Portugal",Lajes,,Portugal,True
+"Lajes, Portugal","Cidade, País",Portugal,Consistente,['OK'],"Lajes, Portugal",Lajes,,Portugal,True
+"Loures, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Loures, Lisbon, Portugal",Loures,Lisbon,Portugal,True
+"Faro, Faro, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Faro, Faro, Portugal",Faro,Faro,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Consistente,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
+Porto Metropolitan Area,Apenas País,Porto Metropolitan Area,Apenas Localização tem país,['OK'],Porto Metropolitan Area,,,Porto Metropolitan Area,True
+"Vila Franca de Xira, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Vila Franca de Xira, Lisbon, Portugal",Vila Franca de Xira,Lisbon,Portugal,True
+"Lisboa, Lisbon, Portugal","Cidade, Estado, País",Portugal,Apenas Localização tem país,['OK'],"Lisbon, Lisbon, Portugal",Lisbon,Lisbon,Portugal,True
