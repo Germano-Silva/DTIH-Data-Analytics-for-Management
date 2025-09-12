@@ -914,10 +914,13 @@ No modelo estrela desenvolvido, as tabelas **dimensionais** (`Dim_Pessoa`, `Dim_
       Dim_Cargo {
          int Cargo_ID PK
          string Cargo
+         string Cargo_Area
+         string Cargo_Nivel_Hierarquico
       }
       Dim_Setor {
          int Setor_ID PK
          string Setor
+         string Categoria_Setor
       }
       Fact_Contatos {
          int Contato_ID PK
