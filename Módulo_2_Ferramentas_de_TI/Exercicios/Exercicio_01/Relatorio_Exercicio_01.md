@@ -886,9 +886,13 @@ No modelo estrela desenvolvido, as tabelas **dimensionais** (`Dim_Pessoa`, `Dim_
          string Nome_Empresa
          string URL_Empresa
          string Redes_Sociais_Empresa
-         string Tamanho_Empresa
+         string Tamanho_Min_Empresa
+         string Tamanho_Max_Empresa
+         string Tamanho_Medio_Empresa
          string Setor_Empresa
+         string Categoria_Setor_empresa
          string Classificacao_Empresa
+         string Classificacao_Ordinal_Empresa
          int Geografia_ID FK
       }
       Dim_Geografia {
