@@ -859,121 +859,129 @@ A coluna apresentou preenchimento completo (100%), sem valores nulos ou vazios. 
 
 ### 2.3 Colunas mais relevantes
 
-No modelo estrela desenvolvido, as tabelas **dimensionais** (`Dim_Pessoa`, `Dim_Empresa`, `Dim_Geografia`, `Dim_Tempo`, `Dim_Cargo` e `Dim_Setor`) fornecem informações descritivas, enquanto a tabela **fato** (`Fact_Contatos`) captura os eventos de interação entre pessoas e empresas.
+#### **Modelo Estrela para Análise de Contatos e Interações**
+
+O modelo estrela desenvolvido organiza os dados em duas categorias principais: as **tabelas dimensionais**, que armazenam os contextos descritivos (`Dim_Pessoa`, `Dim_Empresa`, `Dim_Geografia`, `Dim_Tempo`, `Dim_Cargo` e `Dim_Setor`), e a **tabela fato** (`Fact_Contatos`), que registra os eventos de interação entre pessoas e empresas, funcionando como o núcleo do modelo.
 
 ```mermaid
-   erDiagram
-      Dim_Pessoa ||--o{ Fact_Contatos : "possui"
-      Dim_Empresa ||--o{ Fact_Contatos : "relaciona"
-      Dim_Geografia ||--o{ Dim_Pessoa : "localiza"
-      Dim_Geografia ||--o{ Dim_Empresa : "localiza"
-      Dim_Tempo ||--o{ Fact_Contatos : "ocorre_em"
-      Dim_Cargo ||--o{ Fact_Contatos : "desempenha"
-      Dim_Setor ||--o{ Fact_Contatos : "atua"
-      Dim_Pessoa {
-         int Pessoa_ID PK
-         string Email
-         string Status_Email
-         string Nome
-         string Sobrenome
-         string Nome_Completo
-         string LinkedIn
-         string Usuario_Redes_Sociais
-         int Geografia_ID FK
-      }
-      Dim_Empresa {
-         int Empresa_ID PK
-         string Nome_Empresa
-         string URL_Empresa
-         string Redes_Sociais_Empresa
-         string Tamanho_Min_Empresa
-         string Tamanho_Max_Empresa
-         string Tamanho_Medio_Empresa
-         string Setor_Empresa
-         string Categoria_Setor_empresa
-         string Classificacao_Empresa
-         string Classificacao_Ordinal_Empresa
-         int Geografia_ID FK
-      }
-      Dim_Geografia {
-         int Geografia_ID PK
-         string Cidade
-         string Estado
-         string Pais
-      }
-      Dim_Tempo {
-         int Data_ID PK
-         date Data_Completa
-         int Ano
-         int Mes
-         int Dia
-         int Trimestre
-         int Semana
-         string Dia_Semana
-      }
-      Dim_Cargo {
-         int Cargo_ID PK
-         string Cargo
-         string Cargo_Area
-         string Cargo_Nivel_Hierarquico
-      }
-      Dim_Setor {
-         int Setor_ID PK
-         string Setor
-         string Categoria_Setor
-      }
-      Fact_Contatos {
-         int Contato_ID PK
-         int Pessoa_ID FK
-         int Empresa_ID FK
-         int Data_ID FK
-         int Cargo_ID FK
-         int Setor_ID FK
-         int Status_Valido
-         int Tem_LinkedIn
-      }
+erDiagram
+    /* O diagrama permanece exatamente como o original */
+    Dim_Pessoa ||--o{ Fact_Contatos : "possui"
+    Dim_Empresa ||--o{ Fact_Contatos : "relaciona"
+    Dim_Geografia ||--o{ Dim_Pessoa : "localiza"
+    Dim_Geografia ||--o{ Dim_Empresa : "localiza"
+    Dim_Tempo ||--o{ Fact_Contatos : "ocorre_em"
+    Dim_Cargo ||--o{ Fact_Contatos : "desempenha"
+    Dim_Setor ||--o{ Fact_Contatos : "atua_pessoa"
+    Dim_Setor_Empresa ||--o{ Dim_Empresa : "atua_empresa"
+    Dim_Tamanho_Empresa ||--o{ Dim_Empresa : "classifica"
 
+    Dim_Pessoa {
+        int Pessoa_ID PK
+        string Email
+        string Status_Email
+        string Nome
+        string Sobrenome
+        string Nome_Completo
+        string LinkedIn
+        string Usuario_Redes_Sociais
+        int Geografia_ID FK
+    }
+    Dim_Empresa {
+        int Empresa_ID PK
+        string Nome_Empresa
+        string URL_Empresa
+        string Redes_Sociais_Empresa
+        int Geografia_ID FK
+        int Tamanho_ID FK
+        int Setor_Empresa_ID FK
+    }
+    Dim_Geografia {
+        int Geografia_ID PK
+        string Cidade
+        string Estado
+        string Pais
+    }
+    Dim_Tempo {
+        int Data_ID PK
+        date Data_Completa
+        int Ano
+        int Mes
+        int Dia
+        int Trimestre
+        int Semana
+        string Dia_Semana
+    }
+    Dim_Cargo {
+        int Cargo_ID PK
+        string Cargo
+        string Cargo_Area
+        string Cargo_Nivel_Hierarquico
+    }
+    Dim_Setor {
+        int Setor_ID PK
+        string Setor_Usuario
+        string Granularidade_Setor
+        string Nivel_Detalhe_Setor
+    }
+    Dim_Setor_Empresa {
+        int Setor_Empresa_ID PK
+        string Setor_Empresa
+        string Categoria_Setor_empresa
+    }
+    Dim_Tamanho_Empresa {
+        int Tamanho_ID PK
+        string Tamanho_Min_Empresa
+        string Tamanho_Max_Empresa
+        string Tamanho_Medio_Empresa
+        string Classificacao_Empresa
+        string Classificacao_Empresa_Ordinal
+    }
+    Fact_Contatos {
+        int Contato_ID PK
+        int Pessoa_ID FK
+        int Empresa_ID FK
+        int Data_ID FK
+        int Cargo_ID FK
+        int Setor_ID FK
+        int Status_Valido
+        int Tem_LinkedIn
+    }
 ```
 
+*Diagrama interativo também disponível no [Mermaid Chart](https://www.mermaidchart.com/app/projects/08de3bc0-6499-4745-b968-ac650055e4de/diagrams/3d4ca5b8-d26a-412b-9832-be5e30096eb1/version/v0.1/edit).*
 
-Também disponivel no [link.](https://www.mermaidchart.com/app/projects/08de3bc0-6499-4745-b968-ac650055e4de/diagrams/3d4ca5b8-d26a-412b-9832-be5e30096eb1/version/v0.1/edit)
+#### **Colunas de Alto Valor Estratégico**
 
-As principais colunas que agregam valor estratégico são:
+As colunas abaixo foram selecionadas por seu poder em gerar insights acionáveis:
 
-1. **Dim\_Pessoa**
+*   **`Dim_Pessoa`**
+    *   **`Email` e `Status_Email`:** Fundamentais para validar a qualidade da base de dados e medir a efetividade das campanhas de comunicação.
+    *   **`Nome_Completo`, `Nome`, `Sobrenome`:** Permitem a identificação precisa e a segmentação personalizada de leads e contatos.
+    *   **`LinkedIn` e `Usuario_Redes_Sociais`:** Chaves para avaliar a presença digital e identificar oportunidades de engajamento em canais profissionais.
+    *   **`Geografia_ID`:** Conecta as pessoas a uma localização, habilitando análises regionais e geolocalizadas.
 
-   * `Email` e `Status_Email`: permitem avaliar a qualidade do contato e a efetividade da comunicação.
-   * `Nome_Completo`, `Nome` e `Sobrenome`: ajudam na identificação e segmentação de indivíduos.
-   * `LinkedIn` e `Usuario_Redes_Sociais`: indicam a presença digital e oportunidades de engajamento.
-   * `Geografia_ID`: possibilita análises geográficas de localização das pessoas.
+*   **`Dim_Empresa`**
+    *   **`Nome_Empresa` e `URL_Empresa`:** Essenciais para a identificação e pesquisa contextual das empresas-alvo.
+    *   **`Tamanho_ID` e `Classificacao_Empresa`:** Permitem a segmentação estratégica por porte (ex: SMB, Enterprise), direcionando esforços comerciais.
+    *   **`Setor_Empresa_ID`:** Capacita a análise de tendências e a performance por setor da economia.
+    *   **`Redes_Sociais_Empresa`:** Oferece insights sobre a atividade e estratégia digital da empresa.
 
-2. **Dim\_Empresa**
+*   **`Dim_Geografia`**
+    *   **`Cidade`, `Estado`, `Pais`:** Dimensões cruciais para qualquer análise de mercado, enabling regional segmentation and territory planning.
 
-   * `Nome_Empresa` e `URL_Empresa`: facilitam a identificação e referência das empresas.
-   * `Tamanho_Empresa` e `Classificacao_Empresa`: permitem segmentar empresas por porte e relevância.
-   * `Setor_Empresa`: auxilia na análise de setores estratégicos.
-   * `Redes_Sociais_Empresa`: possibilita avaliação do marketing digital e presença corporativa.
-   * `Geografia_ID`: para análises de localização corporativa.
+*   **`Dim_Tempo`**
+    *   **`Data_Completa`, `Ano`, `Mes`, `Trimestre`:** Suportam análises temporais robustas, como tracking de KPIs ao longo do tempo, identificação de sazonalidade e tendências.
 
-3. **Dim\_Geografia**
+*   **`Dim_Cargo` e `Dim_Setor`**
+    *   **`Cargo` e `Setor`:** Permitem mapear influenciadores e decisores, além de segmentar contatos por área de atuação e senioridade.
 
-   * `Cidade`, `Estado` e `Pais`: fornecem dimensões geográficas essenciais para segmentação e análise de mercados regionais.
+*   **`Fact_Contatos`**
+    *   **`Status_Valido`:** Indicador crítico de qualidade da base, filtrando contatos ativos e válidos para métricas confiáveis.
+    *   **`Tem_LinkedIn`:** Metric valiosa para estratégias de prospecção social selling e análise do potencial de networking.
+    *   **Chaves Estrangeiras (`Pessoa_ID`, `Empresa_ID`, etc.):** A espinha dorsal do modelo, permitindo cruzar todas as dimensões para uma visão 360º de cada interação.
 
-4. **Dim\_Tempo**
-
-   * `Data_Completa`, `Ano`, `Mes`, `Trimestre`, `Semana`, `Dia_Semana`: suportam análises temporais, como evolução de contatos ao longo do tempo, sazonalidade e tendências.
-
-5. **Dim\_Cargo e Dim\_Setor**
-
-   * `Cargo` e `Setor`: permitem analisar funções, responsabilidades e áreas de atuação, possibilitando segmentações estratégicas de contatos.
-
-6. **Fact\_Contatos**
-
-   * `Status_Valido`: indica se o contato é válido ou ativo, essencial para métricas de qualidade de dados.
-   * `Tem_LinkedIn`: sinaliza se existe perfil LinkedIn, importante para análises de networking e engajamento profissional.
-   * Chaves estrangeiras (`Pessoa_ID`, `Empresa_ID`, `Data_ID`, `Cargo_ID`, `Setor_ID`) permitem cruzamentos entre dimensões para gerar insights detalhados.
-
-As colunas-chave combinam informações de **identificação**, **localização**, **segmentação empresarial**, **tempo** e **validação de contatos**, oferecendo base sólida para análises estratégicas, como mapeamento de leads, segmentação de mercado, planejamento de vendas e avaliação de presença digital.
+Este modelo integra de forma poderosa informações de **identificação, localização, segmentação e temporalidade**. Ele serve como uma base sólida para iniciativas estratégicas como: **mapeamento de leads, segmentação de mercado, planejamento de vendas por território e avaliação da eficácia de canais de comunicação**, transformando dados brutos em inteligência competitiva.
 
 ---
 

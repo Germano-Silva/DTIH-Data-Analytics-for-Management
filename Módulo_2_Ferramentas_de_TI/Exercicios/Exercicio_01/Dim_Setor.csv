@@ -1,0 +1,103 @@
+Setor_Usuario,Granularidade_Setor,Nivel_Detalhe_Setor,Setor_ID
+Mobile Games,Adequado,Genérico,SET001
+Consultoria - TI,Muito específico,Específico,SET002
+Telecom - Geral,Muito genérico,Específico,SET003
+Tecnologia - Software,Adequado,Específico,SET004
+Financeiro - Seguros,Muito genérico,Específico,SET005
+Saúde - Farmacêutico,Muito genérico,Específico,SET006
+Furniture,Muito genérico,Genérico,SET007
+Digital - Plataformas Online,Muito genérico,Específico,SET008
+Financeiro - Serviços,Adequado,Específico,SET009
+Setor Não Identificado,Vazio,Genérico,SET010
+Gambling & Casinos,Adequado,Específico,SET011
+Staffing & Recruiting,Adequado,Específico,SET012
+Tecnologia - Software,Vazio,Genérico,SET013
+Professional Training & Coaching,Muito específico,Específico,SET014
+Manufacturing - Automotivo,Muito genérico,Específico,SET015
+Tecnologia - Software Custom,Muito específico,Específico,SET016
+Media Production,Adequado,Genérico,SET017
+Accounting,Muito genérico,Genérico,SET018
+Public Relations & Communications,Muito específico,Específico,SET019
+Dados - Infraestrutura,Muito específico,Específico,SET020
+Consultoria - Gestão,Adequado,Específico,SET021
+Oil & Energy,Adequado,Específico,SET022
+Airlines/Aviation,Muito genérico,Genérico,SET023
+Research,Muito genérico,Genérico,SET024
+Human Resources,Adequado,Genérico,SET025
+Marketing & Advertising,Adequado,Específico,SET026
+Hospital & Health Care,Muito específico,Específico,SET027
+Industrial Automation,Adequado,Genérico,SET028
+Consumer Services,Adequado,Genérico,SET029
+Financeiro - Bancos,Muito genérico,Específico,SET030
+Program Development,Adequado,Genérico,SET031
+Legal Services,Adequado,Genérico,SET032
+Consumer Goods,Adequado,Genérico,SET033
+Marketing Services,Adequado,Genérico,SET034
+Dados - Analytics,Vazio,Genérico,SET035
+Tecnologia - Infraestrutura,Vazio,Genérico,SET036
+Machinery,Muito genérico,Genérico,SET037
+Logistics & Supply Chain,Muito específico,Específico,SET038
+Retail,Muito genérico,Genérico,SET039
+Facilities Services,Adequado,Genérico,SET040
+Printing,Muito genérico,Genérico,SET041
+Information Services,Adequado,Genérico,SET042
+Tecnologia - Games,Adequado,Específico,SET043
+Higher Education,Adequado,Genérico,SET044
+Operations Consulting,Adequado,Genérico,SET045
+Construction,Muito genérico,Genérico,SET046
+Semiconductors,Muito genérico,Genérico,SET047
+Law Practice,Adequado,Genérico,SET048
+Translation & Localization,Adequado,Específico,SET049
+Publishing,Muito genérico,Genérico,SET050
+Environmental Services,Adequado,Genérico,SET051
+Real Estate,Adequado,Genérico,SET052
+Public Safety,Adequado,Genérico,SET053
+Government Administration,Adequado,Genérico,SET054
+Transportation/Trucking/Railroad,Muito genérico,Genérico,SET055
+Aviation & Aerospace,Adequado,Específico,SET056
+Outsourcing/Offshoring,Muito genérico,Genérico,SET057
+Dados - Pesquisa,Adequado,Específico,SET058
+Sports Teams And Clubs,Muito específico,Específico,SET059
+Luxury Goods & Jewelry,Muito específico,Específico,SET060
+Education Management,Adequado,Genérico,SET061
+"Technology, Information And Media",Muito específico,Específico,SET062
+Law Enforcement,Adequado,Genérico,SET063
+Renewables & Environment,Adequado,Específico,SET064
+Internet Marketplace Platforms,Adequado,Específico,SET065
+It System Data Services,Muito específico,Específico,SET066
+Desktop Computing Software Products,Muito específico,Específico,SET067
+Tecnologia - Redes,Adequado,Específico,SET068
+Civil Engineering,Adequado,Genérico,SET069
+Utilities,Muito genérico,Genérico,SET070
+Computer & Network Security,Muito específico,Específico,SET071
+Food & Beverages,Adequado,Específico,SET072
+Apparel & Fashion,Adequado,Específico,SET073
+Mechanical Or Industrial Engineering,Muito específico,Específico,SET074
+Public Health,Adequado,Genérico,SET075
+Medical Device,Adequado,Genérico,SET076
+Non-Profit Organization Management,Adequado,Específico,SET077
+Security Guards And Patrol Services,Muito específico,Muito Específico,SET078
+Medical And Diagnostic Laboratories,Muito específico,Específico,SET079
+Think Tanks,Adequado,Genérico,SET080
+Writing & Editing,Adequado,Específico,SET081
+Import & Export,Adequado,Específico,SET082
+Defense & Space,Adequado,Específico,SET083
+Food Production,Adequado,Genérico,SET084
+Electric Lighting Equipment Manufacturing,Muito específico,Específico,SET085
+Professional Services,Adequado,Genérico,SET086
+Investment Management,Adequado,Genérico,SET087
+Fruit And Vegetable Preserves Manufacturing,Muito específico,Muito Específico,SET088
+Restaurants,Muito genérico,Genérico,SET089
+Consumer Electronics,Adequado,Genérico,SET090
+Online And Mail Order Retail,Muito específico,Muito Específico,SET091
+Social Networking Platforms,Adequado,Específico,SET092
+Capital Markets,Adequado,Genérico,SET093
+"Leisure, Travel & Tourism",Muito específico,Específico,SET094
+Data Security Software Products,Muito específico,Específico,SET095
+Civic & Social Organization,Muito específico,Específico,SET096
+Hospitality,Muito genérico,Genérico,SET097
+Retail Motor Vehicles,Adequado,Específico,SET098
+Wholesale Motor Vehicles And Parts,Muito específico,Muito Específico,SET099
+"Health, Wellness & Fitness",Muito específico,Específico,SET100
+Fine Art,Adequado,Genérico,SET101
+Military,Muito genérico,Genérico,SET102

@@ -1,0 +1,11 @@
+Tamanho_Min,Tamanho_Max,Tamanho_Medio,Classificacao_Tamanho_Empresa,Classificacao_empresa,Classificacao_empresa_Ordinal,Tamanho_ID
+2010.0,5000.0,3505.0,Muito grande,Muito Grande,4,TAM001
+510.0,2000.0,1255.0,Grande,Grande,3,TAM002
+10.0,100.0,55.0,Pequena,Pequena,1,TAM003
+110.0,500.0,305.0,Média,Média,2,TAM004
+5010.0,10000.0,7505.0,Enorme,Enorme,5,TAM005
+100010.0,,100010.0,Enterprise,Enterprise,6,TAM006
+10010.0,50000.0,30005.0,Enterprise,Enterprise,6,TAM007
+50010.0,100000.0,75005.0,Enterprise,Enterprise,6,TAM008
+,,,Fora da faixa,Fora da Faixa,0,TAM009
+10.0,100.0,,Fora da faixa,Fora da Faixa,0,TAM010

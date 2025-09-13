@@ -1,0 +1,774 @@
+Nome_Empresa,URL_Empresa,Redes_Sociais_Empresa,Telefone da sede,Codigo_Pais_Telefone,Tamanho_Min,Tamanho_Max,Tamanho_Medio,Classificacao_Tamanho_Empresa,Setor_Empresa,Categoria_Setor_empresa,Classificacao_empresa,Geografia_ID,Empresa_ID
+Nordcurrent,https://nordcurrent.com,https://www.linkedin.com/company/2817754,,,2010.0,5000.0,3505.0,Muito grande,Jogos Eletrônicos,Outros,Muito Grande,GEO001,EMP001
+Eclear Taxfintech,https://eclear.com,https://www.linkedin.com/company/35446538,4930235907100.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP002
+EmpathyCo,https://empathy.co,https://www.linkedin.com/company/2472920,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO003,EMP003
+Trafi,https://trafi.com/about-trafi-company,https://www.linkedin.com/company/3022881,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO001,EMP004
+GovData,https://govdata.co.uk,https://www.linkedin.com/company/10248490,19252696000.0,44.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO004,EMP005
+Materna Virtual Solution,https://materna-virtual-solution.com,https://www.linkedin.com/company/945002,498930905700.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO005,EMP006
+Parser Digital,https://parserdigital.com,https://www.linkedin.com/company/11142678,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO006,EMP007
+Art2Trading,https://art2trading.com,https://www.linkedin.com/company/70374418,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO007,EMP008
+Hove,https://hove.com,https://www.linkedin.com/company/269166,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO008,EMP009
+Lindera,https://lindera.de,https://www.linkedin.com/company/10683238,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP010
+Thinkproject,https://thinkproject.com,https://www.linkedin.com/company/1383984,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,,EMP011
+LINKFARMA COSMO,https://linkfarmacosmo.com,https://www.linkedin.com/company/39752499,349351779130.0,34.0,10.0,100.0,55.0,Pequena,Farmacêutico,Saúde & Farmacêutico,Pequena,GEO010,EMP012
+Selency,https://selency.com,https://www.linkedin.com/company/9436747,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO008,EMP013
+Strix,https://strix.net,https://www.linkedin.com/company/3115665,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO011,EMP014
+MyTraffic,https://mytraffic.io,https://www.linkedin.com/company/13224055,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO008,EMP015
+TheForceCode,https://theforcecode.com,https://www.linkedin.com/company/87442145,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO012,EMP016
+Capgemini,https://capgemini.com/invent,https://www.linkedin.com/company/1075,,,100010.0,,100010.0,Enterprise,Consultoria Em Gestão,Consultoria & Serviços,Enterprise,GEO008,EMP017
+Aquila Data,https://aquiladata.fr,https://www.linkedin.com/company/9200161,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO013,EMP018
+Gaiha,https://gaiha.org,https://www.linkedin.com/company/86609084,,,10.0,100.0,55.0,Pequena,Biotecnologia,Saúde & Farmacêutico,Pequena,GEO008,EMP019
+Gocardless,https://gocardless.com,https://www.linkedin.com/company/2808012,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO014,EMP020
+Spendesk,https://spendesk.com,https://www.linkedin.com/company/10554832,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO008,EMP021
+ETIQMEDIA SOLUCIONES AUDIOVISUALES,https://etiqmedia.com,https://www.linkedin.com/company/39970320,349763642850.0,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,,EMP022
+TGLAB,https://tglab.com,https://www.linkedin.com/company/24988215,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO001,EMP023
+Keystream,https://key-stream.com,https://www.linkedin.com/company/3054809,20725661110.0,44.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP024
+Between Technology,https://between.tech,https://www.linkedin.com/company/155025,9327800540.0,34.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO010,EMP025
+PIKON Germany,https://pikon.com,https://www.linkedin.com/company/105287,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP026
+PIKON,https://pikon.com,https://www.linkedin.com/company/105287,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP027
+Amazon Development Center Poland,https://aboutamazon.pl/nasze-miejsce-pracy/amazon-development-center,https://www.linkedin.com/company/451028,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO017,EMP028
+Evosoft,https://evosoft.com,https://www.linkedin.com/company/28554578,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO018,EMP029
+Cegedim,https://cegedim.com,https://www.linkedin.com/company/2367857,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO019,EMP030
+Consult Red,https://consult.red,https://www.linkedin.com/company/15795131,4412742877000.0,44.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO020,EMP031
+Eku Energy,https://ekuenergy.com,https://www.linkedin.com/company/86761467,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP032
+VAIVA,https://vaiva.io/en,https://www.linkedin.com/company/3848635,4984189950000.0,49.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO021,EMP033
+DATA C,https://site.datac.com.br,https://www.linkedin.com/company/26411142,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO022,EMP034
+Data C,https://site.datac.com.br,https://www.linkedin.com/company/26411142,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO022,EMP035
+Dalet Digital Media Systems,https://dalet.com,https://www.linkedin.com/company/10539,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO023,EMP036
+Dalet,https://dalet.com,https://www.linkedin.com/company/10539,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO023,EMP037
+Price Waterhouse,https://pwc.com/gx/en,https://www.linkedin.com/company/1044,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP038
+Clevercards,https://clevercards.com,https://www.linkedin.com/company/2395953,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO024,EMP039
+KUMAVISION,https://kumavision.com,https://www.linkedin.com/company/117680,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO025,EMP040
+Bosonit,https://bosonit.com,https://www.linkedin.com/company/9431412,9411232510.0,34.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO026,EMP041
+RETMARKER SA METEDA Company,https://retmarker.com,https://www.linkedin.com/company/275951,3512399891400.0,351.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO027,EMP042
+BECG,https://cavendishconsulting.com,https://www.linkedin.com/company/1636374,19628938930.0,44.0,510.0,2000.0,1255.0,Grande,Relações Públicas & Comunicação,Outros,Grande,GEO006,EMP043
+BECG Built Environmentmmunications Group,https://cavendishconsulting.com,https://www.linkedin.com/company/1636374,19628938930.0,44.0,510.0,2000.0,1255.0,Grande,Relações Públicas & Comunicação,Outros,Grande,GEO006,EMP044
+Liberty One,https://cavendishconsulting.com,https://www.linkedin.com/company/10896947,,,10.0,100.0,55.0,Pequena,Relações Públicas & Comunicação,Outros,Pequena,GEO028,EMP045
+Cavendish Advocacy,https://cavendishconsulting.com,https://www.linkedin.com/company/2615055,20805794100.0,44.0,110.0,500.0,305.0,Média,Relações Governamentais,Outros,Média,GEO006,EMP046
+Exasol,https://exasol.com,https://www.linkedin.com/company/1741694,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO018,EMP047
+WEKO,https://weko.de,https://www.linkedin.com/company/72231246,3631626200.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO029,EMP048
+Pwc,https://pwc.com/gx/en,https://www.linkedin.com/company/1044,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP049
+Viessmann Research & Development Center,https://viessmann-kariera.pl/rd,https://www.linkedin.com/company/18727692,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO012,EMP050
+InfinitCx,https://infinit.cx,https://www.linkedin.com/company/18123081,49892620299000.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO005,EMP051
+KPC,https://kpcgroup.fr,https://www.linkedin.com/company/3120635,1873911540.0,33.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO030,EMP052
+EPG Ehrhardt Partner Group,https://epg.com,https://www.linkedin.com/company/1400097,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO031,EMP053
+4CAD Group,https://4cadgroup.com,https://www.linkedin.com/company/1413705,2517028820.0,33.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO032,EMP054
+Dilitrust,https://dilitrust.com,https://www.linkedin.com/company/904839,331429192000.0,33.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO008,EMP055
+Data Circle Leaders,https://datacircle.com.br,https://www.linkedin.com/company/99837508,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO033,EMP056
+WSCAD - Electrical CAD Solutions,https://wscad.com,https://www.linkedin.com/company/2940832,4908131362700.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO034,EMP057
+Orisha,https://orisha.com,https://www.linkedin.com/company/100090736,1585722940.0,33.0,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO008,EMP058
+3P - Public Procurement Partners België Belgique,https://3p.eu,https://www.linkedin.com/company/94111887,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO035,EMP059
+Centogene,https://centogene.com,https://www.linkedin.com/company/1318599,,,5010.0,10000.0,7505.0,Enorme,Biotecnologia,Saúde & Farmacêutico,Enorme,,EMP060
+MGI,https://movadogroup.com,https://www.linkedin.com/company/14716,,,10010.0,50000.0,30005.0,Enterprise,Produtos De Luxo & Joalheria,Outros,Enterprise,GEO037,EMP061
+UGROUND GLOBAL,https://uground.com/home,https://www.linkedin.com/company/406074,349154726060.0,34.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO038,EMP062
+B2Tncept,https://uground.com/home,https://www.linkedin.com/company/406074,349154726060.0,34.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO038,EMP063
+Mwbsc,https://mwbsc.de,https://www.linkedin.com/company/15214232,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO039,EMP064
+Asacmunicaciones,https://linktr.ee/asac_ti,https://www.linkedin.com/company/494890,9022650400.0,34.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO040,EMP065
+Visunext,https://visunext.de,https://www.linkedin.com/company/65369956,2215883400.0,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP066
+Flight Register,https://flightregister.net,https://www.linkedin.com/company/74049244,44078013409030.0,44.0,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO042,EMP067
+Accenture,https://accenture.com,https://www.linkedin.com/company/1033,,,100010.0,,100010.0,Enterprise,Consultoria Em Gestão,Consultoria & Serviços,Enterprise,GEO043,EMP068
+Allianz Technology,https://careers.allianz.com/go/Allianz-Technology/5123701,https://www.linkedin.com/company/3964931,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP069
+ASTAR - Agency For Science Technology And Research,https://a-star.edu.sg,https://www.linkedin.com/company/164324,,,50010.0,100000.0,75005.0,Enterprise,Pesquisa,Educação & Pesquisa,Enterprise,,EMP070
+Talan,https://talan.com,https://www.linkedin.com/company/28542,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO008,EMP071
+Binect,https://binect.de,https://www.linkedin.com/company/18314056,496151906700.0,49.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO046,EMP072
+Amazon Development Center,https://aboutamazon.pl/nasze-miejsce-pracy/amazon-development-center,https://www.linkedin.com/company/451028,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO017,EMP073
+Active Matter Xr,https://activematter.tech,https://www.linkedin.com/company/101139290,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,,EMP074
+Born,https://born.net,https://www.linkedin.com/company/80564446,,,110.0,500.0,305.0,Média,Consultoria Em Gestão,Consultoria & Serviços,Média,GEO006,EMP075
+Amazon,https://aboutamazon.com,https://www.linkedin.com/company/1586,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO048,EMP076
+Yoti,https://yoti.com,https://www.linkedin.com/company/9428931,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP077
+YpsilonNet Ag,https://yn.de,https://www.linkedin.com/company/4858075,49610950500.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO049,EMP078
+Blowww 4 Analytics,https://bloio,https://www.linkedin.com/company/76873919,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO010,EMP079
+Vente-Privee Devient Veepee,https://veepee.com,https://www.linkedin.com/company/639063,,,50010.0,100000.0,75005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO050,EMP080
+Vente-Privee,https://veepee.com,https://www.linkedin.com/company/639063,,,50010.0,100000.0,75005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO050,EMP081
+Clininfo,https://clininfo.fr,https://www.linkedin.com/company/1649956,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO051,EMP082
+Magnétis,https://magnetis.fr,https://www.linkedin.com/company/5185836,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO013,EMP083
+Personio,https://personio.com,https://www.linkedin.com/company/10180448,49089125010040.0,49.0,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO005,EMP084
+Encoway,https://encoway.de,https://www.linkedin.com/company/872550,49421330035000.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO052,EMP085
+DAVASO An IQVIA Business,https://davaso.de,https://www.linkedin.com/company/35940073,3412592000.0,49.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO053,EMP086
+Simoco,https://simoco.com,https://www.linkedin.com/company/148472,,,510.0,2000.0,1255.0,Grande,Equipamentos De Comunicação,Outros,Grande,GEO054,EMP087
+IT-HAUS,https://it-haus.com,https://www.linkedin.com/company/3853028,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO055,EMP088
+Scilife,https://scilife.io,https://www.linkedin.com/company/41053928,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO056,EMP089
+Analitza,https://analitza.com,https://www.linkedin.com/company/18078664,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO057,EMP090
+SDX,https://sdx-ag.de,https://www.linkedin.com/company/950380,496924751800.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO058,EMP091
+ITEA HIGH TECHNOLOGY,https://automatismositea.com,https://www.linkedin.com/company/40214385,9576567070.0,34.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO059,EMP092
+AUTOMATISMOS ITEA,https://automatismositea.com,https://www.linkedin.com/company/40214385,9576567070.0,34.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO059,EMP093
+Code Red,https://codered.net,https://www.linkedin.com/company/70096450,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO060,EMP094
+UNCAPPED,https://uncapped.be/vacatures,https://www.linkedin.com/company/22734744,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO061,EMP095
+E-Bxnsulting LLP,https://e-bx.co.uk,https://www.linkedin.com/company/20645121,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO062,EMP096
+Sdui,https://sdui.de,https://www.linkedin.com/company/18115269,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO063,EMP097
+MEETYOO,https://meetyoo.com,https://www.linkedin.com/company/568605,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP098
+Qualityminds,https://qualityminds.com/de,https://www.linkedin.com/company/2756304,499116607320110.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO018,EMP099
+Tim Leibnsulting,https://timleib.de,https://www.linkedin.com/company/103422673,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO064,EMP100
+Koenig & Bauer,https://koenig-bauer.com/en,https://www.linkedin.com/company/23394,,,50010.0,100000.0,75005.0,Enterprise,Maquinário,Outros,Enterprise,GEO065,EMP101
+Verestro,https://verestro.com,https://www.linkedin.com/company/2465473,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO066,EMP102
+Upaid Payment Solutions,https://verestro.com,https://www.linkedin.com/company/2465473,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO066,EMP103
+Playtech,https://playtech.com,https://www.linkedin.com/company/18717,,,50010.0,100000.0,75005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO006,EMP104
+Fiducia & GAD It,https://atruvia.de,https://www.linkedin.com/company/34080,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO067,EMP105
+GAD,https://atruvia.de,https://www.linkedin.com/company/34080,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO067,EMP106
+Atruvia,https://atruvia.de,https://www.linkedin.com/company/74950950,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO067,EMP107
+Synthesia,https://synthesia.io,https://www.linkedin.com/company/11190643,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP108
+IRIS Canon Group,https://iriscorporate.com,https://www.linkedin.com/company/475065,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO068,EMP109
+Abertis Mobility Services,,https://www.linkedin.com/company/69846008,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO010,EMP110
+IBAT,https://ibat-solution.com,https://www.linkedin.com/company/15248166,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO069,EMP111
+Wizzinvest,https://wizzinvest.com,https://www.linkedin.com/company/10988116,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO070,EMP112
+Indra,https://indracompany.com,https://www.linkedin.com/company/4230,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO071,EMP113
+UNIR Universidad Internacional De La Rioja,https://unir.net,https://www.linkedin.com/company/755604,9412097430.0,34.0,10010.0,50000.0,30005.0,Enterprise,Ensino Superior,Outros,Enterprise,GEO072,EMP114
+Sesame Hr,https://sesamehr.es,https://www.linkedin.com/company/9333195,349606273510.0,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,,EMP115
+SAP Leanix,https://leanix.net,https://www.linkedin.com/company/2868882,49228286299200.0,49.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO074,EMP116
+Rapid Data,https://rapid-data.de,https://www.linkedin.com/company/8911376,49302089817400.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP117
+Casimba Gaming,https://casimbagaming.com,https://www.linkedin.com/company/66238740,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP118
+Ricoh España,https://ricoh.es,https://www.linkedin.com/company/690447,9009035900.0,34.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO075,EMP119
+BMS,https://bms.com.pl,https://www.linkedin.com/company/645607,2282414250.0,48.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO066,EMP120
+Wise,https://withwise.com,https://www.linkedin.com/company/19071985,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO076,EMP121
+NOVENCIA Group,https://novencia.com,https://www.linkedin.com/company/535268,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO008,EMP122
+Sequantis,https://sequantis.com,https://www.linkedin.com/company/25413476,331850991190.0,33.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO008,EMP123
+WOOGMA,https://woogma.com,https://www.linkedin.com/company/76536084,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO077,EMP124
+Xfive,https://xfive.be,https://www.linkedin.com/company/2149497,,,10.0,100.0,55.0,Pequena,Engenharia Industrial,Manufatura & Industrial,Pequena,GEO077,EMP125
+Basisteam It Service &Nsulting,https://basisteam.com,https://www.linkedin.com/company/33186321,490234325995900.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO078,EMP126
+ONELAN,https://onelan.com,https://www.linkedin.com/company/237711,,,510.0,2000.0,1255.0,Grande,Manufatura Eletrônica,Manufatura & Industrial,Grande,GEO079,EMP127
+Steadforce,https://steadforce.com/contact,https://www.linkedin.com/company/27154866,49895172700.0,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP128
+Team For The Planet,https://team-planet.com,https://www.linkedin.com/company/19100412,,,10.0,100.0,55.0,Pequena,Serviços Ambientais,Outros,Pequena,GEO051,EMP129
+Sellerx,https://sellerx.com,https://www.linkedin.com/company/67124661,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO002,EMP130
+MID,https://mid.de,https://www.linkedin.com/company/2284922,499119683600.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO018,EMP131
+STERE,https://stere-informatique.fr,https://www.linkedin.com/company/14020678,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO080,EMP132
+Enamaye,https://enamaye.de,https://www.linkedin.com/company/11434282,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO005,EMP133
+Ceffu,https://ceffu.com,https://www.linkedin.com/company/77677498,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,,EMP134
+LOréal,https://loreal.com,https://www.linkedin.com/company/1662,,,100010.0,,100010.0,Enterprise,Cosméticos,Outros,Enterprise,GEO082,EMP135
+Walnut,https://walnut.io,https://www.linkedin.com/company/67760135,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO083,EMP136
+ENGIE It,https://engie.com,https://www.linkedin.com/company/35579464,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO013,EMP137
+Cr (abreviado),https://cragenomica.es,https://www.linkedin.com/company/6408028,,,2010.0,5000.0,3505.0,Muito grande,Pesquisa,Educação & Pesquisa,Muito Grande,GEO084,EMP138
+IT&M STATS,https://itm-stats.com,https://www.linkedin.com/company/5069801,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO019,EMP139
+Kinewell Energy,https://kinewell.co.uk,https://www.linkedin.com/company/6181840,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO085,EMP140
+Saascade,https://saascade.com,https://www.linkedin.com/company/93081668,8513884560.0,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO086,EMP141
+Infobip,https://infobip.com,https://www.linkedin.com/company/243612,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP142
+NEW WORK Se,https://new-work.se/en/career,https://www.linkedin.com/company/28513290,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO087,EMP143
+Quandoo,https://quandoo.com,https://www.linkedin.com/company/3338576,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO002,EMP144
+Qbiz-It,https://qbiz-it.com,https://www.linkedin.com/company/10205981,8961421953330.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO005,EMP145
+Auto & General,https://autogeneral.com.au,https://www.linkedin.com/company/54375,,,10010.0,50000.0,30005.0,Enterprise,Seguros,Outros,Enterprise,,EMP146
+SIEVERS-GROUP,https://sievers-group.com,https://www.linkedin.com/company/1062185,541949300.0,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,,EMP147
+EQS Group,https://eqs.com,https://www.linkedin.com/company/1273779,490894444300000.0,49.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO005,EMP148
+Univio,https://univio.com,https://www.linkedin.com/company/11960,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO012,EMP149
+GMS Global Media Services,https://gms-mediaservices.de,https://www.linkedin.com/company/669114,4961969679300.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO090,EMP150
+COMECO,https://comeco.com,https://www.linkedin.com/company/13016754,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO091,EMP151
+Eir Evo,https://eirevo.ie,https://www.linkedin.com/company/276161,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO092,EMP152
+Aviation,https://marketizon.com,https://www.linkedin.com/company/1986552,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO006,EMP153
+UAB Infoera,https://infoera.lt,https://www.linkedin.com/company/242112,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO001,EMP154
+Infoera UAB,https://infoera.lt,https://www.linkedin.com/company/242112,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO001,EMP155
+Compart,https://compart.com,https://www.linkedin.com/company/210205,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO093,EMP156
+Vantaio & Kg,https://vantaio.com,https://www.linkedin.com/company/10371379,4961316222800.0,49.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO094,EMP157
+Parku The Parking App,https://parku.com,https://www.linkedin.com/company/2970350,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP158
+Parku - The Parking App,https://parku.com,https://www.linkedin.com/company/2970350,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP159
+Dubidoc - Intelligenter Helfer Für Arztpraxen,https://dubidoc.de,https://www.linkedin.com/company/14791100,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO095,EMP160
+Dubidoc - Eine Marke Der Takuta,https://dubidoc.de,https://www.linkedin.com/company/14791100,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO095,EMP161
+Enmore Consulting,https://enmore.de,https://www.linkedin.com/company/15865665,49615566671000.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO096,EMP162
+Enmore Consulting Ag,https://enmore.de,https://www.linkedin.com/company/5661286,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO096,EMP163
+RIO The Logistics Flow,https://rio.cloud,https://www.linkedin.com/company/16213141,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO005,EMP164
+Scalo,https://scalosoft.com,https://www.linkedin.com/company/1349302,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO012,EMP165
+Glogix Engineers,https://glogix.de,https://www.linkedin.com/company/78392411,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO097,EMP166
+Twelfthman,https://twelfthman.co,https://www.linkedin.com/company/9249373,,,510.0,2000.0,1255.0,Grande,Design,Outros,Grande,GEO006,EMP167
+Bolt,https://bolt.eu,https://www.linkedin.com/company/35626123,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO098,EMP168
+ABOUT YOU,https://corporate.aboutyou.de,https://www.linkedin.com/company/5214302,,,10010.0,50000.0,30005.0,Enterprise,Internet & Serviços Online,Tecnologia & TI,Enterprise,GEO087,EMP169
+Simple Decisions,https://sx.simpledecisions.io,https://www.linkedin.com/company/79692539,6739864010.0,33.0,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO008,EMP170
+Fluidityapp,https://fluidityapp.com,https://www.linkedin.com/company/18908059,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO008,EMP171
+Não Informado,https://fluidityapp.com,https://www.linkedin.com/company/18908059,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO008,EMP172
+Logicline - Implementing Your Digital Business,https://logicline.de,https://www.linkedin.com/company/76156,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO099,EMP173
+Logicline,https://logicline.de,https://www.linkedin.com/company/76156,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO099,EMP174
+TDM Systems,https://tdmsystems.com,https://www.linkedin.com/company/9265758,49707194927600.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO100,EMP175
+Deutsche Gesellschaft Für Cybersicherheit Mbh & Kg,https://dgc.org,https://www.linkedin.com/company/28167188,4946199586800.0,49.0,510.0,2000.0,1255.0,Grande,Segurança Da Informação,Tecnologia & TI,Grande,GEO101,EMP176
+Movinga,https://movinga.com,https://www.linkedin.com/company/10137971,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO002,EMP177
+Ariba,https://sap.com/products/spend-management/solutions.html,https://www.linkedin.com/company/2818,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO102,EMP178
+D-AIM,https://d-aim.com,https://www.linkedin.com/company/36102337,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO103,EMP179
+Symmetry,https://services.global.ntt,https://www.linkedin.com/company/307970,188879626770.0,44.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP180
+T-Systems North America,https://t-systems.com,https://www.linkedin.com/company/1592,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO058,EMP181
+Unify,https://mitel.com,https://www.linkedin.com/company/208298,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP182
+Docuware,https://start.docuware.com/about,https://www.linkedin.com/company/101401,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO104,EMP183
+Atos Türkiye,https://atos.net,https://www.linkedin.com/company/1259,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP184
+Kapernikov,https://kapernikov.com,https://www.linkedin.com/company/2368252,32163699070.0,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO056,EMP185
+Emnos,https://emnos.com,https://www.linkedin.com/company/125863,49891222811100.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO005,EMP186
+Kenjo,https://kenjo.io/de,https://www.linkedin.com/company/18047181,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP187
+SOGETI High Tech,https://sogeti-hightech.fr,https://www.linkedin.com/company/843855,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO106,EMP188
+GieseckeDevrient,https://gi-de.com,https://www.linkedin.com/company/11486116,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP189
+Ovhcloud,https://ovhcloud.com/en,https://www.linkedin.com/company/1883877,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO107,EMP190
+Mindee,https://mindee.com,https://www.linkedin.com/company/18575144,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO008,EMP191
+Nmedia,https://nmedia.solutions,https://www.linkedin.com/company/65892858,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO060,EMP192
+SUSE,https://suse.com,https://www.linkedin.com/company/1455,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO018,EMP193
+Marken Mehrwert - Brand Added Value,https://mmw.ag,https://www.linkedin.com/company/8260297,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO108,EMP194
+ARMITAGE SYSTEMS LTD,https://armitagegrp.com,https://www.linkedin.com/company/6252241,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO109,EMP195
+Ernst & Young,https://ey.com,https://www.linkedin.com/company/1073,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP196
+Canon Uk,https://canon-europe.com,https://www.linkedin.com/company/209557,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP197
+Distribusion Technologies,https://distribusion.com,https://www.linkedin.com/company/2747271,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO002,EMP198
+Amazon Development Center Ivona Software,https://aboutamazon.pl/nasze-miejsce-pracy/amazon-development-center,https://www.linkedin.com/company/451028,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO017,EMP199
+Regnology,https://regnology.net,https://www.linkedin.com/company/74885441,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO058,EMP200
+McdonaldS,https://corporate.mcdonalds.com,https://www.linkedin.com/company/2677,,,100010.0,,100010.0,Enterprise,Restaurantes,Outros,Enterprise,GEO110,EMP201
+Pandascore,https://pandascore.co,https://www.linkedin.com/company/10943464,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO008,EMP202
+ShowroompriveCom,https://showroomprivegroup.com,https://www.linkedin.com/company/436699,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO050,EMP203
+Veepee,https://veepee.com,https://www.linkedin.com/company/14803666,8091088880.0,33.0,50010.0,100000.0,75005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO050,EMP204
+CORPORAMA,https://corporama.com,https://www.linkedin.com/company/996659,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO106,EMP205
+Spend-365,https://oboloo.com,https://www.linkedin.com/company/18585513,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO006,EMP206
+Gk Software Se,https://gk-software.com,https://www.linkedin.com/company/3530300,49374648400.0,49.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO111,EMP207
+Ey (abreviado),https://ey.com,https://www.linkedin.com/company/1073,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP208
+Giesecke & Devrient,https://gi-de.com,https://www.linkedin.com/company/11486116,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP209
+Certeurope - An Infocertmpany,https://certeurope.fr,https://www.linkedin.com/company/1161524,1497029300.0,33.0,510.0,2000.0,1255.0,Grande,Segurança De Dados,Tecnologia & TI,Grande,GEO008,EMP210
+Myenergy Solutions,https://myenergysolutions.info,https://www.linkedin.com/company/89388262,33012409900.0,44.0,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO112,EMP211
+Evolve,https://evolvebg.co.uk,https://www.linkedin.com/company/2645870,33332472470.0,44.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO113,EMP212
+BCS The Chartered Institute For It,https://bcs.org,https://www.linkedin.com/company/25323,17934174170.0,44.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO006,EMP213
+Industrial Application Software IAS,https://canias40.com,https://www.linkedin.com/company/7453126,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO114,EMP214
+Kagool,https://kagool.com,https://www.linkedin.com/company/1366582,44033393999490.0,44.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO115,EMP215
+Datamatics Group,https://datamaticsgroup.com,https://www.linkedin.com/company/3334705,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO116,EMP216
+Xee,https://xee.com,https://www.linkedin.com/company/2996707,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO117,EMP217
+Cycos,https://cycos.com,https://www.linkedin.com/company/16245,49897007220330.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO118,EMP218
+Cycos An Eviden Business,https://cycos.com,https://www.linkedin.com/company/16245,49897007220330.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO118,EMP219
+Freelancestiumer,,,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,,EMP220
+Clickworker,https://clickworker.com,https://www.linkedin.com/company/877455,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO095,EMP221
+Allgeier Experts,https://emagine.de,https://www.linkedin.com/company/15229509,490899192920300.0,49.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP222
+Tiime,https://tiime.fr,https://www.linkedin.com/company/11283922,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO008,EMP223
+Intenta,https://intenta.de,https://www.linkedin.com/company/88036053,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO120,EMP224
+Vearsa,https://vearsa.com,https://www.linkedin.com/company/1571167,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO121,EMP225
+Pure Barre,https://purebarre.com,https://www.linkedin.com/company/227647,,,110.0,500.0,305.0,Média,Saúde & Bem-Estar,Saúde & Farmacêutico,Média,GEO122,EMP226
+Gemalto,https://thalesgroup.com/en/markets/digital-identity-and-security,https://www.linkedin.com/company/2683,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO123,EMP227
+INFOLOG,https://infolog.de,https://www.linkedin.com/company/88901397,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO124,EMP228
+Wavestone,https://wavestone.com,https://www.linkedin.com/company/10133,,,10010.0,50000.0,30005.0,Enterprise,Consultoria Em Gestão,Consultoria & Serviços,Enterprise,,EMP229
+20SHOTS,https://20shots.co.uk,https://www.linkedin.com/company/14822302,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP230
+Awingu,https://awingu.com,https://www.linkedin.com/company/2333763,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,,EMP231
+Noventiq,https://noventiq.com,https://www.linkedin.com/company/87212668,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP232
+ISAGRI Groupe,https://groupe.isagri.com,https://www.linkedin.com/company/29314023,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO126,EMP233
+Goodvision,https://goodvisionlive.com,https://www.linkedin.com/company/18128524,44020387834250.0,44.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP234
+Housing Partners,https://housingpartners.co.uk,https://www.linkedin.com/company/1974379,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO127,EMP235
+Betfair,https://betfair.com,https://www.linkedin.com/company/162698,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO006,EMP236
+Swile,https://do.swile.co/LK,https://www.linkedin.com/company/37538898,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO008,EMP237
+Mybus,https://monkeyfactory.fr,https://www.linkedin.com/company/22292988,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO128,EMP238
+UXMA & Kg,https://uxma.com/de,https://www.linkedin.com/company/35631563,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO129,EMP239
+Stimme Mediengruppe,https://stimme-mediengruppe.de,https://www.linkedin.com/company/5629357,71316156150.0,49.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO130,EMP240
+BPCE Infogérance & Technologies,https://bpce-it.fr,https://www.linkedin.com/company/10544551,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO008,EMP241
+T-Systems South Africa,https://t-systems.com,https://www.linkedin.com/company/1592,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO058,EMP242
+Rödl & Partner,https://roedl.de,https://www.linkedin.com/company/455531,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO018,EMP243
+Vlaanderen Connect,https://vlaanderenconnect.be,https://www.linkedin.com/company/9280353,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO056,EMP244
+ARIADNEXT,https://idnow.io/fr,https://www.linkedin.com/company/527580,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO131,EMP245
+TIER Mobility,https://tier.app,https://www.linkedin.com/company/11820361,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO002,EMP246
+AQUASSAY,https://aquassay.com,https://www.linkedin.com/company/9431282,5870380570.0,33.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO132,EMP247
+Ahold Delhaize,https://aholddelhaize.com,https://www.linkedin.com/company/10877849,,,100010.0,,100010.0,Enterprise,Varejo,Varejo & Consumo,Enterprise,,EMP248
+BonialCom,https://bonial.com/de,https://www.linkedin.com/company/3130737,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO002,EMP249
+Teclet,https://expert.onthemarket.com/software,https://www.linkedin.com/company/2497008,33300630000.0,44.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP250
+Operator Chmury Krajowej - Ochk,https://ochk.cloud,https://www.linkedin.com/company/19024358,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO066,EMP251
+Operator Chmury Krajowej,https://ochk.cloud,https://www.linkedin.com/company/19024358,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO066,EMP252
+The Unity Soft,https://theunitysoft.com,https://www.linkedin.com/company/99912336,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO006,EMP253
+Allbranded,https://allbranded.de,https://www.linkedin.com/company/3061947,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO087,EMP254
+JANUS Engineering,https://janus-engineering.com,https://www.linkedin.com/company/3219238,4970317559900.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO099,EMP255
+REAKTO Polska,https://reakto.eu,https://www.linkedin.com/company/74817480,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO011,EMP256
+HOLOGATE,https://hologate.com,https://www.linkedin.com/company/18116130,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO005,EMP257
+Heycar,https://heycar.com,https://www.linkedin.com/company/20495183,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP258
+Logicalis Uk,https://uki.logicalis.com,https://www.linkedin.com/company/2425150,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO134,EMP259
+Siemens Munich Germany,https://siemens.com,https://www.linkedin.com/company/1043,,,100010.0,,100010.0,Enterprise,Automação Industrial,Outros,Enterprise,GEO005,EMP260
+Siemensmmunications,https://siemens.com,https://www.linkedin.com/company/1043,,,100010.0,,100010.0,Enterprise,Automação Industrial,Outros,Enterprise,GEO005,EMP261
+Siemens Enterprisemmunication,https://siemens.com,https://www.linkedin.com/company/1043,,,100010.0,,100010.0,Enterprise,Automação Industrial,Outros,Enterprise,GEO005,EMP262
+Siemensm Enterprise,https://siemens.com,https://www.linkedin.com/company/1043,,,100010.0,,100010.0,Enterprise,Automação Industrial,Outros,Enterprise,GEO005,EMP263
+Etiv-System Gmbh,https://etiv-system.de,https://www.linkedin.com/company/65377868,492219865071500.0,49.0,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO124,EMP264
+Tweaq,https://linktr.ee/tweaqco,https://www.linkedin.com/company/68846200,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO014,EMP265
+Pdm Solutions,https://pdm-solutions.com,https://www.linkedin.com/company/6297259,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP266
+Ip Dynamics,https://ipdynamics.de,https://www.linkedin.com/company/10535914,4940572767670.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO087,EMP267
+Konrad Sp Z OO,https://konradsp.pl,https://www.linkedin.com/company/8067134,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO135,EMP268
+Codility,https://codility.com,https://www.linkedin.com/company/519960,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP269
+Collaboration Factory,https://cplace.com/impressum,https://www.linkedin.com/company/10307505,898091332300.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO005,EMP270
+Techpilot - Dynamicmarkets,https://techpilot.de,https://www.linkedin.com/company/18171174,490895994444000.0,49.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO005,EMP271
+Xantaro,https://xantaro.net,https://www.linkedin.com/company/783761,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO087,EMP272
+3I-Vision,https://3i-vision.com,https://www.linkedin.com/company/20102131,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP273
+AIR WALLET,https://airwalletofficial.com,https://www.linkedin.com/company/14451462,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO098,EMP274
+Sectorea It,https://sectorea.com,https://www.linkedin.com/company/10451277,349106243990.0,34.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO136,EMP275
+Ciberkon,https://ciberkon.com,https://www.linkedin.com/company/84272982,,,,,,Fora da faixa,Tecnologia Da Informação & Serviços,Tecnologia & TI,Fora da Faixa,GEO137,EMP276
+EPBJCIBJC,,,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,,EMP277
+XITASO,https://xitaso.com,https://www.linkedin.com/company/2626750,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO139,EMP278
+Methods,https://methods.co.uk,https://www.linkedin.com/company/36404,20724011210.0,44.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO006,EMP279
+The Pointmpany,https://thepointco.com,https://www.linkedin.com/company/16265348,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP280
+Liberata,https://liberata.com,https://www.linkedin.com/company/164723,44020737837000.0,44.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP281
+Nagarro,https://nagarro.com,https://www.linkedin.com/company/11902,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP282
+M6Toll,https://m6toll.co.uk,https://www.linkedin.com/company/3844805,,,510.0,2000.0,1255.0,Grande,Transporte & Logística,Outros,Grande,GEO141,EMP283
+Mgm Technology Partners,https://mgm-tp.com,https://www.linkedin.com/company/72035,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP284
+Knowledgeworks,https://knowledgeworks.pt,https://www.linkedin.com/company/102913,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO142,EMP285
+Pricewaterhousecoopers,https://pwc.com/gx/en,https://www.linkedin.com/company/1044,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP286
+Infopro Digital,https://infopro-digital.com/fr,https://www.linkedin.com/company/884370,,,10010.0,50000.0,30005.0,Enterprise,Internet & Serviços Online,Tecnologia & TI,Enterprise,GEO143,EMP287
+Combell,https://combell.com/nl,https://www.linkedin.com/company/80535,,,2010.0,5000.0,3505.0,Muito grande,Internet & Serviços Online,Tecnologia & TI,Muito Grande,GEO144,EMP288
+Researchgate,https://researchgate.net,https://www.linkedin.com/company/568667,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP289
+Aryza,https://aryza.com,https://www.linkedin.com/company/10411215,80007200920.0,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,,EMP290
+Eppione,https://eppione.com,https://www.linkedin.com/company/21291226,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO146,EMP291
+SSL247,https://ssl247.com,https://www.linkedin.com/company/938590,20451920970.0,44.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP292
+Altran,https://capgemini-engineering.com,https://www.linkedin.com/company/3124,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO147,EMP293
+Orange Business Services,https://orange-business.com,https://www.linkedin.com/company/1112,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO070,EMP294
+Northern Data,https://northerndata.de,https://www.linkedin.com/company/27195929,4969348752250.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO058,EMP295
+Nrail - Information Technologies,https://nrail.de,https://www.linkedin.com/company/11866144,4088880061000.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO087,EMP296
+APC,https://apc.com,https://www.linkedin.com/company/2795,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO148,EMP297
+Greenergy Data Centers,https://greenergydatacenters.com,https://www.linkedin.com/company/69766571,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO149,EMP298
+Agilisys,https://agilisys.co.uk,https://www.linkedin.com/company/6662,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP299
+NEUROHM,https://neurohm.com,https://www.linkedin.com/company/10301966,487857309730.0,48.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO066,EMP300
+Intergral Fusionreactor APM,https://intergral.com,https://www.linkedin.com/company/1827379,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO093,EMP301
+Capita,https://capita.com,https://www.linkedin.com/company/3934,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP302
+NOVUM-RGI,https://novum-rgi.de,https://www.linkedin.com/company/5393082,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO018,EMP303
+Tts - We Empower People,https://tt-s.com,https://www.linkedin.com/company/682004,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO150,EMP304
+Tts - Knowledge Matters,https://tt-s.com,https://www.linkedin.com/company/682004,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO150,EMP305
+Ajilon Uk,https://ajilon.co.uk,https://www.linkedin.com/company/665592,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO151,EMP306
+CAULFIELD TRANSPORT LTD,https://caulfieldtransport.com,https://www.linkedin.com/company/6163824,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO121,EMP307
+Guidance Technologies,https://guidancetec.com,https://www.linkedin.com/company/1074268,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP308
+Sopra Banking Software,https://sbs-software.com,https://www.linkedin.com/company/2646846,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO013,EMP309
+Layer Datansulting,https://layer-data.com,https://www.linkedin.com/company/34730122,336146203060.0,33.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO152,EMP310
+GRAITEC GROUP,https://graitec-group.com,https://www.linkedin.com/company/74751,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO008,EMP311
+AID Add Intelligence To Data - Data Agency,https://aid.fr,https://www.linkedin.com/company/14762,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO008,EMP312
+Johnson & Johnson,https://jnj.com,https://www.linkedin.com/company/1207,,,100010.0,,100010.0,Enterprise,Saúde & Hospitais,Saúde & Farmacêutico,Enterprise,GEO153,EMP313
+Kimcell,https://x-net.co.uk,https://www.linkedin.com/company/2636496,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO154,EMP314
+Kisio Digital,https://hove.com,https://www.linkedin.com/company/269166,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO008,EMP315
+Statista,https://statista.com,https://www.linkedin.com/company/1042846,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO087,EMP316
+Cleverbridge,https://grow.cleverbridge.com,https://www.linkedin.com/company/125364,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO124,EMP317
+ComparethemarketCom,https://comparethemarket.com,https://www.linkedin.com/company/1136746,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO006,EMP318
+AKG Civil Solutions,https://akgcivil.com,https://www.linkedin.com/company/41233059,,,,,,Fora da faixa,Tecnologia Da Informação & Serviços,Tecnologia & TI,Fora da Faixa,GEO155,EMP319
+Cartier,https://cartier.com,https://www.linkedin.com/company/5001,,,50010.0,100000.0,75005.0,Enterprise,Produtos De Luxo & Joalheria,Outros,Enterprise,GEO156,EMP320
+Menuspring,https://menuspring.com,https://www.linkedin.com/company/2770975,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO006,EMP321
+Capita Business Services,https://capita.co.uk,https://www.linkedin.com/company/3935,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP322
+IDEMIA,https://idemia.com,https://www.linkedin.com/company/3488,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO013,EMP323
+Thalia Bücher,https://unternehmen.thalia.de,https://www.linkedin.com/company/6918896,,,50010.0,100000.0,75005.0,Enterprise,Varejo,Varejo & Consumo,Enterprise,GEO158,EMP324
+Bridgehead Pharmalicensing Group,https://nielseniq.com/global/en/industries/tech-and-durables/​,https://www.linkedin.com/company/4371,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP325
+Coremedia,https://coremedia.com,https://www.linkedin.com/company/17851,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO087,EMP326
+UBH Software & Engineering,https://ubh.de,https://www.linkedin.com/company/41231291,,,,,,Fora da faixa,Tecnologia Da Informação & Serviços,Tecnologia & TI,Fora da Faixa,GEO160,EMP327
+S&K Solutions,https://sk-solutions.de,https://www.linkedin.com/company/75556646,49851200930100.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO161,EMP328
+AI&DATA,https://aid.fr,https://www.linkedin.com/company/14762,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO008,EMP329
+Birdz,https://birdz.com,https://www.linkedin.com/company/2133333,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO162,EMP330
+Devoteam Data Driven,https://devoteam.com/expertise/data-driven,https://www.linkedin.com/company/125060,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO023,EMP331
+NominationFr,https://nomination.fr,https://www.linkedin.com/company/93427,1826969000.0,33.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO008,EMP332
+Brongle,https://brongle1.com,https://www.linkedin.com/company/68796623,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO163,EMP333
+Energy Net,https://energy-net.de,https://www.linkedin.com/company/7479927,4969976970900.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO058,EMP334
+VIDAL Grop,https://vidalfrance.com,https://www.linkedin.com/company/61440,9774018180.0,33.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO106,EMP335
+SPORTTOTAL TECHNOLOGY,https://sporttotal.com,https://www.linkedin.com/company/66650149,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO164,EMP336
+Techem,https://techem.com/de/de.html,https://www.linkedin.com/company/95406,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO165,EMP337
+Fluidstack,https://fluidstack.io,https://www.linkedin.com/company/27024383,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP338
+GSD Remarketing & Kg,https://gsd.eu,https://www.linkedin.com/company/8030107,4908980069500.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO166,EMP339
+Nextevolution,https://nextevolution.de,https://www.linkedin.com/company/72003,494082223200.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO087,EMP340
+Scopeland Technology,https://scopeland.de,https://www.linkedin.com/company/3492126,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO002,EMP341
+Basecom,https://basecom.de,https://www.linkedin.com/company/12216324,4954158028700.0,49.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO167,EMP342
+Billwerk,https://frisbii.com,https://www.linkedin.com/company/10927933,49693487799200.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO058,EMP343
+Devexperts,https://devexperts.com,https://www.linkedin.com/company/25277,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO024,EMP344
+Ista,https://ista.ly/m/social,https://www.linkedin.com/company/238245,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO095,EMP345
+Civica,https://civica.com,https://www.linkedin.com/company/163093,,,50010.0,100000.0,75005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP346
+Star,https://star.global,https://www.linkedin.com/company/13984126,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,,EMP347
+Oberthur Technologies,https://idemia.com,https://www.linkedin.com/company/3488,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO013,EMP348
+PSI Software,https://psi.de,https://www.linkedin.com/company/2876041,4930280100.0,49.0,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO002,EMP349
+Winnow,https://winnowsolutions.com,https://www.linkedin.com/company/5366082,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP350
+Inherrit,https://inherrit.com,https://www.linkedin.com/company/94251709,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,GEO006,EMP351
+MonkinetIo,https://monkinet.io,https://www.linkedin.com/company/83062555,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO169,EMP352
+Sopra Hr Software España,https://soprahr.com/es/home,https://www.linkedin.com/company/9307621,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP353
+PROXIAD,https://proxiad.com,https://www.linkedin.com/company/10383040,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO008,EMP354
+GofemininDe,https://gofeminin.de,https://www.linkedin.com/company/1883405,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO124,EMP355
+Compare The Market,https://comparethemarket.com,https://www.linkedin.com/company/1136746,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO006,EMP356
+Eucon Group,https://eucon.com,https://www.linkedin.com/company/990136,49251144961000.0,49.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO067,EMP357
+TIMETOACT GROUP,https://timetoact-group.com,https://www.linkedin.com/company/95943,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO124,EMP358
+Software Developmentmpany,https://artbees.co.uk,https://www.linkedin.com/company/41330,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP359
+Atos,https://atos.net,https://www.linkedin.com/company/1259,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP360
+Hypoport Se,https://karriere.hypoport.de,https://www.linkedin.com/company/5045077,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO002,EMP361
+Outpayce From Amadeus,https://outpayce.com,https://www.linkedin.com/company/9442544,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO172,EMP362
+ION,https://on.iongroup.com/3QN0vLD,https://www.linkedin.com/company/10184,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO006,EMP363
+Adaptavist,https://adaptavist.com,https://www.linkedin.com/company/443738,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO006,EMP364
+Globallogic UK&I,https://globallogic.com/uki,https://www.linkedin.com/company/597750,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO006,EMP365
+NTT,https://services.global.ntt,https://www.linkedin.com/company/19126858,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP366
+Onventis,https://onventis.de,https://www.linkedin.com/company/146838,4971168687500.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO091,EMP367
+Gurtam,https://gurtam.com,https://www.linkedin.com/company/2531480,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO174,EMP368
+Fresh8 Gaming,https://fresh8gaming.com,https://www.linkedin.com/company/10544344,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP369
+Forbis,https://forbis.eu,https://www.linkedin.com/company/391006,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO001,EMP370
+Nechi Group,https://nechigroup.com,https://www.linkedin.com/company/2223683,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO010,EMP371
+Kollex,https://kollex.de,https://www.linkedin.com/company/12581138,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO002,EMP372
+Eucon,https://eucon.com,https://www.linkedin.com/company/990136,49251144961000.0,49.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO067,EMP373
+INFORM - Optimization Software,https://inform-software.com,https://www.linkedin.com/company/164355,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO118,EMP374
+ORAYLIS Business Intelligence,https://oraylis.de,https://www.linkedin.com/company/802882,21117945600.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO175,EMP375
+Edudigital Educação E Tecnologias,https://edudigital.pt,https://www.linkedin.com/company/3654256,3512143914760.0,351.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO176,EMP376
+BOXIA,https://boxia.co,https://www.linkedin.com/company/11084812,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO008,EMP377
+Fleets International Enterprises,https://fleetsenterprises.com,https://www.linkedin.com/company/1032628,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO177,EMP378
+Iobeya,https://iobeya.com,https://www.linkedin.com/company/2927409,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO178,EMP379
+Abat,https://abat.de/de/abatplus,https://www.linkedin.com/company/53142430,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO179,EMP380
+VAPS,https://vaps.de,https://www.linkedin.com/company/7213926,5136936200.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO180,EMP381
+Mediainterface,https://mediainterface.de,https://www.linkedin.com/company/2345120,493515636900.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO181,EMP382
+Techwisely,https://techwisely.co.uk,https://www.linkedin.com/company/27182089,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO006,EMP383
+Cartrack Portugal,https://cartrack.pt,https://www.linkedin.com/company/10853523,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO182,EMP384
+Carvivo,https://carvivo.com,https://www.linkedin.com/company/3069804,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO008,EMP385
+Geneanet,https://geneanet.org,https://www.linkedin.com/company/133947,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO008,EMP386
+NOVENTI Health Se,https://noventi.de,https://www.linkedin.com/company/20278563,4989431845000.0,49.0,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO005,EMP387
+Toshiba Europe,https://toshiba.eu,https://www.linkedin.com/company/785425,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO183,EMP388
+ELEKS,https://eleks.com,https://www.linkedin.com/company/13412,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO098,EMP389
+INTREXX,https://intrexx.com,https://www.linkedin.com/company/1133327,497612070300.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO184,EMP390
+Fintechmpany,https://gudens.com,https://www.linkedin.com/company/35712075,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO006,EMP391
+1St Solution Consulting Gmbh,https://1st-solution-group.com,https://www.linkedin.com/company/473365,4921115983500.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO060,EMP392
+Admeritia,https://admeritia.de,https://www.linkedin.com/company/5835648,4921732036300.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO185,EMP393
+Infomil,https://infomil.com,https://www.linkedin.com/company/10598044,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO069,EMP394
+Akeneo,https://akeneo.com,https://www.linkedin.com/company/2862073,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO186,EMP395
+Future Processing Sp Z OO,https://future-processing.com,https://www.linkedin.com/company/678834,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO187,EMP396
+Informatique CDC,https://icdc.caissedesdepots.fr,https://www.linkedin.com/company/8030926,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO188,EMP397
+WSP In The Uk,https://linktr.ee/wspuk,https://www.linkedin.com/company/166984,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP398
+Ebilet Polska,https://ebilet.pl,https://www.linkedin.com/company/5230871,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO066,EMP399
+Value Governance Research,https://valuegovernance.com,https://www.linkedin.com/company/22308632,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO006,EMP400
+Quantum Mads,https://quantum-mads.com,https://www.linkedin.com/company/66211768,6287593970.0,34.0,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO189,EMP401
+Flexis Supply Chain Solutions,https://flexis.com,https://www.linkedin.com/company/87261,4971178238000.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO091,EMP402
+Flexis,https://flexis.com,https://www.linkedin.com/company/87261,4971178238000.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO091,EMP403
+Cognodata,https://cognodata.com,https://www.linkedin.com/company/136714,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO172,EMP404
+TACTECH New Media,https://tactech.digital,https://www.linkedin.com/company/85622239,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO190,EMP405
+Jedox,https://jedox.com,https://www.linkedin.com/company/231653,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO184,EMP406
+CLOWD9,https://clowd9.com,https://www.linkedin.com/company/74035624,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP407
+Mikadolabs,https://mikadolabs.com,https://www.linkedin.com/company/15204974,6617666340.0,33.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO013,EMP408
+Telecentras,https://telecentras.lt,https://www.linkedin.com/company/687186,370520403000.0,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO001,EMP409
+Magicbeans,https://magicbeans.pt,https://www.linkedin.com/company/11008950,3513088148210.0,351.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO142,EMP410
+TAPDE Solutions,https://tap.de,https://www.linkedin.com/company/14003780,49942151015000.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO191,EMP411
+Strix De,https://strix.net/de,https://www.linkedin.com/company/7367739,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO165,EMP412
+PSW GROUP,https://psw-group.de,https://www.linkedin.com/company/1025565,661480276100.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO192,EMP413
+PSW Groupnsulting & Kg,https://psw-group.de,https://www.linkedin.com/company/1025565,661480276100.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO192,EMP414
+Appsfactory,https://appsfactory.de,https://www.linkedin.com/company/12369208,490341355920500.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO053,EMP415
+Sopra Steria,https://soprasteria.com,https://www.linkedin.com/company/3054,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO008,EMP416
+Kpler,https://kpler.com,https://www.linkedin.com/company/3210691,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO056,EMP417
+EosUptrade,https://eos-uptrade.com,https://www.linkedin.com/company/3308415,494080807000.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO087,EMP418
+Digitupmpany,https://digitupcompany.com,https://www.linkedin.com/company/79592907,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO008,EMP419
+Anexiansultoría,https://consultoria.anexia.es,https://www.linkedin.com/company/11223255,9121701440.0,34.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO193,EMP420
+Wunderbit & Kg,https://wunderbit.de,https://www.linkedin.com/company/77667994,643177819000.0,49.0,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO194,EMP421
+Dibuco - The Digital Businessmpany,https://dibuco.de,https://www.linkedin.com/company/15222761,49711699475600.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO195,EMP422
+Aixigo,https://aixigo.com,https://www.linkedin.com/company/9097955,49024155970900.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO118,EMP423
+Fluid-E Supply Chain Orchestration,https://fluid-e.com,https://www.linkedin.com/company/1112862,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO008,EMP424
+Deepki,https://deepki.com,https://www.linkedin.com/company/9184036,331460609190.0,33.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO008,EMP425
+SATEC,https://satec.es,https://www.linkedin.com/company/15018,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO172,EMP426
+Exclusive Networks España,https://exclusive-networks.com/es,https://www.linkedin.com/company/3641809,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO172,EMP427
+Electoral Reform Services,https://electoralreform.co.uk,https://www.linkedin.com/company/135615,20836589090.0,44.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP428
+VAKT Global,https://vakt.com,https://www.linkedin.com/company/18668477,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP429
+Microtech,https://microtech.de,https://www.linkedin.com/company/8786757,6717961600.0,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,,EMP430
+MEDIFOX DAN,https://medifoxdan.de,https://www.linkedin.com/company/8492835,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO197,EMP431
+OPEN MIND SYSTEMS,https://openmindsystems.com.es,https://www.linkedin.com/company/3117324,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO198,EMP432
+Parkopedia,https://business.parkopedia.com,https://www.linkedin.com/company/845050,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO199,EMP433
+Cdiscount,https://emploi.cdiscount.com/rejoignez-nous,https://www.linkedin.com/company/38727,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO200,EMP434
+CTAIMA,https://ctaima.com,https://www.linkedin.com/company/1554147,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO201,EMP435
+NTT DATA Europe & Latam,https://nttdata.com,https://www.linkedin.com/company/76533648,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO172,EMP436
+Jobandtalent,https://jobandtalent.com,https://www.linkedin.com/company/296493,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO172,EMP437
+IGEL Technology,https://igel.com,https://www.linkedin.com/company/59152,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,,EMP438
+Smals,https://smals.be,https://www.linkedin.com/company/6138,320278757110.0,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO056,EMP439
+Atos International,https://atos.net,https://www.linkedin.com/company/1259,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,,EMP440
+TORUS ACTIONS,https://torus.ai,https://www.linkedin.com/company/44895138,7492347150.0,33.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO204,EMP441
+Medicalsyn,https://medicalsyn.com,https://www.linkedin.com/company/12614643,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO205,EMP442
+Bleenco,https://bleenco.com,https://www.linkedin.com/company/18051535,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO005,EMP443
+LANDYTECH,https://landytech.com,https://www.linkedin.com/company/12986197,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP444
+Privalia,https://privalia.com,https://www.linkedin.com/company/502921,,,5010.0,10000.0,7505.0,Enorme,Internet & Serviços Online,Tecnologia & TI,Enorme,GEO206,EMP445
+Plantix,https://plantix.net,https://www.linkedin.com/company/10620325,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP446
+RCA,https://rca.fr,https://www.linkedin.com/company/10595806,2409587300.0,33.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO207,EMP447
+Bosch,https://bosch.com,https://www.linkedin.com/company/2508619,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO208,EMP448
+Freetrade,https://freetrade.io,https://www.linkedin.com/company/10442860,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP449
+Upscaler,https://upscaler.com,https://www.linkedin.com/company/74583810,353196433240.0,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO024,EMP450
+Mail Metrics,https://mailmetrics.com,https://www.linkedin.com/company/15209445,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO024,EMP451
+Telemedicine Technologies,https://tentelemed.com,https://www.linkedin.com/company/2925239,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO019,EMP452
+Quinten,https://quinten.ai,https://www.linkedin.com/company/2187618,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO008,EMP453
+Ricoh Uk,https://ricoh.co.uk,https://www.linkedin.com/company/544250,4416048149000.0,44.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO209,EMP454
+Numbr Paris Ex Novaa Expertise &Ityz,https://numbr.co,https://www.linkedin.com/company/9175646,,,110.0,500.0,305.0,Média,Contabilidade,Outros,Média,GEO008,EMP455
+Niji,https://niji.fr,https://www.linkedin.com/company/13435,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO106,EMP456
+Telemedicine Technologies Belgium,https://tentelemed.com,https://www.linkedin.com/company/5207247,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO210,EMP457
+Business & Decision,https://businessdecision.com,https://www.linkedin.com/company/162837,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO013,EMP458
+SYSTKOM,https://systkom.com,https://www.linkedin.com/company/73085620,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO211,EMP459
+Business & Decision Group,https://businessdecision.com,https://www.linkedin.com/company/162837,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO013,EMP460
+Qredo,https://zenrocklabs.io,https://www.linkedin.com/company/9308747,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP461
+Epiconcept Company Epidemiology - E-Health - Data Science,https://epiconcept.fr,https://www.linkedin.com/company/2723300,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO008,EMP462
+Median Technologies,https://mediantechnologies.com,https://www.linkedin.com/company/92495,334933337770.0,33.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO212,EMP463
+Waysia Ex Alorsfaim,https://mywaysia.com/fr,https://www.linkedin.com/company/19056353,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO008,EMP464
+ALORSFAIM,https://mywaysia.com/fr,https://www.linkedin.com/company/19056353,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO008,EMP465
+Groupe IDAIA,https://idaia.group,https://www.linkedin.com/company/2485769,1445166990.0,33.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO213,EMP466
+BOCASAY,https://bocasay.com,https://www.linkedin.com/company/3505361,1850924300.0,33.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO147,EMP467
+Dxfeed,https://dxfeed.com,https://www.linkedin.com/company/11298799,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO005,EMP468
+Grupo Oesía,https://grupooesia.com,https://www.linkedin.com/company/247724,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO214,EMP469
+Kommunaler Versorgungsverband Brandenburg,https://kvbbg.de,https://www.linkedin.com/company/36459825,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO215,EMP470
+Reiz Tech,https://reiz.tech,https://www.linkedin.com/company/17961695,370639020600.0,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO001,EMP471
+IGT,https://igt.com,https://www.linkedin.com/company/5147,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO006,EMP472
+Digital Catapult,https://digicatapult.org.uk,https://www.linkedin.com/company/3179878,20388235570.0,44.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP473
+Omniga & Kg,https://omniga.de,https://www.linkedin.com/company/8066479,49941464601460.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO216,EMP474
+Fintegry,https://fintegry.com,https://www.linkedin.com/company/18238157,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO001,EMP475
+EvergabeDe,https://evergabe.de,https://www.linkedin.com/company/11442837,493514109314000.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO181,EMP476
+CYBERDYNE It,https://cyberdyne.de,https://www.linkedin.com/company/5143914,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO124,EMP477
+Porism,https://porism.com,https://www.linkedin.com/company/10111261,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO217,EMP478
+3U TELECOM,https://uuu.de/managedservices,https://www.linkedin.com/company/49094931,490642199916660.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO218,EMP479
+Impetus Unternehmensberatung,https://impetus.biz,https://www.linkedin.com/company/11307065,69713749900.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO165,EMP480
+International Game Technology,https://igt.com,https://www.linkedin.com/company/5147,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO006,EMP481
+Centili,https://centili.com,https://www.linkedin.com/company/2654434,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP482
+Lifeflow,https://hemolens.eu,https://www.linkedin.com/company/13015779,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO012,EMP483
+Converteo,https://converteo.com,https://www.linkedin.com/company/367690,1841606600.0,33.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO008,EMP484
+FULLSOON,https://fullsoon.co,https://www.linkedin.com/company/74090368,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO023,EMP485
+KPC - KEY PERFORMANCE CONSULTING,https://kpcgroup.fr,https://www.linkedin.com/company/3120635,1873911540.0,33.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO030,EMP486
+Innopublica,https://innopublica.fr,https://www.linkedin.com/company/18550161,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO219,EMP487
+Autenti,https://autenti.com,https://www.linkedin.com/company/241396,482229051120.0,48.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO220,EMP488
+Makolab,https://makolab.com,https://www.linkedin.com/company/47233,484223928500.0,48.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO135,EMP489
+Autoretouch,https://autoretouch.com,https://www.linkedin.com/company/64290216,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO008,EMP490
+LEmpreinte,https://peftrust.com,https://www.linkedin.com/company/72618312,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO221,EMP491
+Saebaweb,https://saebaweb.com,https://www.linkedin.com/company/10083349,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO221,EMP492
+Centron,https://centron.de/impressum-und-datenschutz,https://www.linkedin.com/company/5292165,499519683400.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO222,EMP493
+Energy Brainpool & Kg,https://montelgroup.com/products/analytics,https://www.linkedin.com/company/10244698,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP494
+IKOR,https://ikor.one,https://www.linkedin.com/company/9998215,4940819944200.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO087,EMP495
+DOUBLETRADE,https://doubletrade.com,https://www.linkedin.com/company/114449,1711631000.0,33.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO106,EMP496
+Schüttflix,https://schuettflix.com/de/de,https://www.linkedin.com/company/14004199,5241500512600.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO223,EMP497
+Extra Horizon,https://extrahorizon.com,https://www.linkedin.com/company/68797021,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO163,EMP498
+PROSPER X,https://prosper-x.de,https://www.linkedin.com/company/11846856,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO224,EMP499
+Diva-E Digital Value Excellence,https://diva-e.com,https://www.linkedin.com/company/10437077,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO005,EMP500
+CDS Uk,https://cds.co.uk,https://www.linkedin.com/company/507401,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO225,EMP501
+Softdent,https://softdent.eu,https://www.linkedin.com/company/905406,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO226,EMP502
+DILUZ,https://diluz.fr,https://www.linkedin.com/company/71494904,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO227,EMP503
+PST,https://pst.ag,https://www.linkedin.com/company/10396629,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO002,EMP504
+HLB International,https://hlb.global,https://www.linkedin.com/company/640780,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO006,EMP505
+Foundry,https://foundry.com,https://www.linkedin.com/company/33583,20747943500.0,44.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP506
+Yechte,https://yechte.com,https://www.linkedin.com/company/918677,4420813390750.0,44.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP507
+Astara Western Europe,https://astara.jobtoolz.com/nl,https://www.linkedin.com/company/18012118,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO035,EMP508
+Institute Ofsmos Sciences ICCUB,https://icc.ub.edu,https://www.linkedin.com/company/11748922,,,2010.0,5000.0,3505.0,Muito grande,Pesquisa,Educação & Pesquisa,Muito Grande,GEO010,EMP509
+Fischer Information Technology,https://fischer-information.com,https://www.linkedin.com/company/10852592,7738929400.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO228,EMP510
+NORRIQ Financial Services,https://norriq.com/financial-services,https://www.linkedin.com/company/98148838,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO056,EMP511
+Lemongrassnsulting,https://lemongrasscloud.com,https://www.linkedin.com/company/947134,44080823435760.0,44.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO217,EMP512
+Läkkerai,https://laekkerai.com,https://www.linkedin.com/company/86005044,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO002,EMP513
+ACCELERAID,https://acceleraid.ai,https://www.linkedin.com/company/350664,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO108,EMP514
+Eurofins Food Assurance,https://eurofins.com/assurance,https://www.linkedin.com/company/11441047,324911563890.0,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO056,EMP515
+T-Systems International,https://t-systems.com,https://www.linkedin.com/company/1592,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO058,EMP516
+Tridion Digital Solutions,https://hrlab.de/hr-tool,https://www.linkedin.com/company/18013513,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP517
+STUDIA,https://studia.fr,https://www.linkedin.com/company/5117902,4423721200.0,33.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO229,EMP518
+Serimag,https://serimag.com,https://www.linkedin.com/company/5123622,9347700070.0,34.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO230,EMP519
+Prodot - Software Für Marktführer,https://prodot.de,https://www.linkedin.com/company/5205238,4920339650800.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO231,EMP520
+Etracker,https://etracker.com,https://www.linkedin.com/company/1076210,49405556595600.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO087,EMP521
+Sales-I,https://sales-i.com/book-demo,https://www.linkedin.com/company/1289366,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO076,EMP522
+Twinred,https://twinred.com,https://www.linkedin.com/company/30081847,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO010,EMP523
+FinancialCom,https://financial.com,https://www.linkedin.com/company/2611690,49893185289000.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO005,EMP524
+Capably,https://capably.ai,https://www.linkedin.com/company/95962995,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP525
+Predisurge,https://predisurge.com,https://www.linkedin.com/company/26132380,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO232,EMP526
+Implico Group,https://implico.com,https://www.linkedin.com/company/92475,494027093600.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO087,EMP527
+DOCARET,https://docaret.com,https://www.linkedin.com/company/3152007,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO148,EMP528
+Splyt,https://splyt.com,https://www.linkedin.com/company/9220181,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP529
+MGS - Marque Group Solutions,https://marquegroupsolutions.com,https://www.linkedin.com/company/79149613,44033080812680.0,44.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO233,EMP530
+Greyparrot,https://greyparrot.ai,https://www.linkedin.com/company/19044235,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP531
+Audimex,https://aunetic.com,https://www.linkedin.com/company/3330034,82131987600.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO139,EMP532
+SYNAXON,https://synaxon.com,https://www.linkedin.com/company/87200210,520792992000.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO234,EMP533
+Yeme Tech,https://yemetech.com,https://www.linkedin.com/company/80021645,12747239090.0,44.0,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO006,EMP534
+Tungsten Network,https://tungsten-network.com,https://www.linkedin.com/company/22101,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO006,EMP535
+Sarosnsulting,https://sarosconsulting.com,https://www.linkedin.com/company/10798358,353165331710.0,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,,EMP536
+MODAMUSE,https://modamuse.com,https://www.linkedin.com/company/103810277,4474245817740.0,44.0,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO006,EMP537
+Epruf SA,https://eprufpartner.pl,https://www.linkedin.com/company/15871687,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO135,EMP538
+Alteia,https://alteia.com,https://www.linkedin.com/company/68480249,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO236,EMP539
+INOVEPIC,https://inovepic.de,https://www.linkedin.com/company/96270766,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO237,EMP540
+Bedisruptive,https://bedisruptive.com,https://www.linkedin.com/company/40715988,9119110900.0,34.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO172,EMP541
+Inovex,https://inovex.de,https://www.linkedin.com/company/92113,497231319100.0,49.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO114,EMP542
+Uniserv Customer Data Experts,https://uniserv.com,https://www.linkedin.com/company/303740,723193600.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO238,EMP543
+AUCOTEC,https://aucotec.com,https://www.linkedin.com/company/357114,49511610300.0,49.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO239,EMP544
+Tebis Technische Informationssysteme,https://tebis.com,https://www.linkedin.com/company/12205735,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO240,EMP545
+Peakavenue,https://peakavenue.com,https://www.linkedin.com/company/93163427,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO241,EMP546
+DOXENSE,https://doxense.com,https://www.linkedin.com/company/289524,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO242,EMP547
+Uqudo,https://uqu.do,https://www.linkedin.com/company/13668733,,,110.0,500.0,305.0,Média,Segurança Da Informação,Tecnologia & TI,Média,GEO243,EMP548
+JuNiz,https://juniz.com,https://www.linkedin.com/company/93594185,,,510.0,2000.0,1255.0,Grande,Serviços De Energia Renovável,Outros,Grande,GEO244,EMP549
+Shapein Solutions,https://shapein-integrations.com,https://www.linkedin.com/company/64766389,188821067610.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO245,EMP550
+Worksimple,https://worksimple.de,https://www.linkedin.com/company/14777711,49292449699200.0,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,,EMP551
+Ehealth-Connect,https://ehealth-connect.de,https://www.linkedin.com/company/105516530,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO002,EMP552
+Cybernetica,https://cyber.ee,https://www.linkedin.com/company/62561,37263979910.0,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO098,EMP553
+Rapyd,https://rapyd.net,https://www.linkedin.com/company/18245093,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO006,EMP554
+Dreamit,https://dreamit.de,https://www.linkedin.com/company/5847674,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO087,EMP555
+RIB Software,https://rib-software.com/en/home,https://www.linkedin.com/company/1142825,49711787300.0,49.0,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO091,EMP556
+RIBA Software Engineering,https://rib-software.com/en/home,https://www.linkedin.com/company/1142825,49711787300.0,49.0,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO091,EMP557
+Persei Vivarium Digital Health,https://perseivivarium.com,https://www.linkedin.com/company/10256121,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO172,EMP558
+Index,https://index.dev,https://www.linkedin.com/company/19076320,4420388530740.0,44.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO199,EMP559
+Inetum,https://inetum.com,https://www.linkedin.com/company/68841835,,,100010.0,,100010.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO247,EMP560
+Recogizer,https://recogizer.com,https://www.linkedin.com/company/10039182,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO074,EMP561
+ROBUR Industry Service Group,https://spie-industry-service.com,https://www.linkedin.com/company/6471131,4989548439700.0,49.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO005,EMP562
+COD4IS,https://cod4is.com,https://www.linkedin.com/company/25243638,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO008,EMP563
+Flexvpc SL,https://flexvpc.com,https://www.linkedin.com/company/10271130,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO248,EMP564
+EMB,https://emb-europe.com/fr,https://www.linkedin.com/company/2562726,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO249,EMP565
+Firstbaseit Limited,https://firstbaseit.net,https://www.linkedin.com/company/1165012,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO250,EMP566
+Tq-Group,https://tq-group.com,https://www.linkedin.com/company/1000033,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO251,EMP567
+Parentpay,https://parentpay.com,https://www.linkedin.com/company/710754,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP568
+Vizor,https://vizorsoftware.com,https://www.linkedin.com/company/123879,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO252,EMP569
+Grupo Hostienda,https://hostienda.com,https://www.linkedin.com/company/1366777,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO010,EMP570
+VAZY,https://onelink.to/vazy,https://www.linkedin.com/company/74152251,,,10.0,100.0,,Fora da faixa,Software,Tecnologia & TI,Fora da Faixa,GEO253,EMP571
+CWS Cleanrooms,https://cws.com/cleanroom,https://www.linkedin.com/company/104764015,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO254,EMP572
+Getform,https://getform.io,https://www.linkedin.com/company/10373009,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO006,EMP573
+Browserstack,https://browserstack.com,https://www.linkedin.com/company/2553488,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,,EMP574
+Landytech,https://landytech.com,https://www.linkedin.com/company/12986197,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP575
+Mercedes-BenzIo,https://mercedes-benz.io,https://www.linkedin.com/company/10211783,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO091,EMP576
+Coadjute,https://coadjute.com,https://www.linkedin.com/company/12621419,4420385688300.0,44.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP577
+Quadralia SL,https://quadralia.com,https://www.linkedin.com/company/1588256,9861343760.0,34.0,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO256,EMP578
+Pure Data Centres Group,https://puredc.com,https://www.linkedin.com/company/17938328,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO006,EMP579
+Axiodis,https://site.axiodis.com,https://www.linkedin.com/company/5117010,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO069,EMP580
+Opérationnelle,https://operationnelle.com,https://www.linkedin.com/company/7072049,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,,EMP581
+Octopusmind,https://octopusmind.info,https://www.linkedin.com/company/10361028,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO186,EMP582
+Gireve,https://gireve.com,https://www.linkedin.com/company/11736719,331847322420.0,33.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO249,EMP583
+Ableton,https://ableton.com,https://www.linkedin.com/company/79376,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO002,EMP584
+Myshoefitter,https://myshoefitter.com,https://www.linkedin.com/company/30139628,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO257,EMP585
+Agenda Informationssysteme & Kg,https://agenda-software.de,https://www.linkedin.com/company/12351096,8031256100.0,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,,EMP586
+TOPMOTIVE,https://topmotive.eu,https://www.linkedin.com/company/5282111,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO259,EMP587
+Moneymeets,https://moneymeets.com,https://www.linkedin.com/company/3491889,49221677804800.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO124,EMP588
+Polyai,https://poly.ai,https://www.linkedin.com/company/18328585,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP589
+Comind,https://comind.io,https://www.linkedin.com/company/18373677,,,510.0,2000.0,1255.0,Grande,Hardware De Computador,Outros,Grande,GEO006,EMP590
+Seers,https://seersco.com,https://www.linkedin.com/company/27173609,44080060007990.0,44.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO006,EMP591
+Crezco,https://crezco.com,https://www.linkedin.com/company/69198230,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO014,EMP592
+Andros Deutschland,https://andros.de,https://www.linkedin.com/company/80452675,,,10010.0,50000.0,30005.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO260,EMP593
+HYCOM SA,https://hycom.digital,https://www.linkedin.com/company/10159700,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO135,EMP594
+Telecomputer,https://telecomputer.de/kontakt,https://www.linkedin.com/company/87106321,30121001200.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO002,EMP595
+Smieten,https://business.smieten.com,https://www.linkedin.com/company/88281645,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO261,EMP596
+ISR Information Products,https://isr.de,https://www.linkedin.com/company/930800,490531120800.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO224,EMP597
+Avantra,https://avantra.com,https://www.linkedin.com/company/1840320,4420833447530.0,44.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO262,EMP598
+Auticon,https://auticon.com/de,https://www.linkedin.com/company/9119223,892006068290.0,49.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO005,EMP599
+Ailleron,https://ailleron.com,https://www.linkedin.com/company/10268339,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO011,EMP600
+Wylog,https://wylog.com,https://www.linkedin.com/company/796541,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO008,EMP601
+Diroots,https://diroots.com,https://www.linkedin.com/company/18259480,3512537253630.0,351.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO263,EMP602
+Opus 2,https://opus2.com,https://www.linkedin.com/company/2035384,4420300859000.0,44.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP603
+Businessdatapartners,,,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,,EMP604
+United Carlton Office Sytems,https://agilico.co.uk,https://www.linkedin.com/company/1189681,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO264,EMP605
+Ten10 Group,https://ten10.com,https://www.linkedin.com/company/327176,44020369714440.0,44.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO006,EMP606
+TASKING,https://tasking.com,https://www.linkedin.com/company/4379874,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO005,EMP607
+21CDigital 21St Century Digital Teaching,https://21c.digital,https://www.linkedin.com/company/82657421,4420734978710.0,44.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP608
+Far-Galaxy Networks,https://far-galaxy.de,https://www.linkedin.com/company/12233623,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO005,EMP609
+PAYG CTO,https://paygcto.com,https://www.linkedin.com/company/90757902,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO006,EMP610
+Getresponse,https://getresponse.com,https://www.linkedin.com/company/1063383,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO017,EMP611
+ICM University Of Warsaw,https://icm.edu.pl,https://www.linkedin.com/company/63474,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO066,EMP612
+ICM Warsaw University,https://icm.edu.pl,https://www.linkedin.com/company/63474,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO066,EMP613
+Revolution Viewing,https://vepple.com,https://www.linkedin.com/company/2187442,11320537500.0,44.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO225,EMP614
+Youon - Online Technologies,https://youongroup.com,https://www.linkedin.com/company/2548926,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO265,EMP615
+Ostirion,https://ostirion.net,https://www.linkedin.com/company/72040001,346803018460.0,34.0,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO172,EMP616
+Intervia Information Technologies SL,https://intervia.com,https://www.linkedin.com/company/77605503,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO172,EMP617
+Level27,https://level27.be,https://www.linkedin.com/company/10389048,894491300.0,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO163,EMP618
+IMS MAXIMS,https://imsmaxims.com,https://www.linkedin.com/company/1308682,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO024,EMP619
+KIO Networks España,https://kionetworks.es,https://www.linkedin.com/company/11075796,8680112000.0,34.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO266,EMP620
+GRUPO SPEC,https://grupospec.com,https://www.linkedin.com/company/1128427,9324788000.0,34.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO010,EMP621
+Math2Market,https://math2market.com,https://www.linkedin.com/company/2423804,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO267,EMP622
+Filedoc Software,https://filedoc.com,https://www.linkedin.com/company/2707786,3512142016000.0,44.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP623
+Acuvate,https://acuvate.com,https://www.linkedin.com/company/210122,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP624
+Amelco Uk Limited,https://amelco.co.uk,https://www.linkedin.com/company/6703617,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO006,EMP625
+Wandelbots,https://wandelbots.com,https://www.linkedin.com/company/11391093,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO181,EMP626
+Livespace - Sell Smarter,https://livespace.io,https://www.linkedin.com/company/10322498,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO066,EMP627
+Garaje De Ideas,https://garajedeideas.com,https://www.linkedin.com/company/2629927,349105194900.0,34.0,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO172,EMP628
+Nc-Vision,https://nc-vision.com,https://www.linkedin.com/company/13995057,4917511765070.0,49.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO091,EMP629
+Tech11,https://tech11.com,https://www.linkedin.com/company/18514648,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO065,EMP630
+Congree Language Technologies,https://congree.com,https://www.linkedin.com/company/17987110,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO114,EMP631
+Toponecrm,https://toponecrm.com,https://www.linkedin.com/company/10371446,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO014,EMP632
+Eyesynth,https://eyesynth.com,https://www.linkedin.com/company/11096221,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO268,EMP633
+Silae,https://silae.fr,https://www.linkedin.com/company/11210513,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO030,EMP634
+Audeering,https://audeering.com,https://www.linkedin.com/company/9462082,49810577561500.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO269,EMP635
+The Platform Group,https://the-platform-group.com,https://www.linkedin.com/company/69698039,61929028700.0,49.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO270,EMP636
+Mobeelity,https://mobeelity.io,https://www.linkedin.com/company/10379993,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO008,EMP637
+MONSIEUR FRANCOIS ROSTKER,,https://www.linkedin.com/company/20079366,,,,,,Fora da faixa,Pesquisa,Educação & Pesquisa,Fora da Faixa,GEO271,EMP638
+Sematicon,https://sematicon.com,https://www.linkedin.com/company/42904812,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO005,EMP639
+ReSwitch,https://reswitch.io,https://www.linkedin.com/company/40873387,,,10.0,100.0,55.0,Pequena,Tecnologia Da Informação & Serviços,Tecnologia & TI,Pequena,GEO087,EMP640
+MYM,https://mym.fans,https://www.linkedin.com/company/19186293,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO008,EMP641
+M3Connect,https://m3connect.de,https://www.linkedin.com/company/3345831,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO118,EMP642
+Features Analytics,https://features-analytics.com,https://www.linkedin.com/company/5345031,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,GEO272,EMP643
+Incadea,https://incadea.com,https://www.linkedin.com/company/972793,49896933800.0,49.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO005,EMP644
+VEEUZE,https://veeuze.com,https://www.linkedin.com/company/10610066,28131926100.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO273,EMP645
+Yoummday,https://yoummday.com,https://www.linkedin.com/company/10633039,49892316600000.0,49.0,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO005,EMP646
+Flipdish,https://flipdish.com,https://www.linkedin.com/company/9254622,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO252,EMP647
+Helsing,https://helsing.ai,https://www.linkedin.com/company/71719093,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO005,EMP648
+Averbis,https://averbis.com,https://www.linkedin.com/company/1514368,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO184,EMP649
+STX Next,https://stxnext.com,https://www.linkedin.com/company/692225,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO220,EMP650
+BMJ,https://bmjgroup.com,https://www.linkedin.com/company/28437,44020365559970.0,44.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP651
+BMJ Group,https://bmjgroup.com,https://www.linkedin.com/company/28437,44020365559970.0,44.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP652
+Findmypast,https://findmypast.com,https://www.linkedin.com/company/3477062,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,,EMP653
+Medisoft Limited,https://medisoft.co.uk,https://www.linkedin.com/company/1741088,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO225,EMP654
+Ponturo Consulting,https://ponturo.com/de,https://www.linkedin.com/company/3645802,6925782671100.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO058,EMP655
+The Information Lab Deutschland,https://theinformationlab.de,https://www.linkedin.com/company/5302545,49402109181800.0,49.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO087,EMP656
+JACOB,https://jacob.de,https://www.linkedin.com/company/8292030,497219417600.0,49.0,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO114,EMP657
+CEDREO,https://cedreo.com/fr,https://www.linkedin.com/company/10476852,2401804770.0,33.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO207,EMP658
+Registrų Centras,https://registrucentras.lt,https://www.linkedin.com/company/884192,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO001,EMP659
+Eurécia,https://eurecia.com,https://www.linkedin.com/company/2697142,335622003690.0,33.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO275,EMP660
+Wisecare,https://wisecare.com.br,https://www.linkedin.com/company/65722967,3519130240560.0,55.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO206,EMP661
+Wondercom Project Management And Telecommunications,https://wondercom.pt,https://www.linkedin.com/company/574934,3512171109080.0,351.0,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO142,EMP662
+SAP,https://sap.com,https://www.linkedin.com/company/1115,,,100010.0,,100010.0,Enterprise,Software,Tecnologia & TI,Enterprise,GEO276,EMP663
+MitsoftwareCom,https://mitsoftware.com,https://www.linkedin.com/company/73516928,346988658950.0,34.0,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO010,EMP664
+Traso,https://traso.de,https://www.linkedin.com/company/13016338,,,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO053,EMP665
+Coheris,https://coheris.com,https://www.linkedin.com/company/17930,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO277,EMP666
+Open Destinations,https://opendestinations.com,https://www.linkedin.com/company/94009,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO006,EMP667
+Novoville,https://novoville.com,https://www.linkedin.com/company/17960476,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP668
+Youview Tv Limited,https://youview.com,https://www.linkedin.com/company/1275096,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO006,EMP669
+Vega,https://vega-alts.com,https://www.linkedin.com/company/98219347,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO006,EMP670
+OPTANO,https://optano.com,https://www.linkedin.com/company/5144974,4952516822000.0,49.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO278,EMP671
+Ochk,https://ochk.cloud,https://www.linkedin.com/company/19024358,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO066,EMP672
+Spyrosoft,https://spyro-soft.com,https://www.linkedin.com/company/15159315,5001040420.0,48.0,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO012,EMP673
+Techuk,https://techuk.org/who-we-are/about-us.html,https://www.linkedin.com/company/222351,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO006,EMP674
+Frequentismsoft,https://frequentis-comsoft.com,https://www.linkedin.com/company/438794,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO114,EMP675
+Imbus,https://imbus.de,https://www.linkedin.com/company/3008432,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO279,EMP676
+Oodrive,https://oodrive.com,https://www.linkedin.com/company/84363,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO008,EMP677
+Fctb,https://fctb.de,https://www.linkedin.com/company/76793693,4917561882940.0,49.0,10.0,100.0,55.0,Pequena,Private Equity & Venture Capital,Outros,Pequena,GEO280,EMP678
+Adalberto Textile Solutions,https://adalberto.pt,https://www.linkedin.com/company/263230,,,2010.0,5000.0,3505.0,Muito grande,Têxtil,Outros,Muito Grande,GEO281,EMP679
+Indico Capital Partners,https://indicocapital.com,https://www.linkedin.com/company/18389774,,,110.0,500.0,305.0,Média,Private Equity & Venture Capital,Outros,Média,GEO142,EMP680
+Ion Live,https://ion.live/euro,https://www.linkedin.com/company/13217571,,,110.0,500.0,305.0,Média,Marketing & Publicidade,Mídia & Marketing,Média,GEO282,EMP681
+Sportion,https://sportion.com.br,https://www.linkedin.com/company/659241,,,510.0,2000.0,1255.0,Grande,Marketing & Publicidade,Mídia & Marketing,Grande,GEO282,EMP682
+Critical Manufacturing,https://criticalmanufacturing.com,https://www.linkedin.com/company/262766,,,5010.0,10000.0,7505.0,Enorme,Software,Tecnologia & TI,Enorme,GEO283,EMP683
+Noesis,https://noesis-corporation.com,https://www.linkedin.com/company/417474,,,10010.0,50000.0,30005.0,Enterprise,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enterprise,GEO142,EMP684
+N Brown Group,https://nbrown.co.uk,https://www.linkedin.com/company/18855,,,10010.0,50000.0,30005.0,Enterprise,Varejo,Varejo & Consumo,Enterprise,GEO243,EMP685
+Madgrowth,https://madgrowth.io,https://www.linkedin.com/company/106121466,,,10.0,100.0,,Fora da faixa,"Tecnologia, Informação & Mídia",Outros,Fora da Faixa,,EMP686
+Favorite People,https://favoritepeoplestore.com,https://www.linkedin.com/company/87386308,,,10.0,100.0,55.0,Pequena,Vestuário & Moda,Outros,Pequena,GEO182,EMP687
+Frulact,https://frulact.com,https://www.linkedin.com/company/74416,3512292879100.0,351.0,5010.0,10000.0,7505.0,Enorme,Produção De Alimentos,Outros,Enorme,GEO283,EMP688
+Sodecia,https://sodecia.com,https://www.linkedin.com/company/85459,,,50010.0,100000.0,75005.0,Enterprise,Automotivo,Manufatura & Industrial,Enterprise,GEO284,EMP689
+Olisipo,https://olisipo.pt,https://www.linkedin.com/company/35095,,,5010.0,10000.0,7505.0,Enorme,Tecnologia Da Informação & Serviços,Tecnologia & TI,Enorme,GEO142,EMP690
+Powerdot,https://powerdot.eu,https://www.linkedin.com/company/14061918,,,510.0,2000.0,1255.0,Grande,Serviços Ambientais,Outros,Grande,GEO142,EMP691
+Infraestruturas De Portugal,https://infraestruturasdeportugal.pt,https://www.linkedin.com/company/10007897,,,10010.0,50000.0,30005.0,Enterprise,Administração Pública,Outros,Enterprise,,EMP692
+TekyaIo,https://tekya.io,https://www.linkedin.com/company/79803680,,,10.0,100.0,55.0,Pequena,Treinamento Técnico,Outros,Pequena,GEO286,EMP693
+Datasmart,https://datasmart.pt,https://www.linkedin.com/company/3328624,3512141711610.0,351.0,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO142,EMP694
+Officetotal Food Brands,https://officetotal.com.pt,https://www.linkedin.com/company/68274881,3512587503000.0,351.0,510.0,2000.0,1255.0,Grande,Produção De Alimentos,Outros,Grande,GEO287,EMP695
+Salsa Jeans,https://salsajeans.com,https://www.linkedin.com/company/70509,,,10010.0,50000.0,30005.0,Enterprise,Vestuário & Moda,Outros,Enterprise,GEO288,EMP696
+SPM - Sociedade Das Pedreiras Do Marco,https://spmlda.pt,https://www.linkedin.com/company/102408596,,,510.0,2000.0,1255.0,Grande,Bens De Consumo,Outros,Grande,GEO289,EMP697
+Indie Campers,https://indiecampers.com,https://www.linkedin.com/company/4990097,,,2010.0,5000.0,3505.0,Muito grande,Turismo & Lazer,Outros,Muito Grande,GEO142,EMP698
+FLAMA SA,https://flama.pt,https://www.linkedin.com/company/27013891,3512568501700.0,351.0,2010.0,5000.0,3505.0,Muito grande,Manufatura Eletrônica,Manufatura & Industrial,Muito Grande,GEO290,EMP699
+Flama SA,https://flama.pt,https://www.linkedin.com/company/27013891,3512568501700.0,351.0,2010.0,5000.0,3505.0,Muito grande,Manufatura Eletrônica,Manufatura & Industrial,Muito Grande,GEO290,EMP700
+Saber Saúde - Ensino Formação E Serviços,,,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,,EMP701
+Cliwise,https://cliwise.com,https://www.linkedin.com/company/42759573,,,10.0,100.0,55.0,Pequena,Software,Tecnologia & TI,Pequena,,EMP702
+Wiseverge,https://wiseverge.com,https://www.linkedin.com/company/71144055,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO284,EMP703
+SPAR Portugal,https://spar.pt,https://www.linkedin.com/company/18139492,2261564000.0,351.0,2010.0,5000.0,3505.0,Muito grande,Supermercados,Outros,Muito Grande,GEO284,EMP704
+Whymob,https://whymob.pt,https://www.linkedin.com/company/9186873,3512119766300.0,351.0,110.0,500.0,305.0,Média,Tecnologia Da Informação & Serviços,Tecnologia & TI,Média,GEO142,EMP705
+PLEXUS - Integração De Sistemas,https://plexus.pt,https://www.linkedin.com/company/2370827,2698703000.0,351.0,110.0,500.0,305.0,Média,Automação Industrial,Outros,Média,GEO291,EMP706
+IdWaste,https://id-waste.com,https://www.linkedin.com/company/38880291,9367403940.0,34.0,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO075,EMP707
+Redarbor,https://redarbor.net,https://www.linkedin.com/company/3475031,,,10010.0,50000.0,30005.0,Enterprise,Internet & Serviços Online,Tecnologia & TI,Enterprise,GEO075,EMP708
+I-Sistem SL,,,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,,EMP709
+Clicars,https://clicars.com/coches-segunda-mano-ocasion,https://www.linkedin.com/company/10409465,9190150000.0,34.0,5010.0,10000.0,7505.0,Enorme,Internet & Serviços Online,Tecnologia & TI,Enorme,GEO172,EMP710
+Promofarma By Docmorris,https://promofarma.com,https://www.linkedin.com/company/1289084,,,2010.0,5000.0,3505.0,Muito grande,Internet & Serviços Online,Tecnologia & TI,Muito Grande,GEO010,EMP711
+Mundimoto Group,https://mundimoto.com,https://www.linkedin.com/company/71615311,9327134650.0,34.0,2010.0,5000.0,3505.0,Muito grande,Internet & Serviços Online,Tecnologia & TI,Muito Grande,GEO010,EMP712
+Softonic,https://softonic.com,https://www.linkedin.com/company/50208,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO010,EMP713
+Acens Part Of Telefónica Tech,https://acens.com,https://www.linkedin.com/company/48127,,,2010.0,5000.0,3505.0,Muito grande,Internet & Serviços Online,Tecnologia & TI,Muito Grande,GEO071,EMP714
+Astara,https://astara.com,https://www.linkedin.com/company/1240549,,,10010.0,50000.0,30005.0,Enterprise,Internet & Serviços Online,Tecnologia & TI,Enterprise,GEO071,EMP715
+Arsys,https://arsys.es,https://www.linkedin.com/company/72560,9416201000.0,34.0,2010.0,5000.0,3505.0,Muito grande,Internet & Serviços Online,Tecnologia & TI,Muito Grande,GEO072,EMP716
+Techpump,https://techpump.com,https://www.linkedin.com/company/9396863,,,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO003,EMP717
+ADVANCED PROGRAMMING SOLUTIONS APSL,https://apsl.tech/en,https://www.linkedin.com/company/834541,349714397710.0,34.0,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO293,EMP718
+Total Publishing Network,https://tpnet.es,https://www.linkedin.com/company/893224,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO172,EMP719
+Realnaut,https://realnaut.com,https://www.linkedin.com/company/82660985,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO172,EMP720
+ALUXION,https://aluxion.com,https://www.linkedin.com/company/5239783,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO172,EMP721
+The Mind Hubmpany,https://themindhubcompany.com,https://www.linkedin.com/company/42445830,349350456150.0,34.0,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO010,EMP722
+ApslTech,https://apsl.tech/en,https://www.linkedin.com/company/834541,349714397710.0,34.0,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO293,EMP723
+HBX Group,https://hbxgroup.com,https://www.linkedin.com/company/98884565,,,10010.0,50000.0,30005.0,Enterprise,Internet & Serviços Online,Tecnologia & TI,Enterprise,GEO293,EMP724
+Business Go,https://businessgo.es,https://www.linkedin.com/company/1337705,9542396030.0,34.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO294,EMP725
+Dentaltix,https://dentaltix.com,https://www.linkedin.com/company/1583757,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO071,EMP726
+CloudingIo,https://clouding.io,https://www.linkedin.com/company/11155734,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO010,EMP727
+Talentfy,https://ytalentfy.com,https://www.linkedin.com/company/15840763,6599625900.0,34.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO010,EMP728
+AEROX,https://aerox.es,https://www.linkedin.com/company/11488279,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO295,EMP729
+ROIBACK,https://roiback.com,https://www.linkedin.com/company/1583668,349714061490.0,34.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO293,EMP730
+PromofarmaCom,https://promofarma.com,https://www.linkedin.com/company/1289084,,,2010.0,5000.0,3505.0,Muito grande,Internet & Serviços Online,Tecnologia & TI,Muito Grande,GEO010,EMP731
+Brandtrack,https://brandtrack.ai,https://www.linkedin.com/company/1134938,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO172,EMP732
+Telecoming,https://telecoming.com,https://www.linkedin.com/company/2514100,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO172,EMP733
+TELECOMING,https://telecoming.com,https://www.linkedin.com/company/2514100,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO172,EMP734
+The Telecoming Group,https://telecoming.com,https://www.linkedin.com/company/2514100,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO172,EMP735
+Roiback,https://roiback.com,https://www.linkedin.com/company/1583668,349714061490.0,34.0,510.0,2000.0,1255.0,Grande,Software,Tecnologia & TI,Grande,GEO293,EMP736
+GALVIN TECNOLOGICA,https://galvintec.com,https://www.linkedin.com/company/11001370,8862510150.0,34.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO296,EMP737
+Interactiv4,https://interactiv4.com,https://www.linkedin.com/company/1507829,349163017200.0,34.0,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO172,EMP738
+Crowdfarming,https://crowdfarming.com,https://www.linkedin.com/company/11405790,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO172,EMP739
+W-A-D Lab,https://wadlab.co,https://www.linkedin.com/company/19117756,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO176,EMP740
+IndigoMarketing,https://indigomkt.com,https://www.linkedin.com/company/2619927,,,10.0,100.0,55.0,Pequena,Marketing & Publicidade,Mídia & Marketing,Pequena,GEO297,EMP741
+Mercado Eletrônico Portugal,https://mercadoeletronico.eu,https://www.linkedin.com/company/27186462,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO142,EMP742
+Wallim,https://wallim.shop,https://www.linkedin.com/company/20299226,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO142,EMP743
+Servicios Electrónicos Globales -Oficial,https://eglobal.com.mx,https://www.linkedin.com/company/69341046,,,5010.0,10000.0,7505.0,Enorme,Serviços Financeiros,Serviços Financeiros,Enorme,,EMP744
+Iterp - Tecnologias De Informação,https://iterp.pt,https://www.linkedin.com/company/86175250,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO299,EMP745
+Xpand It,https://xpand-it.com/pt-pt,https://www.linkedin.com/company/200167,,,2010.0,5000.0,3505.0,Muito grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Muito Grande,GEO142,EMP746
+Eidosmedia,https://eidosmedia.com,https://www.linkedin.com/company/80996,,,2010.0,5000.0,3505.0,Muito grande,Software,Tecnologia & TI,Muito Grande,GEO300,EMP747
+LandingJobs,https://landing.jobs,https://www.linkedin.com/company/3363375,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO142,EMP748
+Servicios Electronicos Globales SA De CV,https://a.com,https://www.linkedin.com/company/5849945,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,,EMP749
+Latitudes & Longitudes,,,,,,,,Fora da faixa,,Não Informado,Fora da Faixa,,EMP750
+4Helpit,https://4helpit.com,https://www.linkedin.com/company/81304444,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO302,EMP751
+LNEC,https://lnec.pt,https://www.linkedin.com/company/34909,3512184430000.0,351.0,5010.0,10000.0,7505.0,Enorme,Serviços De Engenharia,Manufatura & Industrial,Enorme,GEO142,EMP752
+Endless Tech,https://endlesstech.pt,https://www.linkedin.com/company/86176262,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO302,EMP753
+ZENN - Web Solutions,https://zenn.pt,https://www.linkedin.com/company/320377,3512441083100.0,351.0,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO303,EMP754
+Mr Informática,https://mrinformatica.com,https://www.linkedin.com/company/672908,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO284,EMP755
+Military University Institute IUM,https://ium.pt,https://www.linkedin.com/company/52102815,,,,,,Fora da faixa,Internet & Serviços Online,Tecnologia & TI,Fora da Faixa,GEO142,EMP756
+Webcomum,https://webcomum.pt,https://www.linkedin.com/company/10840959,2293887060.0,351.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO284,EMP757
+Streambow,https://streambow.com,https://www.linkedin.com/company/123424,3512142111470.0,351.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO304,EMP758
+Thought Creator,https://iot.innowave.tech,https://www.linkedin.com/company/753844,,,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO142,EMP759
+SOFTAG SA,https://softag.pt,https://www.linkedin.com/company/351956,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO142,EMP760
+Domot,https://domot.pt,https://www.linkedin.com/company/76173002,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,,EMP761
+Unidade FCCN,https://fccn.pt,https://www.linkedin.com/company/22969,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO142,EMP762
+FCT FCCN,https://fccn.pt,https://www.linkedin.com/company/22969,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO142,EMP763
+Global Blue Portugal,https://globalblue.com/business/portugal,https://www.linkedin.com/company/28642354,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,GEO142,EMP764
+FCCN,https://fccn.pt,https://www.linkedin.com/company/22969,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,GEO142,EMP765
+Mobilab Solutions,https://mobilabsolutions.com,https://www.linkedin.com/company/3343523,,,510.0,2000.0,1255.0,Grande,Tecnologia Da Informação & Serviços,Tecnologia & TI,Grande,GEO124,EMP766
+Lavaimagem - Web & Brands Agency,https://lavaimagem.com,https://www.linkedin.com/company/10478998,2966541540.0,351.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO306,EMP767
+Techframe,https://techframe.com,https://www.linkedin.com/company/888969,,,110.0,500.0,305.0,Média,Software,Tecnologia & TI,Média,,EMP768
+Lazer Telecom,https://lazertelecom.com,https://www.linkedin.com/company/18729202,3512893960550.0,351.0,110.0,500.0,305.0,Média,Internet & Serviços Online,Tecnologia & TI,Média,GEO307,EMP769
+ADEGAMÃE,https://adegamae.pt,https://www.linkedin.com/company/5395067,3512619501050.0,351.0,110.0,500.0,305.0,Média,Vinhos & Bebidas,Outros,Média,GEO308,EMP770
+Arroba Digital,https://arroba.digital,https://www.linkedin.com/company/10364355,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO309,EMP771
+Beltrãoelho,https://beltraocoelho.pt,https://www.linkedin.com/company/712000,,,510.0,2000.0,1255.0,Grande,Internet & Serviços Online,Tecnologia & TI,Grande,,EMP772
+O Alfaiate Do Algoritmo - Webnsulting Unip,https://oalfaiate.com,https://www.linkedin.com/company/10166677,,,10.0,100.0,55.0,Pequena,Internet & Serviços Online,Tecnologia & TI,Pequena,GEO304,EMP773
