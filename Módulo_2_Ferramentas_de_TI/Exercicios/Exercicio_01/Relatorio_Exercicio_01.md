@@ -991,7 +991,6 @@ Este modelo integra de forma poderosa informações de **identificação, locali
 
 ### 3.1 Perfis dos potenciais clientes (cargos e áreas)
 
-
 #### **3.1.1 Top 10 Cargos por Frequência**
 
 **Barra Horizontal (Horizontal Bar Chart)**
@@ -1004,8 +1003,6 @@ Este modelo integra de forma poderosa informações de **identificação, locali
     *   **Classificação:** Ordene o eixo Y por "Contagem de Pessoa_ID" em ordem decrescente.
     *   **Ferramentas de Análise:** Adicionado **Rótulos de Dados** para mostrar o número exato em cada barra.
     *   **Ferramentas de Filtro:** Adicionado para filtrar os 10 primeiros.
-
----
 
 #### **3.1.2. Proporção por Nível Hierárquico**
 
@@ -1035,7 +1032,7 @@ Este modelo integra de forma poderosa informações de **identificação, locali
 
 ##### **3.1.4. Filtros Interativos por País e Tamanho de Empresa**
 
-**🔘 Slicers (Fatiadores)**
+**Slicers (Fatiadores)**
 
 *   **Por que usar?** Os Slicers são a forma mais intuitiva e poderosa de criar dashboards interativos no Power BI. Eles filtram todos os outros visuais da página automaticamente.
 
