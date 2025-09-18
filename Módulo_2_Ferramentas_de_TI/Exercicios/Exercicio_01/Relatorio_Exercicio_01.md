@@ -864,8 +864,9 @@ A coluna apresentou preenchimento completo (100%), sem valores nulos ou vazios. 
 O modelo estrela desenvolvido organiza os dados em duas categorias principais: as **tabelas dimensionais**, que armazenam os contextos descritivos (`Dim_Pessoa`, `Dim_Empresa`, `Dim_Geografia`, `Dim_Tempo`, `Dim_Cargo` e `Dim_Setor`), e a **tabela fato** (`Fact_Contatos`), que registra os eventos de interação entre pessoas e empresas, funcionando como o núcleo do modelo.
 
 ```mermaid
+
 erDiagram
-    /* O diagrama permanece exatamente como o original */
+
     Dim_Pessoa ||--o{ Fact_Contatos : "possui"
     Dim_Empresa ||--o{ Fact_Contatos : "relaciona"
     Dim_Geografia ||--o{ Dim_Pessoa : "localiza"
@@ -947,6 +948,7 @@ erDiagram
         int Status_Valido
         int Tem_LinkedIn
     }
+
 ```
 
 *Diagrama interativo também disponível no [Mermaid Chart](https://www.mermaidchart.com/app/projects/08de3bc0-6499-4745-b968-ac650055e4de/diagrams/3d4ca5b8-d26a-412b-9832-be5e30096eb1/version/v0.1/edit).*
