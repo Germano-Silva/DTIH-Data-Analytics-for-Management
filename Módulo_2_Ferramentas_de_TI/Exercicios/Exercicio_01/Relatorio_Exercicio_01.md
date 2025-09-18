@@ -990,7 +990,81 @@ Este modelo integra de forma poderosa informações de **identificação, locali
 ## 3. Análise Exploratória
 
 ### 3.1 Perfis dos potenciais clientes (cargos e áreas)
-*[Análise detalhada dos cargos e setores mais representativos no dataset, identificando padrões e tendências]*
+
+
+#### **3.1.1 Top 10 Cargos por Frequência**
+
+**Barra Horizontal (Horizontal Bar Chart)**
+
+*   **Por que usado?** É perfeito para comparar valores entre categorias (cargos) e listar muitos itens de forma legível, pois os rótulos ficam na vertical, facilitando a leitura.
+
+*   **Como foi configurado:**
+    *   **Eixo Y:** `Cargo` da `Dim_Cargo`.
+    *   **Eixo X:** `Contagem de Pessoa_ID` (da `Fact_Contatos`) ou simplesmente a contagem de linhas da dimensão.
+    *   **Classificação:** Ordene o eixo Y por "Contagem de Pessoa_ID" em ordem decrescente.
+    *   **Ferramentas de Análise:** Adicionado **Rótulos de Dados** para mostrar o número exato em cada barra.
+    *   **Ferramentas de Filtro:** Adicionado para filtrar os 10 primeiros.
+
+---
+
+#### **3.1.2. Proporção por Nível Hierárquico**
+
+**Rosca (Doughnut Chart)**
+
+*   **Por que usado?**
+    *   **Rosca:** Mostra claramente as partes de um todo (100%). O espaço vazio no centro pode ser usado para colocar uma métrica KPI importante.
+
+*   **Como configurar (Rosca):**
+    *   **Legenda:** `Cargo_Nivel_Hierarquico` (da sua `Dim_Cargo` - você precisará criar esta categorização, e.g., "C-Level", "Diretor", "Gerente", "Coordenador", "Especialista").
+    *   **Valores:** `Contagem de Pessoa_ID`
+    *   **Formato:** Ajuste as cores para cada nível e ative os rótulos de dados para mostrar **"Porcentagem do total"**.
+
+
+#### **3.1.3. Mapa de Calor: Cargo vs Setor**
+
+**Matriz (Matrix Visual)**
+
+*   **Por que usar?** A visualização de matriz é a única que pode mostrar perfeitamente a intersecção entre duas categorias (Cargo e Setor).
+
+*   **Como configurar:**
+    *   **Linhas:** `Categoria_Setor_empresa` (da `Dim_Setor_Empresa`)
+    *   **Colunas:** `Cargo` (da `Dim_Cargo`)
+    *   **Valores:** `Contagem de Pessoa_ID`
+
+*   **Dica de Dashboard:** Este gráfico pode ficar grande. Use-o em uma página dedicada ou em um layout grande, permitindo que o usuário role para explorar as relações.
+
+##### **3.1.4. Filtros Interativos por País e Tamanho de Empresa**
+
+**🔘 Slicers (Fatiadores)**
+
+*   **Por que usar?** Os Slicers são a forma mais intuitiva e poderosa de criar dashboards interativos no Power BI. Eles filtram todos os outros visuais da página automaticamente.
+
+*   **Como configurar:**
+    1.  Vá no painel **Visualizações** e escolha o ícone **Slicer**.
+    2.  No campo **Field** do slicer, arraste:
+        *   `Pais` (da `Dim_Geografia`)
+        *   `Classificacao_Empresa` (da `Dim_Tamanho_Empresa` - use este em vez do numérico, é mais amigável)
+    3.  **Formate os Slicers** para uma melhor experiência:
+        *   **Lista:** Formato padrão de lista dropdown. Bom para muitos itens.
+        *   **Dropdown:** Economiza espaço. Ótimo para campos como País, que tem muitos valores.
+        *   **Botões:** Visualmente mais atraente para categorias com poucos itens (ex: os tamanhos "Pequena", "Média", "Grande").
+
+*   **Dica Avançada (Sync Slicers):**
+    *   Se você tiver múltiplas páginas no seu relatório, vá na guia **View** e ative o painel **Sync Slicers**.
+    *   Lá você pode escolher para que um slicer em uma página também filtre visuais em outras páginas. Isso é crucial para um relatório coeso.
+
+#### **3.1.5. Resumo Visual da Página 3.1:**
+
+O layout da página esta aproximado da seguinte forma:
+
+| **Seção**                              | **Visual**                          |
+| -------------------------------------- | ----------------------------------- |
+| **Filtros Principais (no topo)**       | 2 Slicers: `País` e `Tamanho Empresa` (formato Dropdown e Bloco) |
+| **Visão Geral Hierárquica (lateral)**  | Gráfico de Rosca `Nível Hierárquico` |
+| **Cargos Mais Comuns (principal)**     | Gráfico de Barras `Top 10 Cargos`   |
+| **Análise Detalhada de Relação (abaixo)** | Matriz `Cargo vs Setor`    |
+
+Previsualização: ![Previsualização de Dashboard da Página 3.1 Perfis dos potenciais clientes (cargos e áreas)](cargo&area.png)
 
 ### 3.2 Segmentação geográfica (países e regiões)
 *[Distribuição geográfica dos dados, concentrações regionais e características específicas por país]*
