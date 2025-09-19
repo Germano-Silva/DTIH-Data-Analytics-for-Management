@@ -1,736 +1,736 @@
-Geografia_ID,Cidade,Estado,Pais
-GEO001,Vilnius,Vilnius,Lituânia
-GEO002,Berlin,Berlin,Alemanha
-GEO003,Gijón,Astúrias,Espanha
-GEO004,Warrington,Inglaterra,Reino Unido
-GEO005,Munich,Baviera,Alemanha
-GEO006,London,Inglaterra,Reino Unido
-GEO007,Ílhavo,Aveiro,Portugal
-GEO008,Paris,Ilha De França,França
-GEO009,Munich,,Bavaria
-GEO010,Barcelona,Catalunha,Espanha
-GEO011,Cracow,Pequena Polônia,Polônia
-GEO012,Wrocław,Baixa Silésia,Polônia
-GEO013,Courbevoie,Ilha De França,França
-GEO014,Greater London,Inglaterra,Reino Unido
-GEO015,Zaragoza,,Aragon
-GEO016,Germany,,Germany
-GEO017,Gdańsk,Pomerânia,Polônia
-GEO018,Nuremberg,Baviera,Alemanha
-GEO019,Boulogne-Billancourt,Ilha De França,França
-GEO020,Shipley,Inglaterra,Reino Unido
-GEO021,Gaimersheim,Baviera,Alemanha
-GEO022,La Cresse,Occitanie,França
-GEO023,Levallois-Perret,Ilha De França,França
-GEO024,Dublin,County Dublin,Irlanda
-GEO025,Markdorf,Baden-Württemberg,Alemanha
-GEO026,Grandes,Castilla And Leon,Espanha
-GEO027,Coimbra,Coimbra,Portugal
-GEO028,Edinburgh,Scotland,Reino Unido
-GEO029,Nordhausen,Thuringia,Alemanha
-GEO030,Aix-En-Provence,Provence-Alpes-Côte D'Azur,França
-GEO031,Boppard,Rhineland-Palatinate,Alemanha
-GEO032,Bouguenais,Pays De La Loire,França
-GEO033,Agudos,São Paulo,Brasil
-GEO034,Bergkirchen,Baviera,Alemanha
-GEO035,Kontich,Flemish Region,Bélgica
-GEO036,Rostock,,Mecklenburg-West Pomerania
-GEO037,Paramus,New Jersey,United States
-GEO038,Oria,Andalusia,Espanha
-GEO039,Garching,Baviera,Alemanha
-GEO040,Pola De Siero,Astúrias,Espanha
-GEO041,Emsdetten,,NRW
-GEO042,Oxford,Inglaterra,Reino Unido
-GEO043,Dublin 2,County Dublin,Irlanda
-GEO044,Unterföhring,,Bavaria
-GEO045,Singapore,,Singapore
-GEO046,Weiterstadt,Hessen,Alemanha
-GEO047,,,United Kingdom
-GEO048,Seattle,Washington,United States
-GEO049,Frankfurt Am Main,Hessen,Alemanha
-GEO050,St.-Denis,Ilha De França,França
-GEO051,Lyon,Auvergne-Rhône-Alpes,França
-GEO052,Bremen,Bremen,Alemanha
-GEO053,Leipzig,Saxony,Alemanha
-GEO054,Derby,Inglaterra,Reino Unido
-GEO055,Föhren,Rhineland-Palatinate,Alemanha
-GEO056,Brussels,Brussels Region,Bélgica
-GEO057,Girona,Catalunha,Espanha
-GEO058,Frankfurt,Hessen,Alemanha
-GEO059,San Roque,Andalusia,Espanha
-GEO060,Düsseldorf,Renânia Do Norte-Vestfália,Alemanha
-GEO061,Antwerp,Flemish Region,Bélgica
-GEO062,Dorking,Inglaterra,Reino Unido
-GEO063,Coblenz,Rhineland-Palatinate,Alemanha
-GEO064,Partenheim,Rhineland-Palatinate,Alemanha
-GEO065,Würzburg,Baviera,Alemanha
-GEO066,Warsaw,Mazowieckie,Polônia
-GEO067,Münster,Renânia Do Norte-Vestfália,Alemanha
-GEO068,Ottignies,Walloon Region,Bélgica
-GEO069,Toulouse,Occitanie,França
-GEO070,Labretonie,Nouvelle-Aquitaine,França
-GEO071,Alcobendas,Comunidade De Madrid,Espanha
-GEO072,Logroño,Autonomía De La Rioja,Espanha
-GEO073,Valencia/València,,Comunidad Valenciana / Comunitat Valenciana
-GEO074,Bonn,Renânia Do Norte-Vestfália,Alemanha
-GEO075,Sant Cugat Del Vallès,Catalunha,Espanha
-GEO076,Solihull,Inglaterra,Reino Unido
-GEO077,Mons,Walloon Region,Bélgica
-GEO078,Bochum,Renânia Do Norte-Vestfália,Alemanha
-GEO079,Dunsden Green,Inglaterra,Reino Unido
-GEO080,Montreuil,Ilha De França,França
-GEO081,Poland,,Singapore
-GEO082,Clichy,Ilha De França,França
-GEO083,New York,New York,United States
-GEO084,Cerdanyola Del Vallès,Catalunha,Espanha
-GEO085,Newcastle Upon Tyne,Inglaterra,Reino Unido
-GEO086,Galway,County Galway,Irlanda
-GEO087,Hamburg,Hamburg,Alemanha
-GEO088,9 Sherwood Rd,,Po Box 342
-GEO089,Osnabrück,,Deutschland
-GEO090,Schwalbach,Hessen,Alemanha
-GEO091,Stuttgart,Baden-Württemberg,Alemanha
-GEO092,Kilmainhamwood,County Meath,Irlanda
-GEO093,Böblingen,Baden-Württemberg,Alemanha
-GEO094,Mainz,Rhineland-Palatinate,Alemanha
-GEO095,Essen,Renânia Do Norte-Vestfália,Alemanha
-GEO096,Griesheim,Hessen,Alemanha
-GEO097,Bovenden,Lower Saxony,Alemanha
-GEO098,Tallinn,Harjumaa,Estonia
-GEO099,Sindelfingen,Baden-Württemberg,Alemanha
-GEO100,Tübingen,Baden-Württemberg,Alemanha
-GEO101,Flensburg,Schleswig-Holstein,Alemanha
-GEO102,Waldorf,Rhineland-Palatinate,Alemanha
-GEO103,Malakoff,Ilha De França,França
-GEO104,Germering,Baviera,Alemanha
-GEO105,France,,França
-GEO106,Issy-Les-Moulineaux,Ilha De França,França
-GEO107,Roubaix,Hauts-De-France,França
-GEO108,Mannheim,Baden-Württemberg,Alemanha
-GEO109,Tiverton,Inglaterra,Reino Unido
-GEO110,Chicago,Illinois,United States
-GEO111,Schöneck,Saxony,Alemanha
-GEO112,Prescot,Inglaterra,Reino Unido
-GEO113,Wigan,Inglaterra,Reino Unido
-GEO114,Karlsruhe,Baden-Württemberg,Alemanha
-GEO115,Birmingham,Inglaterra,Reino Unido
-GEO116,Harrow,Inglaterra,Reino Unido
-GEO117,Marquette-Lez-Lille,Hauts-De-France,França
-GEO118,Aachen,Renânia Do Norte-Vestfália,Alemanha
-GEO119,,,
-GEO120,Chemnitz,Saxony,Alemanha
-GEO121,Cork,County Cork,Irlanda
-GEO122,Irvine,California,United States
-GEO123,Vannes,Brittany,França
-GEO124,Cologne,Renânia Do Norte-Vestfália,Alemanha
-GEO125,Belgium,,Belgium
-GEO126,Beauvais,Hauts-De-France,França
-GEO127,Whittington,Inglaterra,Reino Unido
-GEO128,Le Puy,Auvergne-Rhône-Alpes,França
-GEO129,Kiel,Schleswig-Holstein,Alemanha
-GEO130,Heilbronn,Baden-Württemberg,Alemanha
-GEO131,Canton Of Cesson-Sévigné,Brittany,França
-GEO132,Limoges-Fourches,Ilha De França,França
-GEO133,Netherlands,,France
-GEO134,Maidenhead,Inglaterra,Reino Unido
-GEO135,Łódź,Łódzkie,Polônia
-GEO136,Las Rozas De Madrid,Comunidade De Madrid,Espanha
-GEO137,Leioa,Basque Country,Espanha
-GEO138,,,Portugal
-GEO139,Augsburg,Baviera,Alemanha
-GEO140,England,,Reino Unido
-GEO141,Weeford,Inglaterra,Reino Unido
-GEO142,Lisbon,Lisboa,Portugal
-GEO143,Gentilly,Ilha De França,França
-GEO144,Ghent,Flemish Region,Bélgica
-GEO145,County Dublin,,Irlanda
-GEO146,Dublin 1,County Dublin,Irlanda
-GEO147,Neuilly-Sur-Seine,Ilha De França,França
-GEO148,Rueil-Malmaison,Ilha De França,França
-GEO149,Saue,Harjumaa,Estonia
-GEO150,Heidelberg,Baden-Württemberg,Alemanha
-GEO151,Blackfriars,Inglaterra,Reino Unido
-GEO152,Noisy-Le-Grand,Ilha De França,França
-GEO153,New Brunswick,New Jersey,United States
-GEO154,Winfrith Newburgh,Inglaterra,Reino Unido
-GEO155,Heitersheim,Baden-Württemberg,Alemanha
-GEO156,Meyrin,Geneva,Suíça
-GEO157,United Kingdom,,United Kingdom
-GEO158,Hagen,Renânia Do Norte-Vestfália,Alemanha
-GEO159,Nuremberg,,Bavaria
-GEO160,Ebermannsdorf,Baviera,Alemanha
-GEO161,Passau,Baviera,Alemanha
-GEO162,St.-Maurice,Ilha De França,França
-GEO163,Hasselt,Flemish Region,Bélgica
-GEO164,Rheinbach,Renânia Do Norte-Vestfália,Alemanha
-GEO165,Eschborn,Hessen,Alemanha
-GEO166,Sulzemoos,Baviera,Alemanha
-GEO167,Osnabrück,Lower Saxony,Alemanha
-GEO168,12 Global Locations,,Worldwide
-GEO169,Málaga,Andalusia,Espanha
-GEO170,Madrid Y Alrededores,,España
-GEO171,France,,United Kingdom
-GEO172,Madrid,Comunidade De Madrid,Espanha
-GEO173,Greater Tokyo Area,,Singapore
-GEO174,Senamiesčio Seniūnija,Vilnius,Lituânia
-GEO175,Meerbusch,Renânia Do Norte-Vestfália,Alemanha
-GEO176,Oeiras,Lisboa,Portugal
-GEO177,Kelkheim,Hessen,Alemanha
-GEO178,Massy,Ilha De França,França
-GEO179,St. Ingbert,Saarland,Alemanha
-GEO180,Isernhagen Farster Bauerschaft,Lower Saxony,Alemanha
-GEO181,Dresden,Saxony,Alemanha
-GEO182,Cascais,Lisboa,Portugal
-GEO183,Staines-Upon-Thames,Inglaterra,Reino Unido
-GEO184,Freiburg,Baden-Württemberg,Alemanha
-GEO185,Langenfeld,Renânia Do Norte-Vestfália,Alemanha
-GEO186,Nantes,Pays De La Loire,França
-GEO187,Gliwice,Śląskie,Polônia
-GEO188,Bagneux,Ilha De França,França
-GEO189,Bilbao,Basque Country,Espanha
-GEO190,Dubai,Dubai,United Arab Emirates
-GEO191,Straubing,Baviera,Alemanha
-GEO192,Fulda,Hessen,Alemanha
-GEO193,Àrea Metropolitana De Barcelona,Catalunha,Espanha
-GEO194,Limburg An Der Lahn,Hessen,Alemanha
-GEO195,Echterdingen,Baden-Württemberg,Alemanha
-GEO196,Hargesheim,,Rheinland-Pfalz
-GEO197,Hildesheim,Lower Saxony,Alemanha
-GEO198,El Masnou,Catalunha,Espanha
-GEO199,London Colney,Inglaterra,Reino Unido
-GEO200,Bordeaux,Nouvelle-Aquitaine,França
-GEO201,Tarragona,Catalunha,Espanha
-GEO202,Bremen,,Bremen
-GEO203,France,,France
-GEO204,Ramonville-Saint-Agne,Occitanie,França
-GEO205,Bühl,Baden-Württemberg,Alemanha
-GEO206,São Paulo,São Paulo,Brasil
-GEO207,Saint-Herblain,Pays De La Loire,França
-GEO208,Gerlingen,Baden-Württemberg,Alemanha
-GEO209,Northampton,Inglaterra,Reino Unido
-GEO210,Gembloux,Walloon Region,Bélgica
-GEO211,Leverkusen,Renânia Do Norte-Vestfália,Alemanha
-GEO212,Valbonne,Provence-Alpes-Côte D'Azur,França
-GEO213,Bruges,Nouvelle-Aquitaine,França
-GEO214,Vaciamadrid,Comunidade De Madrid,Espanha
-GEO215,Sonnenberg,Brandenburg,Alemanha
-GEO216,Regensburg,Baviera,Alemanha
-GEO217,Reading,Inglaterra,Reino Unido
-GEO218,Marburg An Der Lahn,Hessen,Alemanha
-GEO219,Chémery,Centre-Val De Loire,França
-GEO220,Poznan,Wielkopolskie,Polônia
-GEO221,Metz,Grand Est,França
-GEO222,Hallstadt,Baviera,Alemanha
-GEO223,Gütersloh,Renânia Do Norte-Vestfália,Alemanha
-GEO224,Brunswick,Lower Saxony,Alemanha
-GEO225,Leeds,Inglaterra,Reino Unido
-GEO226,Kaunas,Kaunas,Lituânia
-GEO227,Rennes,Brittany,França
-GEO228,Radolfzell,Baden-Württemberg,Alemanha
-GEO229,Vitrolles,Provence-Alpes-Côte D'Azur,França
-GEO230,Sant Just Desvern,Catalunha,Espanha
-GEO231,Duisburg,Renânia Do Norte-Vestfália,Alemanha
-GEO232,St-Étienne,Auvergne-Rhône-Alpes,França
-GEO233,Sandwich,Inglaterra,Reino Unido
-GEO234,Schloß Holte,Renânia Do Norte-Vestfália,Alemanha
-GEO235,Greater Dublin,,Ireland
-GEO236,Labège,Occitanie,França
-GEO237,Schifferstadt,Rhineland-Palatinate,Alemanha
-GEO238,Pforzheim,Baden-Württemberg,Alemanha
-GEO239,Hannover,Lower Saxony,Alemanha
-GEO240,Krailling,Baviera,Alemanha
-GEO241,Lübeck,Schleswig-Holstein,Alemanha
-GEO242,Wasquehal,Hauts-De-France,França
-GEO243,Manchester,Inglaterra,Reino Unido
-GEO244,Traunstein,Baviera,Alemanha
-GEO245,Wiesloch,Baden-Württemberg,Alemanha
-GEO246,Möhnesee,,Nordrhein-Westfalen
-GEO247,St.-Ouen,Ilha De França,França
-GEO248,Cornellà De Llobregat,Catalunha,Espanha
-GEO249,Sèvres,Ilha De França,França
-GEO250,Ilford,Inglaterra,Reino Unido
-GEO251,Seefeld,Baviera,Alemanha
-GEO252,Dublin 12,County Dublin,Irlanda
-GEO253,Villeurbanne,Auvergne-Rhône-Alpes,França
-GEO254,Dreieich,Hessen,Alemanha
-GEO255,Dublin,,Dublin
-GEO256,Porriño,Galicia,Espanha
-GEO257,Hamm,Renânia Do Norte-Vestfália,Alemanha
-GEO258,Rosenheim,,Bayern
-GEO259,Bargteheide,Schleswig-Holstein,Alemanha
-GEO260,Sandbach,Hessen,Alemanha
-GEO261,Troisdorf,Renânia Do Norte-Vestfália,Alemanha
-GEO262,Richmond Upon Thames,Inglaterra,Reino Unido
-GEO263,Guimarães,Braga,Portugal
-GEO264,Team Valley Trading Estate,Inglaterra,Reino Unido
-GEO265,Famalicão,Leiria,Portugal
-GEO266,Murcia,Región De Murcia,Espanha
-GEO267,Kaiserslautern,Rhineland-Palatinate,Alemanha
-GEO268,Castellón De La Plana,Valencian Community,Espanha
-GEO269,Gilching,Baviera,Alemanha
-GEO270,Wiesbaden,Hessen,Alemanha
-GEO271,Torcy,Ilha De França,França
-GEO272,Nivelles,Walloon Region,Bélgica
-GEO273,Wesel,Renânia Do Norte-Vestfália,Alemanha
-GEO274,Fleet Street,,England
-GEO275,Castanet-Tolosan,Occitanie,França
-GEO276,Walldorf,Baden-Württemberg,Alemanha
-GEO277,Suresnes,Ilha De França,França
-GEO278,Paderborn,Renânia Do Norte-Vestfália,Alemanha
-GEO279,Möhrendorf,Baviera,Alemanha
-GEO280,Würselen,Renânia Do Norte-Vestfália,Alemanha
-GEO281,Santo Tirso,Porto,Portugal
-GEO282,Curitiba,Paraná,Brasil
-GEO283,Maia,Porto,Portugal
-GEO284,Porto,Porto,Portugal
-GEO285,Portugal,,Portugal
-GEO286,Braga,Braga,Portugal
-GEO287,Ponte Do Lima,Viana Do Castelo,Portugal
-GEO288,Vila Nova De Famalicão,Braga,Portugal
-GEO289,Marco De Canavezes,Porto,Portugal
-GEO290,Oliveira De Azemeis,Aveiro,Portugal
-GEO291,Santiago Do Cacém,Setúbal,Portugal
-GEO292,,,Spain
-GEO293,Palma,Balearic Islands,Espanha
-GEO294,Seville,Andalusia,Espanha
-GEO295,Puebla De Vallbona,Valencian Community,Espanha
-GEO296,Vigo,Galicia,Espanha
-GEO297,Ensenada,Baja California,Mexico
-GEO298,Mexico,,Mexico
-GEO299,Santarém,Santarém,Portugal
-GEO300,Milan,Lombardy,Itália
-GEO301,Afghanistan,,Afghanistan
-GEO302,Seixal,Setúbal,Portugal
-GEO303,Leiria,Leiria,Portugal
-GEO304,Sintra,Lisboa,Portugal
-GEO305,Lisbon Metropolitan Area,,Portugal
-GEO306,São Roque Do Pico,Ilha Do Pico,Portugal
-GEO307,Loulé,Faro,Portugal
-GEO308,Torres Vedras,Lisboa,Portugal
-GEO309,Matosinhos,Porto,Portugal
-GEO310,Vilnius,Vilniaus,Lithuania
-GEO311,Bonn,North Rhine-Westphalia,Germany
-GEO312,Mieres del Camino,Principality of Asturias,Spain
-GEO313,Istanbul,Istanbul,Turkey
-GEO314,Liverpool,England,United Kingdom
-GEO315,Neufahrn bei Freising,Bavaria,Germany
-GEO316,Castelldefels,Catalonia,Spain
-GEO317,Lisbon,Lisbon,Portugal
-GEO318,Paris,Ile-de-France,France
-GEO319,Capital,,Germany
-GEO320,Gloucester,England,United Kingdom
-GEO321,Barcelona,Catalonia,Spain
-GEO322,Krzeszowice,Małopolskie,Poland
-GEO323,Gdynia,Pomorskie,Poland
-GEO324,Auneau,Centre-Val de Loire,France
-GEO325,,,Greater Toulouse Metropolitan Area
-GEO326,Basingstoke,England,United Kingdom
-GEO327,London,England,United Kingdom
-GEO328,Zaragoza,Aragon,Spain
-GEO329,Liverpool Street,England,United Kingdom
-GEO330,Saarbrücken,Saarland,Germany
-GEO331,Nuremberg,Bavaria,Germany
-GEO332,Cronton,England,United Kingdom
-GEO333,Chorley,England,United Kingdom
-GEO334,Chafford Hundred,England,United Kingdom
-GEO335,Ingolstadt,Bavaria,Germany
-GEO336,Ubá,Minas Gerais,Brazil
-GEO337,,,Israel
-GEO338,Baduria,West Bengal,India
-GEO339,,,Ireland
-GEO340,São Paulo,São Paulo,Brazil
-GEO341,Marinha Grande,Leiria,Portugal
-GEO342,Gosport,England,United Kingdom
-GEO343,Nordhausen,Thuringia,Germany
-GEO344,Huangpu District,Shanghai,China
-GEO345,Wrocław,Dolnośląskie,Poland
-GEO346,Munich,Bavaria,Germany
-GEO347,,,Greater Marseille Metropolitan Area
-GEO348,Nordhofen,Rhineland-Palatinate,Germany
-GEO349,Lyon,Auvergne-Rhône-Alpes,France
-GEO350,Gressy,Ile-de-France,France
-GEO351,St.-Denis,Ile-de-France,France
-GEO352,Waterloo,Walloon Region,Belgium
-GEO353,Rostock Area,,Germany
-GEO354,Pau Area,,France
-GEO355,Madrid,Community of Madrid,Spain
-GEO356,Oviedo,Principality of Asturias,Spain
-GEO357,Emsdetten,North Rhine-Westphalia,Germany
-GEO358,,,Greater Oxford Area
-GEO359,Dublin,County Dublin,Ireland
-GEO360,South Gyeongsang,,South Korea
-GEO361,Toulouse,Occitanie,France
-GEO362,Weiterstadt,Hesse,Germany
-GEO363,Gdańsk,Pomorskie,Poland
-GEO364,Luxembourg,Luxembourg,Luxembourg
-GEO365,Ballyward,Northern Ireland,United Kingdom
-GEO366,,,Frankfurt Rhine-Main Metropolitan Area
-GEO367,Paris Area,,France
-GEO368,Lyon Area,,France
-GEO369,,,Greater Bremen Area
-GEO370,Leipzig,Saxony,Germany
-GEO371,Chelmsford,England,United Kingdom
-GEO372,Föhren,Rhineland-Palatinate,Germany
-GEO373,Roßdorf,Hesse,Germany
-GEO374,,,Greater Karlsruhe Area
-GEO375,Capital,,Spain
-GEO376,Düsseldorf,North Rhine-Westphalia,Germany
-GEO377,Duffel,Flemish Region,Belgium
-GEO378,,,Greater Reading Area
-GEO379,Berlin,Berlin,Germany
-GEO380,,,Greater Bielefeld Area
-GEO381,Lublin,Lubelskie,Poland
-GEO382,La Línea,Andalusia,Spain
-GEO383,,,Ruhr Region
-GEO384,Waterlooville,England,United Kingdom
-GEO385,,,Cologne Bonn Region
-GEO386,Bordeaux,Nouvelle-Aquitaine,France
-GEO387,Paris,Île-de-France,France
-GEO388,Temascalapa,México,Mexico
-GEO389,Las Rozas de Madrid,Community of Madrid,Spain
-GEO390,,,Greater Valencia Metropolitan Area
-GEO391,Dresden,Saxony,Germany
-GEO392,,,Berlin Metropolitan Area
-GEO393,Gibraltar,,Gibraltar
-GEO394,Warsaw,Mazowieckie,Poland
-GEO395,Birmingham,England,United Kingdom
-GEO396,Lyon,Auvergne-Rhone-Alpes,France
-GEO397,Issy-les-Moulineaux,Ile-de-France,France
-GEO398,,,Charleroi Metropolitan Area
-GEO399,Wallingford,England,United Kingdom
-GEO400,,,Singapore
-GEO401,Rueil-Malmaison,Ile-de-France,France
-GEO402,,,Isle of Man
-GEO403,Barberà del Vallès,Catalonia,Spain
-GEO404,Rambouillet,Ile-de-France,France
-GEO405,,,Croatia
-GEO406,Vienna,Vienna,Austria
-GEO407,Eichwalde,Brandenburg,Germany
-GEO408,Springwood,Queensland,Australia
-GEO409,Bavaria,,Germany
-GEO410,,,Wroclaw Metropolitan Area
-GEO411,Schwalbach,Hesse,Germany
-GEO412,Ansbach,Bavaria,Germany
-GEO413,Willisau,Lucerne,Switzerland
-GEO414,,,Lithuania
-GEO415,Böblingen,Baden-Württemberg,Germany
-GEO416,Mainz,Rhineland-Palatinate,Germany
-GEO417,Berlin und Umgebung,,Deutschland
-GEO418,Bochum,North Rhine-Westphalia,Germany
-GEO419,,,Argentina
-GEO420,Griesheim,Hesse,Germany
-GEO421,Pabianicki,Łódzkie,Poland
-GEO422,Göttingen,Lower Saxony,Germany
-GEO423,,,Tallinn Metropolitan Area
-GEO424,Copenhagen,Capital Region of Denmark,Denmark
-GEO425,Hamburg,Hamburg,Germany
-GEO426,Rottenburg,Baden-Württemberg,Germany
-GEO427,Schleswig,Schleswig-Holstein,Germany
-GEO428,,,Greater Pittsburgh Area
-GEO429,Capital,,France
-GEO430,Milwaukee,Wisconsin,United States
-GEO431,Mesa,Arizona,United States
-GEO432,Munich Area,,Germany
-GEO433,Harlow,England,United Kingdom
-GEO434,Sint-Truiden Halmaal,Flanders,Belgium
-GEO435,Toulouse Area,,France
-GEO436,Hyderabad,Telangana,India
-GEO437,Troy,Michigan,United States
-GEO438,Auckland,Auckland,New Zealand
-GEO439,Ile-de-France,,France
-GEO440,,,United Arab Emirates
-GEO441,Great Wakering,England,United Kingdom
-GEO442,Berlin Area,,Germany
-GEO443,Krefeld,North Rhine-Westphalia,Germany
-GEO444,Lyon,Rhône-Alpes,France
-GEO445,Montpellier,Languedoc-Roussillon,France
-GEO446,,,Greater Montreal Metropolitan Area
-GEO447,,,Brussels Metropolitan Area
-GEO448,Région de Paris,,France
-GEO449,London,Greater London,United Kingdom
-GEO450,Schöneck,Saxony,Germany
-GEO451,,,Egypt
-GEO452,Prescot,England,United Kingdom
-GEO453,Manchester Area,,United Kingdom
-GEO454,Swindon,England,United Kingdom
-GEO455,Karlsruhe,Baden-Württemberg,Germany
-GEO456,Bengaluru,Karnataka,India
-GEO457,,,India
-GEO458,Simmerath,North Rhine-Westphalia,Germany
-GEO459,Peshawar,Khyber Pakhtunkhwa,Pakistan
-GEO460,Nancy,Grand Est,France
-GEO461,,,Greater Chemnitz Area
-GEO462,,,Cork Metropolitan Area
-GEO463,Rio de Janeiro,Rio de Janeiro,Brazil
-GEO464,Cologne,North Rhine-Westphalia,Germany
-GEO465,Brighton,England,United Kingdom
-GEO466,,,Ghent Metropolitan Area
-GEO467,Vilniaus,,Lithuania
-GEO468,Bangalore Urban,Karnataka,India
-GEO469,Prague,,Czechia
-GEO470,Dudley,,United Kingdom
-GEO471,,,Malta
-GEO472,Poznań,Wielkopolskie,Poland
-GEO473,Caen,Lower Normandy,France
-GEO474,Chamalières,Auvergne-Rhone-Alpes,France
-GEO475,Kiel,Schleswig-Holstein,Germany
-GEO476,Stuttgart,Baden-Württemberg,Germany
-GEO477,Sainte-Eulalie,Nouvelle-Aquitaine,France
-GEO478,Newcastle,KwaZulu-Natal,South Africa
-GEO479,Moscow,Moscow City,Russia
-GEO480,Brussels,Brussels Region,Belgium
-GEO481,,,Greater Rennes Metropolitan Area
-GEO482,Limoges,Limousin,France
-GEO483,Nantes,Pays de la Loire,France
-GEO484,Berlin,Berlin,Allemagne
-GEO485,Dartford,,United Kingdom
-GEO486,Slough,,United Kingdom
-GEO487,,,Lausanne Metropolitan Area
-GEO488,Wielkopolskie,,Poland
-GEO489,,,South Korea
-GEO490,Leioa,Basque Country,Spain
-GEO491,Friedberg,Bavaria,Germany
-GEO492,,,Greater Blackburn with Darwen Area
-GEO493,Noida,Uttar Pradesh,India
-GEO494,Gondomar,Porto,Portugal
-GEO495,,,Romenia
-GEO496,Le Plessis-Robinson,Ile-de-France,France
-GEO497,Crépy-en-Valois,Picardy,France
-GEO498,Gent Area,,Belgium
-GEO499,Gamston,England,United Kingdom
-GEO500,Blagnac,Midi-Pyrénées,France
-GEO501,,,Mauritius
-GEO502,Frankfurt,Hesse,Germany
-GEO503,Hendersonville,Tennessee,United States
-GEO504,,,Estonia
-GEO505,Ulverston,England,United Kingdom
-GEO506,Bern,Berne,Switzerland
-GEO507,Rochester,,United Kingdom
-GEO508,Wingfield,Wiltshire,United Kingdom
-GEO509,Cork,County Cork,Ireland
-GEO510,,,Rwanda
-GEO511,Casablanca,,Morocco
-GEO512,London Area,,United Kingdom
-GEO513,Redhill,England,United Kingdom
-GEO514,Bournemouth,,United Kingdom
-GEO515,Montauban Area,,France
-GEO516,Peterborough,England,United Kingdom
-GEO517,Heitersheim,Baden-Württemberg,Germany
-GEO518,Meyrin,Geneva,Switzerland
-GEO519,,,Pakistan
-GEO520,Darlington,England,United Kingdom
-GEO521,,,Piotrków Trybunalski Metropolitan Area
-GEO522,Hagen,North Rhine-Westphalia,Germany
-GEO523,Amsterdam,North Holland,Netherlands
-GEO524,Regensburg,Bavaria,Germany
-GEO525,Passau,Bavaria,Germany
-GEO526,Hasselt,Flemish Region,Belgium
-GEO527,Guará,Federal District,Brazil
-GEO528,Osnabrück,Lower Saxony,Germany
-GEO529,,,Porto Metropolitan Area
-GEO530,,,Stuttgart Region
-GEO531,Essen,North Rhine-Westphalia,Germany
-GEO532,Cambridge,,United Kingdom
-GEO533,Châtenay-en-France,Ile-de-France,France
-GEO534,,,Russia
-GEO535,,,Greater Málaga Metropolitan Area
-GEO536,Mandres-les-Roses,Ile-de-France,France
-GEO537,,,Bulgaria
-GEO538,Aachen,North Rhine-Westphalia,Germany
-GEO539,Greater Northampton Area,,United Kingdom
-GEO540,Thane,Maharashtra,India
-GEO541,Münster,North Rhine-Westphalia,Germany
-GEO542,Übach-Palenberg,North Rhine-Westphalia,Germany
-GEO543,Edinburgh,Scotland,United Kingdom
-GEO544,Graz,Styria,Austria
-GEO545,Wealden,England,United Kingdom
-GEO546,St.-Maur-des-Fossés,Ile-de-France,France
-GEO547,Grevenbroich,North Rhine-Westphalia,Germany
-GEO548,Oeiras,Lisbon,Portugal
-GEO549,,,Luxembourg
-GEO550,Massy,Ile-de-France,France
-GEO551,Milton Keynes,England,United Kingdom
-GEO552,Acton,England,United Kingdom
-GEO553,Bavière,,Allemagne
-GEO554,Cottenham,England,United Kingdom
-GEO555,,,Ukraine
-GEO556,,,Austria
-GEO557,Langenfeld,North Rhine-Westphalia,Germany
-GEO558,,,Greater Nantes Metropolitan Area
-GEO559,Tadley,England,United Kingdom
-GEO560,Kippax,England,United Kingdom
-GEO561,Bilbao,Basque Country,Spain
-GEO562,Dubai,,United Arab Emirates
-GEO563,Freiburg,Baden-Württemberg,Germany
-GEO564,Almada,Setúbal,Portugal
-GEO565,Herzogenaurach,Bavaria,Germany
-GEO566,Fulda,Hesse,Germany
-GEO567,Slough,England,United Kingdom
-GEO568,Liège,Walloon Region,Belgium
-GEO569,Burj Al Kifan,Algiers,Algeria
-GEO570,Weilburg,Hesse,Germany
-GEO571,Chanteloup-les-Vignes,Ile-de-France,France
-GEO572,Bourne,England,United Kingdom
-GEO573,Sutton Coldfield,England,United Kingdom
-GEO574,Alzey,Rhineland-Palatinate,Germany
-GEO575,Bad Salzdetfurth,Lower Saxony,Germany
-GEO576,Sliema,,Malta
-GEO577,Sittingbourne,England,United Kingdom
-GEO578,Aulnay-sous-Bois,Ile-de-France,France
-GEO579,Barcelona,Cataluña,España
-GEO580,,,Brussels et périphérie
-GEO581,Madrid,Madrid,Spain
-GEO582,Nuremberg,Bavière,Allemagne
-GEO583,Bogor,West Java,Indonesia
-GEO584,,,Dresde et périphérie
-GEO585,Maribor,Maribor,Slovenia
-GEO586,Montmorency,Ile-de-France,France
-GEO587,Indore,Madhya Pradesh,India
-GEO588,,,Serbia
-GEO589,Yokohama,Kanagawa,Japan
-GEO590,,,Greater Dublin
-GEO591,Longridge,Scotland,United Kingdom
-GEO592,Landen,Flemish Region,Belgium
-GEO593,Brussels Region,,Belgium
-GEO594,Charleroi,Walloon Region,Belgium
-GEO595,,,Namur Metropolitan Area
-GEO596,Voiron,Auvergne-Rhone-Alpes,France
-GEO597,Worcester City,England,United Kingdom
-GEO598,,,El Salvador
-GEO599,,,Greater Nice Metropolitan Area
-GEO600,,,Madagascar
-GEO601,Riga,,Latvia
-GEO602,Cluj,,Romenia
-GEO603,,,Greece
-GEO604,Derby,England,United Kingdom
-GEO605,Plattling,Bavaria,Germany
-GEO606,Bromley,England,United Kingdom
-GEO607,,,Cracow Metropolitan Area
-GEO608,Marburg an der Lahn,Hesse,Germany
-GEO609,Reno,Nevada,United States
-GEO610,,,Greater Bordeaux Metropolitan Area
-GEO611,,,Greater Lille Metropolitan Area
-GEO612,Bourgogne-Franche-Comté,,France
-GEO613,,,Lodz Metropolitan Area
-GEO614,Metz,Grand Est,France
-GEO615,Bamberg,Bavaria,Germany
-GEO616,Dortmund,North Rhine-Westphalia,Germany
-GEO617,,,Hannover-Braunschweig-Göttingen-Wolfsburg Region
-GEO618,Leeds,England,United Kingdom
-GEO619,Weimar,Thuringia,Germany
-GEO620,City Of Westminster,England,United Kingdom
-GEO621,Gurgaon,Haryana,India
-GEO622,Ranst,Flemish Region,Belgium
-GEO623,Constance,Baden-Württemberg,Germany
-GEO624,Mechelen,Flemish Region,Belgium
-GEO625,Wokingham,England,United Kingdom
-GEO626,Vitrolles,Provence-Alpes-Cote d'Azur,France
-GEO627,Valencia,Valencian Community,Spain
-GEO628,Holzkirchen,Bavaria,Germany
-GEO629,Hamden,Connecticut,United States
-GEO630,Seoul,,South Korea
-GEO631,Canterbury,England,United Kingdom
-GEO632,,,Greater Aberdeen Area
-GEO633,Eppertshausen,Hesse,Germany
-GEO634,Schloß Holte-Stukenbrock,North Rhine-Westphalia,Germany
-GEO635,Mumbai,Maharashtra,India
-GEO636,Lozenets,Sofia,Bulgarie
-GEO637,Sandyford,Dún Laoghaire-Rathdown,Ireland
-GEO638,Geneva,Geneva,Switzerland
-GEO639,,,Rhein-Neckar Metropolitan Region
-GEO640,Isernhagen Farster Bauerschaft,Lower Saxony,Germany
-GEO641,Ismaning,Bavaria,Germany
-GEO642,,,Greater Kassel Area
-GEO643,Tel Aviv District,,Israel
-GEO644,Stadt Hamburg,Hamburg,Germany
-GEO645,Budapest,Budapest,Hungary
-GEO646,Pamplona,Chartered Community of Navarre,Spain
-GEO647,Ozoir-la-Ferrière,Ile-de-France,France
-GEO648,,,Greater La Rochelle Area
-GEO649,Gilching,Bavaria,Germany
-GEO650,Leicester,England,United Kingdom
-GEO651,Bolívar,,Venezuela
-GEO652,Ingelheim am Rhein,Rhineland-Palatinate,Germany
-GEO653,Braşov,,Romenia
-GEO654,Greater London,England,United Kingdom
-GEO655,,,Greater Vigo Metropolitan Area
-GEO656,Framlingham,England,United Kingdom
-GEO657,Montabaur,Rhineland-Palatinate,Germany
-GEO658,Rosenheim,Bavaria,Germany
-GEO659,Raubling,Bavaria,Germany
-GEO660,Iphofen,Bavaria,Germany
-GEO661,South Croydon,England,United Kingdom
-GEO662,Tonbridge,England,United Kingdom
-GEO663,Reading,England,United Kingdom
-GEO664,Vallendar,Rhineland-Palatinate,Germany
-GEO665,Woodley,England,United Kingdom
-GEO666,Metro Manila,National Capital Region,Philippines
-GEO667,,,Bosnia and Herzegovina
-GEO668,Newcastle Upon Tyne,England,United Kingdom
-GEO669,Newcastle upon Tyne,,United Kingdom
-GEO670,Schliersee,Bavaria,Germany
-GEO671,Killorglin,County Kerry,Ireland
-GEO672,Sinsheim,Baden-Württemberg,Germany
-GEO673,São Paulo,,Brazil
-GEO674,Skipton,England,United Kingdom
-GEO675,Murcia,Región de Murcia,Spain
-GEO676,Mannheim,Baden-Württemberg,Germany
-GEO677,Capital,,Portugal
-GEO678,,,Netherlands
-GEO679,Trossingen,Baden-Württemberg,Germany
-GEO680,Neuses,Baden-Württemberg,Germany
-GEO681,Marseille,Provence-Alpes-Cote d'Azur,France
-GEO682,Eschweiler,North Rhine-Westphalia,Germany
-GEO683,Kempen,North Rhine-Westphalia,Germany
-GEO684,Warrington,England,United Kingdom
-GEO685,Linkenheim-Hochstetten,Baden-Württemberg,Germany
-GEO686,Fleury-la-Montagne,Bourgogne-Franche-Comté,France
-GEO687,Castres,Occitanie,France
-GEO688,Aveiro,Aveiro,Portugal
-GEO689,Maharashtra,,India
-GEO690,Mühltal,Hesse,Germany
-GEO691,Panaji,Goa,India
-GEO692,Níkaia,Attiki,Greece
-GEO693,Möhrendorf,Bavaria,Germany
-GEO694,Würselen,North Rhine-Westphalia,Germany
-GEO695,Lynnfield,Massachusetts,United States
-GEO696,Boca Raton,Florida,United States
-GEO697,Manchester,England,United Kingdom
-GEO698,Santa Barbara,California,United States
-GEO699,Boituva,São Paulo,Brazil
-GEO700,Ponte do Lima,Viana do Castelo,Portugal
-GEO701,Porto,,Portugal
-GEO702,Cascais,Lisbon,Portugal
-GEO703,Santiago do Cacém,Setúbal,Portugal
-GEO704,Aartselaar,Flemish Region,Belgium
-GEO705,Sant Boi de Llobregat,Catalonia,Spain
-GEO706,,,Helsinki Metropolitan Area
-GEO707,Stockholm,Stockholm County,Sweden
-GEO708,Logroño,Autonomía de La Rioja,Spain
-GEO709,Uster,Zurich,Switzerland
-GEO710,Keerbergen,Flemish Region,Belgium
-GEO711,Gijón,Principality of Asturias,Spain
-GEO712,,,Finland
-GEO713,,,Greater Palma de Mallorca Metropolitan Area
-GEO714,,,Venezuela
-GEO715,Palma,Balearic Islands,Spain
-GEO716,,,Greater Sevilla Metropolitan Area
-GEO717,Santiago,Santiago Metropolitan Region,Chile
-GEO718,Cartagena,Región de Murcia,Spain
-GEO719,Getafe,Community of Madrid,Spain
-GEO720,Puenteareas,Galicia,Spain
-GEO721,Unidad Hab Lomas de San Lorenzo,Federal District,Mexico
-GEO722,Gustavo A. Madero,Mexico City,Mexico
-GEO723,Viana do Castelo,Viana do Castelo,Portugal
-GEO724,Juárez,Federal District,Mexico
-GEO725,,,Lisbon Metropolitan Area
-GEO726,Montijo,Setúbal,Portugal
-GEO727,Tlalpan,Mexico City,Mexico
-GEO728,Baarn,Utrecht Province,Netherlands
-GEO729,Mexico City,,Mexico
-GEO730,Évora,,Portugal
-GEO731,Alcobaça,Leiria,Portugal
-GEO732,Lajes,,Portugal
-GEO733,Loures,Lisbon,Portugal
-GEO734,Faro,Faro,Portugal
-GEO735,Vila Franca de Xira,Lisbon,Portugal
+Geografia_ID,Cidade,Estado,Pais,Pais padronizado,Regiao Europa
+GEO001,Vilnius,Vilnius,Lituania,Lithuania,Outros
+GEO002,Berlin,Berlin,Alemanha,Germany,Europa Ocidental
+GEO003,Gijón,Astúrias,Espanha,Spain,Europa do Sul
+GEO004,Warrington,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO005,Munich,Baviera,Alemanha,Germany,Europa Ocidental
+GEO006,London,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO007,Ílhavo,Aveiro,Portugal,Portugal,Europa do Sul
+GEO008,Paris,Ilha De França,Franca,France,Europa Ocidental
+GEO009,Munich,,Bavaria,Germany,Europa Ocidental
+GEO010,Barcelona,Catalunha,Espanha,Spain,Europa do Sul
+GEO011,Cracow,Pequena Polônia,Polonia,Poland,Leste Europeu
+GEO012,Wrocław,Baixa Silésia,Polonia,Poland,Leste Europeu
+GEO013,Courbevoie,Ilha De França,Franca,France,Europa Ocidental
+GEO014,Greater London,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO015,Zaragoza,,Aragon,Spain,Europa do Sul
+GEO016,Germany,,Germany,Germany,Europa Ocidental
+GEO017,Gdańsk,Pomerânia,Polonia,Poland,Leste Europeu
+GEO018,Nuremberg,Baviera,Alemanha,Germany,Europa Ocidental
+GEO019,Boulogne-Billancourt,Ilha De França,Franca,France,Europa Ocidental
+GEO020,Shipley,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO021,Gaimersheim,Baviera,Alemanha,Germany,Europa Ocidental
+GEO022,La Cresse,Occitanie,Franca,France,Europa Ocidental
+GEO023,Levallois-Perret,Ilha De França,Franca,France,Europa Ocidental
+GEO024,Dublin,County Dublin,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO025,Markdorf,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO026,Grandes,Castilla And Leon,Espanha,Spain,Europa do Sul
+GEO027,Coimbra,Coimbra,Portugal,Portugal,Europa do Sul
+GEO028,Edinburgh,Scotland,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO029,Nordhausen,Thuringia,Alemanha,Germany,Europa Ocidental
+GEO030,Aix-En-Provence,Provence-Alpes-Côte D'Azur,Franca,France,Europa Ocidental
+GEO031,Boppard,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO032,Bouguenais,Pays De La Loire,Franca,France,Europa Ocidental
+GEO033,Agudos,São Paulo,Brasil,Brazil,Outros
+GEO034,Bergkirchen,Baviera,Alemanha,Germany,Europa Ocidental
+GEO035,Kontich,Flemish Region,Belgica,Belgium,Europa Ocidental
+GEO036,Rostock,,Mecklenburg-West Pomerania,Germany,Europa Ocidental
+GEO037,Paramus,New Jersey,United States,United States,Outros
+GEO038,Oria,Andalusia,Espanha,Spain,Europa do Sul
+GEO039,Garching,Baviera,Alemanha,Germany,Europa Ocidental
+GEO040,Pola De Siero,Astúrias,Espanha,Spain,Europa do Sul
+GEO041,Emsdetten,,NRW,Não é um país.,Outros
+GEO042,Oxford,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO043,Dublin 2,County Dublin,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO044,Unterföhring,,Bavaria,Germany,Europa Ocidental
+GEO045,Singapore,,Singapore,Singapore,Outros
+GEO046,Weiterstadt,Hessen,Alemanha,Germany,Europa Ocidental
+GEO047,,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO048,Seattle,Washington,United States,United States,Outros
+GEO049,Frankfurt Am Main,Hessen,Alemanha,Germany,Europa Ocidental
+GEO050,St.-Denis,Ilha De França,Franca,France,Europa Ocidental
+GEO051,Lyon,Auvergne-Rhône-Alpes,Franca,France,Europa Ocidental
+GEO052,Bremen,Bremen,Alemanha,Germany,Europa Ocidental
+GEO053,Leipzig,Saxony,Alemanha,Germany,Europa Ocidental
+GEO054,Derby,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO055,Föhren,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO056,Brussels,Brussels Region,Belgica,Belgium,Europa Ocidental
+GEO057,Girona,Catalunha,Espanha,Spain,Europa do Sul
+GEO058,Frankfurt,Hessen,Alemanha,Germany,Europa Ocidental
+GEO059,San Roque,Andalusia,Espanha,Spain,Europa do Sul
+GEO060,Düsseldorf,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO061,Antwerp,Flemish Region,Belgica,Belgium,Europa Ocidental
+GEO062,Dorking,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO063,Coblenz,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO064,Partenheim,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO065,Würzburg,Baviera,Alemanha,Germany,Europa Ocidental
+GEO066,Warsaw,Mazowieckie,Polonia,Poland,Leste Europeu
+GEO067,Münster,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO068,Ottignies,Walloon Region,Belgica,Belgium,Europa Ocidental
+GEO069,Toulouse,Occitanie,Franca,France,Europa Ocidental
+GEO070,Labretonie,Nouvelle-Aquitaine,Franca,France,Europa Ocidental
+GEO071,Alcobendas,Comunidade De Madrid,Espanha,Spain,Europa do Sul
+GEO072,Logroño,Autonomía De La Rioja,Espanha,Spain,Europa do Sul
+GEO073,Valencia/València,,Comunidad Valenciana / Comunitat Valenciana,Valencia,Outros
+GEO074,Bonn,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO075,Sant Cugat Del Vallès,Catalunha,Espanha,Spain,Europa do Sul
+GEO076,Solihull,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO077,Mons,Walloon Region,Belgica,Belgium,Europa Ocidental
+GEO078,Bochum,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO079,Dunsden Green,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO080,Montreuil,Ilha De França,Franca,France,Europa Ocidental
+GEO081,Poland,,Singapore,Singapore,Outros
+GEO082,Clichy,Ilha De França,Franca,France,Europa Ocidental
+GEO083,New York,New York,United States,United States,Outros
+GEO084,Cerdanyola Del Vallès,Catalunha,Espanha,Spain,Europa do Sul
+GEO085,Newcastle Upon Tyne,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO086,Galway,County Galway,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO087,Hamburg,Hamburg,Alemanha,Germany,Europa Ocidental
+GEO088,9 Sherwood Rd,,Po Box 342,Não é um país,Outros
+GEO089,Osnabrück,,Deutschland,Germany,Europa Ocidental
+GEO090,Schwalbach,Hessen,Alemanha,Germany,Europa Ocidental
+GEO091,Stuttgart,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO092,Kilmainhamwood,County Meath,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO093,Böblingen,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO094,Mainz,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO095,Essen,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO096,Griesheim,Hessen,Alemanha,Germany,Europa Ocidental
+GEO097,Bovenden,Lower Saxony,Alemanha,Germany,Europa Ocidental
+GEO098,Tallinn,Harjumaa,Estonia,Estonia,Outros
+GEO099,Sindelfingen,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO100,Tübingen,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO101,Flensburg,Schleswig-Holstein,Alemanha,Germany,Europa Ocidental
+GEO102,Waldorf,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO103,Malakoff,Ilha De França,Franca,France,Europa Ocidental
+GEO104,Germering,Baviera,Alemanha,Germany,Europa Ocidental
+GEO105,France,,Franca,France,Europa Ocidental
+GEO106,Issy-Les-Moulineaux,Ilha De França,Franca,France,Europa Ocidental
+GEO107,Roubaix,Hauts-De-France,Franca,France,Europa Ocidental
+GEO108,Mannheim,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO109,Tiverton,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO110,Chicago,Illinois,United States,United States,Outros
+GEO111,Schöneck,Saxony,Alemanha,Germany,Europa Ocidental
+GEO112,Prescot,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO113,Wigan,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO114,Karlsruhe,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO115,Birmingham,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO116,Harrow,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO117,Marquette-Lez-Lille,Hauts-De-France,Franca,France,Europa Ocidental
+GEO118,Aachen,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO119,,,,,Outros
+GEO120,Chemnitz,Saxony,Alemanha,Germany,Europa Ocidental
+GEO121,Cork,County Cork,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO122,Irvine,California,United States,United States,Outros
+GEO123,Vannes,Brittany,Franca,France,Europa Ocidental
+GEO124,Cologne,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO125,Belgium,,Belgium,Belgium,Europa Ocidental
+GEO126,Beauvais,Hauts-De-France,Franca,France,Europa Ocidental
+GEO127,Whittington,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO128,Le Puy,Auvergne-Rhône-Alpes,Franca,France,Europa Ocidental
+GEO129,Kiel,Schleswig-Holstein,Alemanha,Germany,Europa Ocidental
+GEO130,Heilbronn,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO131,Canton Of Cesson-Sévigné,Brittany,Franca,France,Europa Ocidental
+GEO132,Limoges-Fourches,Ilha De França,Franca,France,Europa Ocidental
+GEO133,Netherlands,,France,France,Europa Ocidental
+GEO134,Maidenhead,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO135,Łódź,Łódzkie,Polonia,Poland,Leste Europeu
+GEO136,Las Rozas De Madrid,Comunidade De Madrid,Espanha,Spain,Europa do Sul
+GEO137,Leioa,Basque Country,Espanha,Spain,Europa do Sul
+GEO138,,,Portugal,Portugal,Europa do Sul
+GEO139,Augsburg,Baviera,Alemanha,Germany,Europa Ocidental
+GEO140,England,,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO141,Weeford,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO142,Lisbon,Lisboa,Portugal,Portugal,Europa do Sul
+GEO143,Gentilly,Ilha De França,Franca,France,Europa Ocidental
+GEO144,Ghent,Flemish Region,Belgica,Belgium,Europa Ocidental
+GEO145,County Dublin,,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO146,Dublin 1,County Dublin,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO147,Neuilly-Sur-Seine,Ilha De França,Franca,France,Europa Ocidental
+GEO148,Rueil-Malmaison,Ilha De França,Franca,France,Europa Ocidental
+GEO149,Saue,Harjumaa,Estonia,Estonia,Outros
+GEO150,Heidelberg,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO151,Blackfriars,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO152,Noisy-Le-Grand,Ilha De França,Franca,France,Europa Ocidental
+GEO153,New Brunswick,New Jersey,United States,United States,Outros
+GEO154,Winfrith Newburgh,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO155,Heitersheim,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO156,Meyrin,Geneva,Suica,Switzerland,Outros
+GEO157,United Kingdom,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO158,Hagen,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO159,Nuremberg,,Bavaria,Germany,Europa Ocidental
+GEO160,Ebermannsdorf,Baviera,Alemanha,Germany,Europa Ocidental
+GEO161,Passau,Baviera,Alemanha,Germany,Europa Ocidental
+GEO162,St.-Maurice,Ilha De França,Franca,France,Europa Ocidental
+GEO163,Hasselt,Flemish Region,Belgica,Belgium,Europa Ocidental
+GEO164,Rheinbach,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO165,Eschborn,Hessen,Alemanha,Germany,Europa Ocidental
+GEO166,Sulzemoos,Baviera,Alemanha,Germany,Europa Ocidental
+GEO167,Osnabrück,Lower Saxony,Alemanha,Germany,Europa Ocidental
+GEO168,12 Global Locations,,Worldwide,Não é um país,Outros
+GEO169,Málaga,Andalusia,Espanha,Spain,Europa do Sul
+GEO170,Madrid Y Alrededores,,Espana,Spain,Europa do Sul
+GEO171,France,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO172,Madrid,Comunidade De Madrid,Espanha,Spain,Europa do Sul
+GEO173,Greater Tokyo Area,,Singapore,Singapore,Outros
+GEO174,Senamiesčio Seniūnija,Vilnius,Lituania,Lithuania,Outros
+GEO175,Meerbusch,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO176,Oeiras,Lisboa,Portugal,Portugal,Europa do Sul
+GEO177,Kelkheim,Hessen,Alemanha,Germany,Europa Ocidental
+GEO178,Massy,Ilha De França,Franca,France,Europa Ocidental
+GEO179,St. Ingbert,Saarland,Alemanha,Germany,Europa Ocidental
+GEO180,Isernhagen Farster Bauerschaft,Lower Saxony,Alemanha,Germany,Europa Ocidental
+GEO181,Dresden,Saxony,Alemanha,Germany,Europa Ocidental
+GEO182,Cascais,Lisboa,Portugal,Portugal,Europa do Sul
+GEO183,Staines-Upon-Thames,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO184,Freiburg,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO185,Langenfeld,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO186,Nantes,Pays De La Loire,Franca,France,Europa Ocidental
+GEO187,Gliwice,Śląskie,Polonia,Poland,Leste Europeu
+GEO188,Bagneux,Ilha De França,Franca,France,Europa Ocidental
+GEO189,Bilbao,Basque Country,Espanha,Spain,Europa do Sul
+GEO190,Dubai,Dubai,United Arab Emirates,United Arab Emirates,Outros
+GEO191,Straubing,Baviera,Alemanha,Germany,Europa Ocidental
+GEO192,Fulda,Hessen,Alemanha,Germany,Europa Ocidental
+GEO193,Àrea Metropolitana De Barcelona,Catalunha,Espanha,Spain,Europa do Sul
+GEO194,Limburg An Der Lahn,Hessen,Alemanha,Germany,Europa Ocidental
+GEO195,Echterdingen,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO196,Hargesheim,,Rheinland-Pfalz,Germany,Europa Ocidental
+GEO197,Hildesheim,Lower Saxony,Alemanha,Germany,Europa Ocidental
+GEO198,El Masnou,Catalunha,Espanha,Spain,Europa do Sul
+GEO199,London Colney,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO200,Bordeaux,Nouvelle-Aquitaine,Franca,France,Europa Ocidental
+GEO201,Tarragona,Catalunha,Espanha,Spain,Europa do Sul
+GEO202,Bremen,,Bremen,Germany,Europa Ocidental
+GEO203,France,,France,France,Europa Ocidental
+GEO204,Ramonville-Saint-Agne,Occitanie,Franca,France,Europa Ocidental
+GEO205,Bühl,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO206,São Paulo,São Paulo,Brasil,Brazil,Outros
+GEO207,Saint-Herblain,Pays De La Loire,Franca,France,Europa Ocidental
+GEO208,Gerlingen,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO209,Northampton,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO210,Gembloux,Walloon Region,Belgica,Belgium,Europa Ocidental
+GEO211,Leverkusen,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO212,Valbonne,Provence-Alpes-Côte D'Azur,Franca,France,Europa Ocidental
+GEO213,Bruges,Nouvelle-Aquitaine,Franca,France,Europa Ocidental
+GEO214,Vaciamadrid,Comunidade De Madrid,Espanha,Spain,Europa do Sul
+GEO215,Sonnenberg,Brandenburg,Alemanha,Germany,Europa Ocidental
+GEO216,Regensburg,Baviera,Alemanha,Germany,Europa Ocidental
+GEO217,Reading,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO218,Marburg An Der Lahn,Hessen,Alemanha,Germany,Europa Ocidental
+GEO219,Chémery,Centre-Val De Loire,Franca,France,Europa Ocidental
+GEO220,Poznan,Wielkopolskie,Polonia,Poland,Leste Europeu
+GEO221,Metz,Grand Est,Franca,France,Europa Ocidental
+GEO222,Hallstadt,Baviera,Alemanha,Germany,Europa Ocidental
+GEO223,Gütersloh,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO224,Brunswick,Lower Saxony,Alemanha,Germany,Europa Ocidental
+GEO225,Leeds,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO226,Kaunas,Kaunas,Lituania,Lithuania,Outros
+GEO227,Rennes,Brittany,Franca,France,Europa Ocidental
+GEO228,Radolfzell,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO229,Vitrolles,Provence-Alpes-Côte D'Azur,Franca,France,Europa Ocidental
+GEO230,Sant Just Desvern,Catalunha,Espanha,Spain,Europa do Sul
+GEO231,Duisburg,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO232,St-Étienne,Auvergne-Rhône-Alpes,Franca,France,Europa Ocidental
+GEO233,Sandwich,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO234,Schloß Holte,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO235,Greater Dublin,,Ireland,Ireland,Norte da Europa (Ilhas)
+GEO236,Labège,Occitanie,Franca,France,Europa Ocidental
+GEO237,Schifferstadt,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO238,Pforzheim,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO239,Hannover,Lower Saxony,Alemanha,Germany,Europa Ocidental
+GEO240,Krailling,Baviera,Alemanha,Germany,Europa Ocidental
+GEO241,Lübeck,Schleswig-Holstein,Alemanha,Germany,Europa Ocidental
+GEO242,Wasquehal,Hauts-De-France,Franca,France,Europa Ocidental
+GEO243,Manchester,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO244,Traunstein,Baviera,Alemanha,Germany,Europa Ocidental
+GEO245,Wiesloch,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO246,Möhnesee,,Nordrhein-Westfalen,Germany,Europa Ocidental
+GEO247,St.-Ouen,Ilha De França,Franca,France,Europa Ocidental
+GEO248,Cornellà De Llobregat,Catalunha,Espanha,Spain,Europa do Sul
+GEO249,Sèvres,Ilha De França,Franca,France,Europa Ocidental
+GEO250,Ilford,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO251,Seefeld,Baviera,Alemanha,Germany,Europa Ocidental
+GEO252,Dublin 12,County Dublin,Irlanda,Ireland,Norte da Europa (Ilhas)
+GEO253,Villeurbanne,Auvergne-Rhône-Alpes,Franca,France,Europa Ocidental
+GEO254,Dreieich,Hessen,Alemanha,Germany,Europa Ocidental
+GEO255,Dublin,,Dublin,Ireland,Norte da Europa (Ilhas)
+GEO256,Porriño,Galicia,Espanha,Spain,Europa do Sul
+GEO257,Hamm,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO258,Rosenheim,,Bayern,Germany,Europa Ocidental
+GEO259,Bargteheide,Schleswig-Holstein,Alemanha,Germany,Europa Ocidental
+GEO260,Sandbach,Hessen,Alemanha,Germany,Europa Ocidental
+GEO261,Troisdorf,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO262,Richmond Upon Thames,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO263,Guimarães,Braga,Portugal,Portugal,Europa do Sul
+GEO264,Team Valley Trading Estate,Inglaterra,Reino Unido,United Kingdom,Norte da Europa (Ilhas)
+GEO265,Famalicão,Leiria,Portugal,Portugal,Europa do Sul
+GEO266,Murcia,Región De Murcia,Espanha,Spain,Europa do Sul
+GEO267,Kaiserslautern,Rhineland-Palatinate,Alemanha,Germany,Europa Ocidental
+GEO268,Castellón De La Plana,Valencian Community,Espanha,Spain,Europa do Sul
+GEO269,Gilching,Baviera,Alemanha,Germany,Europa Ocidental
+GEO270,Wiesbaden,Hessen,Alemanha,Germany,Europa Ocidental
+GEO271,Torcy,Ilha De França,Franca,France,Europa Ocidental
+GEO272,Nivelles,Walloon Region,Belgica,Belgium,Europa Ocidental
+GEO273,Wesel,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO274,Fleet Street,,England,United Kingdom,Norte da Europa (Ilhas)
+GEO275,Castanet-Tolosan,Occitanie,Franca,France,Europa Ocidental
+GEO276,Walldorf,Baden-Württemberg,Alemanha,Germany,Europa Ocidental
+GEO277,Suresnes,Ilha De França,Franca,France,Europa Ocidental
+GEO278,Paderborn,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO279,Möhrendorf,Baviera,Alemanha,Germany,Europa Ocidental
+GEO280,Würselen,Renânia Do Norte-Vestfália,Alemanha,Germany,Europa Ocidental
+GEO281,Santo Tirso,Porto,Portugal,Portugal,Europa do Sul
+GEO282,Curitiba,Paraná,Brasil,Brazil,Outros
+GEO283,Maia,Porto,Portugal,Portugal,Europa do Sul
+GEO284,Porto,Porto,Portugal,Portugal,Europa do Sul
+GEO285,Portugal,,Portugal,Portugal,Europa do Sul
+GEO286,Braga,Braga,Portugal,Portugal,Europa do Sul
+GEO287,Ponte Do Lima,Viana Do Castelo,Portugal,Portugal,Europa do Sul
+GEO288,Vila Nova De Famalicão,Braga,Portugal,Portugal,Europa do Sul
+GEO289,Marco De Canavezes,Porto,Portugal,Portugal,Europa do Sul
+GEO290,Oliveira De Azemeis,Aveiro,Portugal,Portugal,Europa do Sul
+GEO291,Santiago Do Cacém,Setúbal,Portugal,Portugal,Europa do Sul
+GEO292,,,Spain,Spain,Europa do Sul
+GEO293,Palma,Balearic Islands,Espanha,Spain,Europa do Sul
+GEO294,Seville,Andalusia,Espanha,Spain,Europa do Sul
+GEO295,Puebla De Vallbona,Valencian Community,Espanha,Spain,Europa do Sul
+GEO296,Vigo,Galicia,Espanha,Spain,Europa do Sul
+GEO297,Ensenada,Baja California,Mexico,Mexico,Outros
+GEO298,Mexico,,Mexico,Mexico,Outros
+GEO299,Santarém,Santarém,Portugal,Portugal,Europa do Sul
+GEO300,Milan,Lombardy,Italia,Italy,Europa do Sul
+GEO301,Afghanistan,,Afghanistan,Afghanistan,Outros
+GEO302,Seixal,Setúbal,Portugal,Portugal,Europa do Sul
+GEO303,Leiria,Leiria,Portugal,Portugal,Europa do Sul
+GEO304,Sintra,Lisboa,Portugal,Portugal,Europa do Sul
+GEO305,Lisbon Metropolitan Area,,Portugal,Portugal,Europa do Sul
+GEO306,São Roque Do Pico,Ilha Do Pico,Portugal,Portugal,Europa do Sul
+GEO307,Loulé,Faro,Portugal,Portugal,Europa do Sul
+GEO308,Torres Vedras,Lisboa,Portugal,Portugal,Europa do Sul
+GEO309,Matosinhos,Porto,Portugal,Portugal,Europa do Sul
+GEO310,Vilnius,Vilniaus,Lithuania,Lithuania,Outros
+GEO311,Bonn,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO312,Mieres del Camino,Principality of Asturias,Spain,Spain,Europa do Sul
+GEO313,Istanbul,Istanbul,Turkey,Turkey,Outros
+GEO314,Liverpool,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO315,Neufahrn bei Freising,Bavaria,Germany,Germany,Europa Ocidental
+GEO316,Castelldefels,Catalonia,Spain,Spain,Europa do Sul
+GEO317,Lisbon,Lisbon,Portugal,Portugal,Europa do Sul
+GEO318,Paris,Ile-de-France,France,France,Europa Ocidental
+GEO319,Capital,,Germany,Germany,Europa Ocidental
+GEO320,Gloucester,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO321,Barcelona,Catalonia,Spain,Spain,Europa do Sul
+GEO322,Krzeszowice,Małopolskie,Poland,Poland,Leste Europeu
+GEO323,Gdynia,Pomorskie,Poland,Poland,Leste Europeu
+GEO324,Auneau,Centre-Val de Loire,France,France,Europa Ocidental
+GEO325,,,Greater Toulouse Metropolitan Area,France,Europa Ocidental
+GEO326,Basingstoke,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO327,London,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO328,Zaragoza,Aragon,Spain,Spain,Europa do Sul
+GEO329,Liverpool Street,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO330,Saarbrücken,Saarland,Germany,Germany,Europa Ocidental
+GEO331,Nuremberg,Bavaria,Germany,Germany,Europa Ocidental
+GEO332,Cronton,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO333,Chorley,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO334,Chafford Hundred,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO335,Ingolstadt,Bavaria,Germany,Germany,Europa Ocidental
+GEO336,Ubá,Minas Gerais,Brazil,Brazil,Outros
+GEO337,,,Israel,Israel,Outros
+GEO338,Baduria,West Bengal,India,India,Outros
+GEO339,,,Ireland,Ireland,Norte da Europa (Ilhas)
+GEO340,São Paulo,São Paulo,Brazil,Brazil,Outros
+GEO341,Marinha Grande,Leiria,Portugal,Portugal,Europa do Sul
+GEO342,Gosport,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO343,Nordhausen,Thuringia,Germany,Germany,Europa Ocidental
+GEO344,Huangpu District,Shanghai,China,China,Outros
+GEO345,Wrocław,Dolnośląskie,Poland,Poland,Leste Europeu
+GEO346,Munich,Bavaria,Germany,Germany,Europa Ocidental
+GEO347,,,Greater Marseille Metropolitan Area,France,Europa Ocidental
+GEO348,Nordhofen,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO349,Lyon,Auvergne-Rhône-Alpes,France,France,Europa Ocidental
+GEO350,Gressy,Ile-de-France,France,France,Europa Ocidental
+GEO351,St.-Denis,Ile-de-France,France,France,Europa Ocidental
+GEO352,Waterloo,Walloon Region,Belgium,Belgium,Europa Ocidental
+GEO353,Rostock Area,,Germany,Germany,Europa Ocidental
+GEO354,Pau Area,,France,France,Europa Ocidental
+GEO355,Madrid,Community of Madrid,Spain,Spain,Europa do Sul
+GEO356,Oviedo,Principality of Asturias,Spain,Spain,Europa do Sul
+GEO357,Emsdetten,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO358,,,Greater Oxford Area,United Kingdom,Norte da Europa (Ilhas)
+GEO359,Dublin,County Dublin,Ireland,Ireland,Norte da Europa (Ilhas)
+GEO360,South Gyeongsang,,"Korea, Republic of",South Korea,Outros
+GEO361,Toulouse,Occitanie,France,France,Europa Ocidental
+GEO362,Weiterstadt,Hesse,Germany,Germany,Europa Ocidental
+GEO363,Gdańsk,Pomorskie,Poland,Poland,Leste Europeu
+GEO364,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Europa Ocidental
+GEO365,Ballyward,Northern Ireland,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO366,,,Frankfurt Rhine-Main Metropolitan Area,Germany,Europa Ocidental
+GEO367,Paris Area,,France,France,Europa Ocidental
+GEO368,Lyon Area,,France,France,Europa Ocidental
+GEO369,,,Greater Bremen Area,Germany,Europa Ocidental
+GEO370,Leipzig,Saxony,Germany,Germany,Europa Ocidental
+GEO371,Chelmsford,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO372,Föhren,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO373,Roßdorf,Hesse,Germany,Germany,Europa Ocidental
+GEO374,,,Greater Karlsruhe Area,Germany,Europa Ocidental
+GEO375,Capital,,Spain,Spain,Europa do Sul
+GEO376,Düsseldorf,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO377,Duffel,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO378,,,Greater Reading Area,United States,Outros
+GEO379,Berlin,Berlin,Germany,Germany,Europa Ocidental
+GEO380,,,Greater Bielefeld Area,Germany,Europa Ocidental
+GEO381,Lublin,Lubelskie,Poland,Poland,Leste Europeu
+GEO382,La Línea,Andalusia,Spain,Spain,Europa do Sul
+GEO383,,,Ruhr Region,Germany,Europa Ocidental
+GEO384,Waterlooville,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO385,,,Cologne Bonn Region,Germany,Europa Ocidental
+GEO386,Bordeaux,Nouvelle-Aquitaine,France,France,Europa Ocidental
+GEO387,Paris,Île-de-France,France,France,Europa Ocidental
+GEO388,Temascalapa,México,Mexico,Mexico,Outros
+GEO389,Las Rozas de Madrid,Community of Madrid,Spain,Spain,Europa do Sul
+GEO390,,,Greater Valencia Metropolitan Area,Spain,Europa do Sul
+GEO391,Dresden,Saxony,Germany,Germany,Europa Ocidental
+GEO392,,,Berlin Metropolitan Area,Germany,Europa Ocidental
+GEO393,Gibraltar,,Gibraltar,Gibraltar,Outros
+GEO394,Warsaw,Mazowieckie,Poland,Poland,Leste Europeu
+GEO395,Birmingham,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO396,Lyon,Auvergne-Rhone-Alpes,France,France,Europa Ocidental
+GEO397,Issy-les-Moulineaux,Ile-de-France,France,France,Europa Ocidental
+GEO398,,,Charleroi Metropolitan Area,Belgium,Europa Ocidental
+GEO399,Wallingford,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO400,,,Singapore,Singapore,Outros
+GEO401,Rueil-Malmaison,Ile-de-France,France,France,Europa Ocidental
+GEO402,,,Isle of Man,Isle of Man,Outros
+GEO403,Barberà del Vallès,Catalonia,Spain,Spain,Europa do Sul
+GEO404,Rambouillet,Ile-de-France,France,France,Europa Ocidental
+GEO405,,,Croatia,Croatia,Outros
+GEO406,Vienna,Vienna,Austria,Austria,Outros
+GEO407,Eichwalde,Brandenburg,Germany,Germany,Europa Ocidental
+GEO408,Springwood,Queensland,Australia,Australia,Outros
+GEO409,Bavaria,,Germany,Germany,Europa Ocidental
+GEO410,,,Wroclaw Metropolitan Area,Poland,Leste Europeu
+GEO411,Schwalbach,Hesse,Germany,Germany,Europa Ocidental
+GEO412,Ansbach,Bavaria,Germany,Germany,Europa Ocidental
+GEO413,Willisau,Lucerne,Switzerland,Switzerland,Outros
+GEO414,,,Lithuania,Lithuania,Outros
+GEO415,Böblingen,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO416,Mainz,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO417,Berlin und Umgebung,,Deutschland,Germany,Europa Ocidental
+GEO418,Bochum,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO419,,,Argentina,Argentina,Outros
+GEO420,Griesheim,Hesse,Germany,Germany,Europa Ocidental
+GEO421,Pabianicki,Łódzkie,Poland,Poland,Leste Europeu
+GEO422,Göttingen,Lower Saxony,Germany,Germany,Europa Ocidental
+GEO423,,,Tallinn Metropolitan Area,Estonia,Outros
+GEO424,Copenhagen,Capital Region of Denmark,Denmark,Denmark,Nórdicos
+GEO425,Hamburg,Hamburg,Germany,Germany,Europa Ocidental
+GEO426,Rottenburg,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO427,Schleswig,Schleswig-Holstein,Germany,Germany,Europa Ocidental
+GEO428,,,Greater Pittsburgh Area,United States,Outros
+GEO429,Capital,,France,France,Europa Ocidental
+GEO430,Milwaukee,Wisconsin,United States,United States,Outros
+GEO431,Mesa,Arizona,United States,United States,Outros
+GEO432,Munich Area,,Germany,Germany,Europa Ocidental
+GEO433,Harlow,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO434,Sint-Truiden Halmaal,Flanders,Belgium,Belgium,Europa Ocidental
+GEO435,Toulouse Area,,France,France,Europa Ocidental
+GEO436,Hyderabad,Telangana,India,India,Outros
+GEO437,Troy,Michigan,United States,United States,Outros
+GEO438,Auckland,Auckland,New Zealand,New Zealand,Outros
+GEO439,Ile-de-France,,France,France,Europa Ocidental
+GEO440,,,United Arab Emirates,United Arab Emirates,Outros
+GEO441,Great Wakering,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO442,Berlin Area,,Germany,Germany,Europa Ocidental
+GEO443,Krefeld,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO444,Lyon,Rhône-Alpes,France,France,Europa Ocidental
+GEO445,Montpellier,Languedoc-Roussillon,France,France,Europa Ocidental
+GEO446,,,Greater Montreal Metropolitan Area,Canada,Outros
+GEO447,,,Brussels Metropolitan Area,Belgium,Europa Ocidental
+GEO448,Région de Paris,,France,France,Europa Ocidental
+GEO449,London,Greater London,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO450,Schöneck,Saxony,Germany,Germany,Europa Ocidental
+GEO451,,,Egypt,Egypt,Outros
+GEO452,Prescot,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO453,Manchester Area,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO454,Swindon,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO455,Karlsruhe,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO456,Bengaluru,Karnataka,India,India,Outros
+GEO457,,,India,India,Outros
+GEO458,Simmerath,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO459,Peshawar,Khyber Pakhtunkhwa,Pakistan,Pakistan,Outros
+GEO460,Nancy,Grand Est,France,France,Europa Ocidental
+GEO461,,,Greater Chemnitz Area,Germany,Europa Ocidental
+GEO462,,,Cork Metropolitan Area,Ireland,Norte da Europa (Ilhas)
+GEO463,Rio de Janeiro,Rio de Janeiro,Brazil,Brazil,Outros
+GEO464,Cologne,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO465,Brighton,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO466,,,Ghent Metropolitan Area,Belgium,Europa Ocidental
+GEO467,Vilniaus,,Lithuania,Lithuania,Outros
+GEO468,Bangalore Urban,Karnataka,India,India,Outros
+GEO469,Prague,,Czechia,Czechia,Leste Europeu
+GEO470,Dudley,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO471,,,Malta,Malta,Outros
+GEO472,Poznań,Wielkopolskie,Poland,Poland,Leste Europeu
+GEO473,Caen,Lower Normandy,France,France,Europa Ocidental
+GEO474,Chamalières,Auvergne-Rhone-Alpes,France,France,Europa Ocidental
+GEO475,Kiel,Schleswig-Holstein,Germany,Germany,Europa Ocidental
+GEO476,Stuttgart,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO477,Sainte-Eulalie,Nouvelle-Aquitaine,France,France,Europa Ocidental
+GEO478,Newcastle,KwaZulu-Natal,South Africa,South Africa,Outros
+GEO479,Moscow,Moscow City,Russia,Russia,Outros
+GEO480,Brussels,Brussels Region,Belgium,Belgium,Europa Ocidental
+GEO481,,,Greater Rennes Metropolitan Area,France,Europa Ocidental
+GEO482,Limoges,Limousin,France,France,Europa Ocidental
+GEO483,Nantes,Pays de la Loire,France,France,Europa Ocidental
+GEO484,Berlin,Berlin,Allemagne,Germany,Europa Ocidental
+GEO485,Dartford,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO486,Slough,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO487,,,Lausanne Metropolitan Area,Switzerland,Outros
+GEO488,Wielkopolskie,,Poland,Poland,Leste Europeu
+GEO489,,,"Korea, Republic of",South Korea,Outros
+GEO490,Leioa,Basque Country,Spain,Spain,Europa do Sul
+GEO491,Friedberg,Bavaria,Germany,Germany,Europa Ocidental
+GEO492,,,Greater Blackburn with Darwen Area,United Kingdom,Norte da Europa (Ilhas)
+GEO493,Noida,Uttar Pradesh,India,India,Outros
+GEO494,Gondomar,Porto,Portugal,Portugal,Europa do Sul
+GEO495,,,Romenia,Romania,Leste Europeu
+GEO496,Le Plessis-Robinson,Ile-de-France,France,France,Europa Ocidental
+GEO497,Crépy-en-Valois,Picardy,France,France,Europa Ocidental
+GEO498,Gent Area,,Belgium,Belgium,Europa Ocidental
+GEO499,Gamston,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO500,Blagnac,Midi-Pyrénées,France,France,Europa Ocidental
+GEO501,,,Mauritius,Mauritius,Outros
+GEO502,Frankfurt,Hesse,Germany,Germany,Europa Ocidental
+GEO503,Hendersonville,Tennessee,United States,United States,Outros
+GEO504,,,Estonia,Estonia,Outros
+GEO505,Ulverston,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO506,Bern,Berne,Switzerland,Switzerland,Outros
+GEO507,Rochester,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO508,Wingfield,Wiltshire,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO509,Cork,County Cork,Ireland,Ireland,Norte da Europa (Ilhas)
+GEO510,,,Rwanda,Rwanda,Outros
+GEO511,Casablanca,,Morocco,Morocco,Outros
+GEO512,London Area,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO513,Redhill,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO514,Bournemouth,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO515,Montauban Area,,France,France,Europa Ocidental
+GEO516,Peterborough,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO517,Heitersheim,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO518,Meyrin,Geneva,Switzerland,Switzerland,Outros
+GEO519,,,Pakistan,Pakistan,Outros
+GEO520,Darlington,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO521,,,Piotrkow Trybunalski Metropolitan Area,Poland,Leste Europeu
+GEO522,Hagen,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO523,Amsterdam,North Holland,Netherlands,Netherlands,Europa Ocidental
+GEO524,Regensburg,Bavaria,Germany,Germany,Europa Ocidental
+GEO525,Passau,Bavaria,Germany,Germany,Europa Ocidental
+GEO526,Hasselt,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO527,Guará,Federal District,Brazil,Brazil,Outros
+GEO528,Osnabrück,Lower Saxony,Germany,Germany,Europa Ocidental
+GEO529,,,Porto Metropolitan Area,United States,Outros
+GEO530,,,Stuttgart Region,Germany,Europa Ocidental
+GEO531,Essen,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO532,Cambridge,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO533,Châtenay-en-France,Ile-de-France,France,France,Europa Ocidental
+GEO534,,,Russia,Russia,Outros
+GEO535,,,Greater Malaga Metropolitan Area,Spain,Europa do Sul
+GEO536,Mandres-les-Roses,Ile-de-France,France,France,Europa Ocidental
+GEO537,,,Bulgaria,Bulgaria,Leste Europeu
+GEO538,Aachen,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO539,Greater Northampton Area,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO540,Thane,Maharashtra,India,India,Outros
+GEO541,Münster,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO542,Übach-Palenberg,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO543,Edinburgh,Scotland,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO544,Graz,Styria,Austria,Austria,Outros
+GEO545,Wealden,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO546,St.-Maur-des-Fossés,Ile-de-France,France,France,Europa Ocidental
+GEO547,Grevenbroich,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO548,Oeiras,Lisbon,Portugal,Portugal,Europa do Sul
+GEO549,,,Luxembourg,Luxembourg,Europa Ocidental
+GEO550,Massy,Ile-de-France,France,France,Europa Ocidental
+GEO551,Milton Keynes,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO552,Acton,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO553,Bavière,,Allemagne,Germany,Europa Ocidental
+GEO554,Cottenham,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO555,,,Ukraine,Ukraine,Leste Europeu
+GEO556,,,Austria,Austria,Outros
+GEO557,Langenfeld,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO558,,,Greater Nantes Metropolitan Area,France,Europa Ocidental
+GEO559,Tadley,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO560,Kippax,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO561,Bilbao,Basque Country,Spain,Spain,Europa do Sul
+GEO562,Dubai,,United Arab Emirates,United Arab Emirates,Outros
+GEO563,Freiburg,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO564,Almada,Setúbal,Portugal,Portugal,Europa do Sul
+GEO565,Herzogenaurach,Bavaria,Germany,Germany,Europa Ocidental
+GEO566,Fulda,Hesse,Germany,Germany,Europa Ocidental
+GEO567,Slough,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO568,Liège,Walloon Region,Belgium,Belgium,Europa Ocidental
+GEO569,Burj Al Kifan,Algiers,Algeria,Algeria,Outros
+GEO570,Weilburg,Hesse,Germany,Germany,Europa Ocidental
+GEO571,Chanteloup-les-Vignes,Ile-de-France,France,France,Europa Ocidental
+GEO572,Bourne,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO573,Sutton Coldfield,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO574,Alzey,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO575,Bad Salzdetfurth,Lower Saxony,Germany,Germany,Europa Ocidental
+GEO576,Sliema,,Malta,Malta,Outros
+GEO577,Sittingbourne,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO578,Aulnay-sous-Bois,Ile-de-France,France,France,Europa Ocidental
+GEO579,Barcelona,Cataluña,Espana,Spain,Europa do Sul
+GEO580,,,Brussels et peripherie,Belgium,Europa Ocidental
+GEO581,Madrid,Madrid,Spain,Spain,Europa do Sul
+GEO582,Nuremberg,Bavière,Allemagne,Germany,Europa Ocidental
+GEO583,Bogor,West Java,Indonesia,Indonesia,Outros
+GEO584,,,Dresde et peripherie,Germany,Europa Ocidental
+GEO585,Maribor,Maribor,Slovenia,Slovenia,Outros
+GEO586,Montmorency,Ile-de-France,France,France,Europa Ocidental
+GEO587,Indore,Madhya Pradesh,India,India,Outros
+GEO588,,,Serbia,Serbia,Leste Europeu
+GEO589,Yokohama,Kanagawa,Japan,Japan,Outros
+GEO590,,,Greater Dublin,Ireland,Norte da Europa (Ilhas)
+GEO591,Longridge,Scotland,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO592,Landen,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO593,Brussels Region,,Belgium,Belgium,Europa Ocidental
+GEO594,Charleroi,Walloon Region,Belgium,Belgium,Europa Ocidental
+GEO595,,,Namur Metropolitan Area,Belgium,Europa Ocidental
+GEO596,Voiron,Auvergne-Rhone-Alpes,France,France,Europa Ocidental
+GEO597,Worcester City,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO598,,,El Salvador,El Salvador,Outros
+GEO599,,,Greater Nice Metropolitan Area,France,Europa Ocidental
+GEO600,,,Madagascar,Madagascar,Outros
+GEO601,Riga,,Latvia,Latvia,Outros
+GEO602,Cluj,,Romenia,Romania,Leste Europeu
+GEO603,,,Greece,Greece,Europa do Sul
+GEO604,Derby,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO605,Plattling,Bavaria,Germany,Germany,Europa Ocidental
+GEO606,Bromley,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO607,,,Cracow Metropolitan Area,Poland,Leste Europeu
+GEO608,Marburg an der Lahn,Hesse,Germany,Germany,Europa Ocidental
+GEO609,Reno,Nevada,United States,United States,Outros
+GEO610,,,Greater Bordeaux Metropolitan Area,France,Europa Ocidental
+GEO611,,,Greater Lille Metropolitan Area,France,Europa Ocidental
+GEO612,Bourgogne-Franche-Comté,,France,France,Europa Ocidental
+GEO613,,,Lodz Metropolitan Area,Poland,Leste Europeu
+GEO614,Metz,Grand Est,France,France,Europa Ocidental
+GEO615,Bamberg,Bavaria,Germany,Germany,Europa Ocidental
+GEO616,Dortmund,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO617,,,Hannover-Braunschweig-Gottingen-Wolfsburg Region,Germany,Europa Ocidental
+GEO618,Leeds,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO619,Weimar,Thuringia,Germany,Germany,Europa Ocidental
+GEO620,City Of Westminster,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO621,Gurgaon,Haryana,India,India,Outros
+GEO622,Ranst,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO623,Constance,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO624,Mechelen,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO625,Wokingham,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO626,Vitrolles,Provence-Alpes-Cote d'Azur,France,France,Europa Ocidental
+GEO627,Valencia,Valencian Community,Spain,Spain,Europa do Sul
+GEO628,Holzkirchen,Bavaria,Germany,Germany,Europa Ocidental
+GEO629,Hamden,Connecticut,United States,United States,Outros
+GEO630,Seoul,,"Korea, Republic of",South Korea,Outros
+GEO631,Canterbury,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO632,,,Greater Aberdeen Area,United Kingdom,Norte da Europa (Ilhas)
+GEO633,Eppertshausen,Hesse,Germany,Germany,Europa Ocidental
+GEO634,Schloß Holte-Stukenbrock,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO635,Mumbai,Maharashtra,India,India,Outros
+GEO636,Lozenets,Sofia,Bulgarie,Bulgaria,Leste Europeu
+GEO637,Sandyford,Dún Laoghaire-Rathdown,Ireland,Ireland,Norte da Europa (Ilhas)
+GEO638,Geneva,Geneva,Switzerland,Switzerland,Outros
+GEO639,,,Rhein-Neckar Metropolitan Region,Germany,Europa Ocidental
+GEO640,Isernhagen Farster Bauerschaft,Lower Saxony,Germany,Germany,Europa Ocidental
+GEO641,Ismaning,Bavaria,Germany,Germany,Europa Ocidental
+GEO642,,,Greater Kassel Area,Germany,Europa Ocidental
+GEO643,Tel Aviv District,,Israel,Israel,Outros
+GEO644,Stadt Hamburg,Hamburg,Germany,Germany,Europa Ocidental
+GEO645,Budapest,Budapest,Hungary,Hungary,Leste Europeu
+GEO646,Pamplona,Chartered Community of Navarre,Spain,Spain,Europa do Sul
+GEO647,Ozoir-la-Ferrière,Ile-de-France,France,France,Europa Ocidental
+GEO648,,,Greater La Rochelle Area,France,Europa Ocidental
+GEO649,Gilching,Bavaria,Germany,Germany,Europa Ocidental
+GEO650,Leicester,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO651,Bolívar,,"Venezuela, Bolivarian Republic of",Venezuela,Outros
+GEO652,Ingelheim am Rhein,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO653,Braşov,,Romenia,Romania,Leste Europeu
+GEO654,Greater London,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO655,,,Greater Vigo Metropolitan Area,Spain,Europa do Sul
+GEO656,Framlingham,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO657,Montabaur,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO658,Rosenheim,Bavaria,Germany,Germany,Europa Ocidental
+GEO659,Raubling,Bavaria,Germany,Germany,Europa Ocidental
+GEO660,Iphofen,Bavaria,Germany,Germany,Europa Ocidental
+GEO661,South Croydon,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO662,Tonbridge,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO663,Reading,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO664,Vallendar,Rhineland-Palatinate,Germany,Germany,Europa Ocidental
+GEO665,Woodley,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO666,Metro Manila,National Capital Region,Philippines,Philippines,Outros
+GEO667,,,Bosnia and Herzegovina,Bosnia and Herzegovina,Outros
+GEO668,Newcastle Upon Tyne,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO669,Newcastle upon Tyne,,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO670,Schliersee,Bavaria,Germany,Germany,Europa Ocidental
+GEO671,Killorglin,County Kerry,Ireland,Ireland,Norte da Europa (Ilhas)
+GEO672,Sinsheim,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO673,São Paulo,,Brazil,Brazil,Outros
+GEO674,Skipton,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO675,Murcia,Región de Murcia,Spain,Spain,Europa do Sul
+GEO676,Mannheim,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO677,Capital,,Portugal,Portugal,Europa do Sul
+GEO678,,,Netherlands,Netherlands,Europa Ocidental
+GEO679,Trossingen,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO680,Neuses,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO681,Marseille,Provence-Alpes-Cote d'Azur,France,France,Europa Ocidental
+GEO682,Eschweiler,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO683,Kempen,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO684,Warrington,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO685,Linkenheim-Hochstetten,Baden-Württemberg,Germany,Germany,Europa Ocidental
+GEO686,Fleury-la-Montagne,Bourgogne-Franche-Comté,France,France,Europa Ocidental
+GEO687,Castres,Occitanie,France,France,Europa Ocidental
+GEO688,Aveiro,Aveiro,Portugal,Portugal,Europa do Sul
+GEO689,Maharashtra,,India,India,Outros
+GEO690,Mühltal,Hesse,Germany,Germany,Europa Ocidental
+GEO691,Panaji,Goa,India,India,Outros
+GEO692,Níkaia,Attiki,Greece,Greece,Europa do Sul
+GEO693,Möhrendorf,Bavaria,Germany,Germany,Europa Ocidental
+GEO694,Würselen,North Rhine-Westphalia,Germany,Germany,Europa Ocidental
+GEO695,Lynnfield,Massachusetts,United States,United States,Outros
+GEO696,Boca Raton,Florida,United States,United States,Outros
+GEO697,Manchester,England,United Kingdom,United Kingdom,Norte da Europa (Ilhas)
+GEO698,Santa Barbara,California,United States,United States,Outros
+GEO699,Boituva,São Paulo,Brazil,Brazil,Outros
+GEO700,Ponte do Lima,Viana do Castelo,Portugal,Portugal,Europa do Sul
+GEO701,Porto,,Portugal,Portugal,Europa do Sul
+GEO702,Cascais,Lisbon,Portugal,Portugal,Europa do Sul
+GEO703,Santiago do Cacém,Setúbal,Portugal,Portugal,Europa do Sul
+GEO704,Aartselaar,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO705,Sant Boi de Llobregat,Catalonia,Spain,Spain,Europa do Sul
+GEO706,,,Helsinki Metropolitan Area,Finland,Nórdicos
+GEO707,Stockholm,Stockholm County,Sweden,Sweden,Nórdicos
+GEO708,Logroño,Autonomía de La Rioja,Spain,Spain,Europa do Sul
+GEO709,Uster,Zurich,Switzerland,Switzerland,Outros
+GEO710,Keerbergen,Flemish Region,Belgium,Belgium,Europa Ocidental
+GEO711,Gijón,Principality of Asturias,Spain,Spain,Europa do Sul
+GEO712,,,Finland,Finland,Nórdicos
+GEO713,,,Greater Palma de Mallorca Metropolitan Area,Spain,Europa do Sul
+GEO714,,,"Venezuela, Bolivarian Republic of",Venezuela,Outros
+GEO715,Palma,Balearic Islands,Spain,Spain,Europa do Sul
+GEO716,,,Greater Sevilla Metropolitan Area,Spain,Europa do Sul
+GEO717,Santiago,Santiago Metropolitan Region,Chile,Chile,Outros
+GEO718,Cartagena,Región de Murcia,Spain,Spain,Europa do Sul
+GEO719,Getafe,Community of Madrid,Spain,Spain,Europa do Sul
+GEO720,Puenteareas,Galicia,Spain,Spain,Europa do Sul
+GEO721,Unidad Hab Lomas de San Lorenzo,Federal District,Mexico,Mexico,Outros
+GEO722,Gustavo A. Madero,Mexico City,Mexico,Mexico,Outros
+GEO723,Viana do Castelo,Viana do Castelo,Portugal,Portugal,Europa do Sul
+GEO724,Juárez,Federal District,Mexico,Mexico,Outros
+GEO725,,,Lisbon Metropolitan Area,Portugal,Europa do Sul
+GEO726,Montijo,Setúbal,Portugal,Portugal,Europa do Sul
+GEO727,Tlalpan,Mexico City,Mexico,Mexico,Outros
+GEO728,Baarn,Utrecht Province,Netherlands,Netherlands,Europa Ocidental
+GEO729,Mexico City,,Mexico,Mexico,Outros
+GEO730,Évora,,Portugal,Portugal,Europa do Sul
+GEO731,Alcobaça,Leiria,Portugal,Portugal,Europa do Sul
+GEO732,Lajes,,Portugal,Portugal,Europa do Sul
+GEO733,Loures,Lisbon,Portugal,Portugal,Europa do Sul
+GEO734,Faro,Faro,Portugal,Portugal,Europa do Sul
+GEO735,Vila Franca de Xira,Lisbon,Portugal,Portugal,Europa do Sul

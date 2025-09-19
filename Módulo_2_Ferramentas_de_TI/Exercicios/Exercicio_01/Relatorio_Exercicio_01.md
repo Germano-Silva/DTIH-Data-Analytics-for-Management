@@ -126,8 +126,6 @@ A base de dados analisada contém **2 registros e 24 colunas**, totalizando 48 c
 
 A base é extremamente limitada em tamanho e apresenta **lacunas significativas**, principalmente valores nulos, o que pode comprometer a confiabilidade das análises.
 
-Ótimo, já temos uma descrição bem detalhada da **coluna "E-mail"**. Para deixar o relatório consistente dentro da seção **2.2 Qualidade e limitações dos dados**, podemos organizar o texto no formato de **análise + tratamento aplicado**. Veja como ficaria:
-
 ---
 
 #### **Coluna "E-mail"**
@@ -378,10 +376,6 @@ A coluna **"Sobrenome"** foi normalizada, com dados nulos tratados, capitalizaç
   * `LinkedIn_Usernames`: nomes de usuários extraídos do LinkedIn.
 
 ---
-Perfeito 🚀
-Seguindo o mesmo **padrão de relatório das colunas anteriores**, aqui está o resumo consolidado da análise da coluna **"LinkedIn"**:
-
----
 
 #### **Coluna "LinkedIn"**
 
@@ -448,6 +442,7 @@ A coluna apresenta uma diversidade grande de cargos, com registros em múltiplos
 5. Dados prontos para integração com análises de LinkedIn e outras colunas
 
 ---
+
 #### **Coluna "País"**
 
 **Análise de Qualidade:**
@@ -456,11 +451,11 @@ A coluna apresenta alta taxa de valores nulos e inconsistências com a coluna �
 
 **Problemas identificados:**
 
-1. Alta taxa de valores nulos (37,4%)
-2. Inconsistência entre “País” e “Localização” (diferenças em 62% dos registros)
-3. Variações de nomes de países (nomes em idiomas diferentes ou abreviações)
-4. Possíveis países inválidos ou suspeitos (erros de digitação, nomes não reconhecidos)
-5. Caracteres especiais ou espaços extras em alguns registros
+- Alta taxa de valores nulos (37,4%)
+- Inconsistência entre “País” e “Localização” (diferenças em 62% dos registros)
+- Variações de nomes de países (nomes em idiomas diferentes ou abreviações)
+- Possíveis países inválidos ou suspeitos (erros de digitação, nomes não reconhecidos)
+- Caracteres especiais ou espaços extras em alguns registros
 
 **Tratamento aplicado:**
 
@@ -472,13 +467,14 @@ A coluna apresenta alta taxa de valores nulos e inconsistências com a coluna �
 
 **Resultado:**
 
-1. Redução significativa de valores nulos e preenchimento automático de países faltantes
-2. Padronização completa dos nomes de países
-3. Eliminação de inconsistências com a coluna “Localização”
-4. Validação oficial dos países presentes na base
-5. Dados prontos para análises geográficas e cruzamentos com outras colunas
+Redução significativa de valores nulos e preenchimento automático de países faltantes
+Padronização completa dos nomes de países
+Eliminação de inconsistências com a coluna “Localização”
+Validação oficial dos países presentes na base
+Dados prontos para análises geográficas e cruzamentos com outras colunas
 
 ---
+
 #### **Coluna "Localização"**
 
 **Análise de Qualidade:**
@@ -542,6 +538,7 @@ A coluna apresenta alta fragmentação, com muitos setores escritos de forma dif
 * **Melhoria na análise e segmentação:** coluna pronta para cruzamentos, agregações e relatórios confiáveis.
 
 ---
+
 #### **Coluna "Adicionar data"**
 
 **Análise de Qualidade:**
@@ -671,6 +668,7 @@ A coluna apresenta grande diversidade de formatos e fontes. Foram encontrados li
 * Base final mais limpa e estruturada, permitindo análise confiável da presença digital das empresas.
 
 ---
+
 #### **Coluna "Tamanho da empresa"**
 
 **Análise de Qualidade:**
@@ -742,6 +740,7 @@ A coluna apresentou diferentes formatos de preenchimento (simples, parcial e com
 * Base final validada, sem valores nulos relevantes e pronta para análises geográficas.
 
 ---
+
 #### **Coluna "Setor da empresa"**
 
 **Análise de Qualidade:**
@@ -776,6 +775,7 @@ A coluna apresentou grande variedade de nomenclaturas, em inglês e português, 
 * Base final com menor redundância, melhor legibilidade e pronta para análises comparativas entre setores.
 
 ---
+
 #### **Coluna "Telefone da sede"**
 
 **Análise de Qualidade:**
@@ -804,6 +804,7 @@ A coluna apresentou baixa taxa de preenchimento, múltiplos padrões de formata�
 * Adicionado indicador de qualidade para facilitar filtragem e validação futura.
 
 ---
+
 #### **Coluna "Telefone"**
 
 **Análise de Qualidade:**
@@ -829,6 +830,7 @@ A coluna apresentou ausência total de dados, com 100% dos registros nulos. Não
 * Maior clareza e eficiência para análises futuras.
 
 ---
+
 #### **Coluna "Classificação"**
 
 **Análise de Qualidade:**
@@ -1064,7 +1066,95 @@ O layout da página esta aproximado da seguinte forma:
 Previsualização: ![Previsualização de Dashboard da Página 3.1 Perfis dos potenciais clientes (cargos e áreas)](cargo&area.png)
 
 ### 3.2 Segmentação geográfica (países e regiões)
-*[Distribuição geográfica dos dados, concentrações regionais e características específicas por país]*
+
+#### **3.2.1. Mapa Coroplético da Europa (Visão Geral de Concentração)**
+
+**Map Visual (Formato Preenchimento de Mapas - Filled Map)**
+
+*   **Por que usado?** É a forma mais intuitiva e impactante de mostrar a distribuição geográfica. As cores mostram a intensidade da concentração de prospects.
+
+*   **Como configurado:**
+    *   **Localização:** `Pais` (da `Dim_Geografia`). **Crucial:** Use o nome do país em **inglês** (e.g., "Germany", not "Deutschland") para o Power BI reconhecer automaticamente.
+    *   **Legenda:** Deixe em branco para um mapa de uma só cor, ou use outra dimensão (ex: `Classificacao_Empresa`) para ver a distribuição por porte no mapa.
+    *   **Valores:** `Contagem Distinta de Pessoa_ID` (Este é o campo que definirá a intensidade da cor).
+    *   **Formatação:** No painel de formatação do mapa, ajuste as cores. Use uma escala de cor única (ex: tons de azul, onde mais escuro = mais prospects) para mostrar densidade.
+
+#### **3.2.2. Top 5 Países por Número de Prospects**
+
+**Barra Horizontal Empilhada**
+
+*   **Por que usado?** Complementa o mapa dando números exatos e um ranking claro. A versão empilhada permite adicionar uma segunda dimensão (ex: tamanho da empresa).
+
+*   **Como configurar (Barra Clusterizada - Foco em Contagem):**
+    *   **Eixo Y:** `Pais`
+    *   **Eixo X:** `Contagem Distinta de Pessoa_ID`
+    *   **Classificação:** Ordene o eixo Y pela contagem (decrescente).
+
+*   **Como configurar (Barra Empilhada - Foco em Composição):**
+    *   **Eixo Y:** `Pais` (ordenado por contagem total decrescente)
+    *   **Eixo X:** `Contagem Distinta de Pessoa_ID`
+    *   **Legenda:** `Classificacao_Empresa` (Isso mostrará a composição de cada país por porte de empresa - se é mais SMB ou Enterprise).
+
+#### **3.2.3. Top 10 Cidades com Maior Densidade Tecnológica**
+
+**Gráfico de Rosca**
+
+*   **Por que usado?** Identifica os *hubs* tecnológicos específicos para planejamento de visitas, eventos ou campanhas geolocalizadas.
+
+*   **Como configurar (Rosca):**
+    *   **Legenda:** `Cidade`
+    *   **Valores:** `Contagem de Pessoa_ID`
+    *   **Use** focar apenas nas 10 principais cidades sem muitos detalhes.
+
+#### **3.2.4. Proporção por Região (Norte, Sul, Leste, Oeste Europa)**
+
+**Gráfico de Pareto ou Barra Empilhada**
+
+*   **Por que usado?** Agrupar países em regiões ajuda a tomar decisões macroestratégicas (ex: priorizar toda a região nórdica).
+
+*   **Passo 1: Criar uma Coluna "Região"**
+    Você precisa criar uma nova coluna na tabela `Dim_Geografia` para agrupar os países. Exemplo em DAX:
+
+    ```dax
+    Regiao Europa =
+    SWITCH(
+        TRUE(),
+        'Dim_Geografia'[Pais] IN {"Germany", "France", "Belgium", "Netherlands", "Luxembourg"}, "Europa Ocidental",
+        'Dim_Geografia'[Pais] IN {"United Kingdom", "Ireland"}, "Norte da Europa (Ilhas)",
+        'Dim_Geografia'[Pais] IN {"Sweden", "Norway", "Denmark", "Finland", "Iceland"}, "Nórdicos",
+        'Dim_Geografia'[Pais] IN {"Spain", "Portugal", "Italy", "Greece"}, "Europa do Sul",
+        'Dim_Geografia'[Pais] IN {"Poland", "Czech Republic", "Hungary", "Slovakia", "Romania", "Bulgaria"}, "Leste Europeu",
+        "Outros"
+    )
+    ```
+
+*   **Passo 2: Configurar o Gráfico (Barra Empilhada):**
+    *   **Eixo Y:** `Regiao Europa`
+    *   **Eixo X:** `Contagem de Pessoa_ID` (e no menu dropdown do campo, selecione **"Percentual do total da categoria"**)
+    *   **Legenda:** `Classificacao_Empresa` (Opcional, para ver a composição de porte por região).
+
+#### **3.2.5. Filtros e Interatividade para a Página 3.2**
+
+**Slicers (Fatiadores) Cruciais:**
+*   `Regiao Europa` (Criado acima) - Para análise macro.
+*   `Pais` - Para análise específica.
+*   `Classificacao_Empresa` - Para responder "O Leste Europeu tem empresas menores ou maiores?"
+
+
+**Resumo Visual da Página 3.2:**
+
+| **Seção**                                 | **Visual**                                  |
+| ----------------------------------------- | ------------------------------------------- |
+| **Filtros Principais (Topo)**             | Slicers: `Regiao`, `Pais`, `Tamanho Empresa` |
+| **Visão Macro (Mapa)**                    | `Mapa Coroplético da Europa`                |
+| **Ranking e Composição (Lateral)**        | `Top 5 Países (Barra Empilhada)`            |
+| **Hubs Tecnológicos (Centro)**            | `Grafico de Rosca Top 10 Cidades`         |
+| **Análise Estratégica por Região (Abaixo)** | `Gráfico de Barra por Região` |
+
+
+Previsualização: ![Previsualização de Dashboard da Página 3.2 Seguimentação geografica](geografico.png)
+
+Esta página dará à hCaptcha uma visão clara e acionável de **ONDE** priorizar seus esforços comerciais e de marketing na Europa.
 
 ### 3.3 Tamanho das empresas
 *[Classificação das empresas por porte e análise de distribuição entre pequenas, médias e grandes empresas]*
@@ -1103,5 +1193,3 @@ Previsualização: ![Previsualização de Dashboard da Página 3.1 Perfis dos po
 **Data do Relatório:** [Inserir data]  
 **Analista Responsável:** [Inserir nome]  
 **Versão:** 1.0
-
-
