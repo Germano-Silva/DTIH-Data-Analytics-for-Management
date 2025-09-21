@@ -1409,9 +1409,11 @@ Esta análise transforma dados de comportamento em uma **estratégia de canal e 
 
 ---
 
-**Data do Relatório:**  ![Última atualização](https://img.shields.io/github/last-commit/USUARIO/REPOSITORIO?label=%C3%9Altima%20atualiza%C3%A7%C3%A3o)
- 
-**Analista Responsável:**
+**Data do Relatório:** ![Última atualização](https://img.shields.io/github/last-commit/Germano-Silva/DTIH-Data-Analytics-for-Management?label=%C3%9Altima%20atualiza%C3%A7%C3%A3o)
+
+
+![Atividade](https://img.shields.io/github/commit-activity/m/USUARIO/REPOSITORIO)
+
 
 ---
 
