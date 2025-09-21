@@ -1157,11 +1157,233 @@ Previsualização: ![Previsualização de Dashboard da Página 3.2 Seguimentaç�
 Esta página dará à hCaptcha uma visão clara e acionável de **ONDE** priorizar seus esforços comerciais e de marketing na Europa.
 
 ### 3.3 Tamanho das empresas
-*[Classificação das empresas por porte e análise de distribuição entre pequenas, médias e grandes empresas]*
+
+#### 3.3.1. Distribuição Geral por Porte (Visão do Todo)
+
+**Gráfico de Rosca (Doughnut Chart) ou Treemap**
+
+*   **Por que usado?** Mostra de forma clara e imediata a proporção que cada categoria representa no total da base. A rosca é mais amigável.
+
+*   **Como configurar (Rosca):**
+    *   **Legenda:** `Classificacao_Empresa` (da `Dim_Tamanho_Empresa` - use a versão padronizada e categorizada, e.g., "Pequena", "Média", "Grande").
+    *   **Valores:** `Contagem de Pessoa_ID` (da `Fact_Contatos`).
+    *   **Formatação:** Ative os **Rótulos de Dados** e formate para mostrar **"Porcentagem do total"**. O centro vazio da rosca pode ser usado para colocar um cartão KPI com o total de empresas.
+
+**Insight Imediato:** "A maior parte dos nossos prospects está em empresas de qual porte?" Isso já direciona o foco principal da estratégia.
+
+
+#### 3.3.2. Pirâmide de Distribuição (Visão Hierárquica)
+
+**Gráfico de Barras Clusterizadas com Eixos Invertidos**
+
+*   **Por que usado?** Uma pirâmide é a maneira clássica e poderosa de visualizar a distribuição de uma população por categorias ordenadas (como tamanho). Mostra a transição suave (ou abrupta) entre os portes.
+
+*   **Como configurar (Requer duas medidas):**
+    1.  **Crie uma Medida para o Lado Esquerdo da Pirâmide:**
+        ```dax
+        Contagem Esquerda = -COUNT('Fact_Contatos'[Pessoa_ID])
+        ```
+    2.  **Crie uma Medida para o Lado Direito da Pirâmide (opcional, mas útil para simetria):**
+        ```dax
+        Contagem Direita = COUNT('Fact_Contatos'[Pessoa_ID])
+        ```
+    3.  **Configure o Gráfico:**
+        *   Use um **Gráfico de Barras Clusterizadas**.
+        *   **Eixo Y:** `Classificacao_Empresa` (Ordene este eixo manualmente na ordem lógica: "Pequena", "Média", "Grande", etc.).
+        *   **Eixo X:** Arraste **ambas as medidas** (`Contagem Esquerda` e `Contagem Direita`) para o campo de Valores.
+        *   **Formatação:** No painel de formatação, para o eixo X, ative **"Valores negativos"**. Isso fará com que as barras da medida `Contagem Esquerda` apareçam para a esquerda do zero, formando a pirâmide. Formate os rótulos de dados para mostrar o valor absoluto.
+
+**Insight:** Mostra se a base é majoritariamente composta por muitas pequenas empresas (pirâmide com base larga) ou por algumas grandes empresas (pirâmide mais "gorda" no topo).
+
+#### 3.3.3. Média de Funcionários por Setor (Análise Cruzada)
+
+**Gráfico de Pontos (Scatter Plot)**
+
+*   **Por que usado?** Responde à pergunta: "Existem setores que naturalmente abrigam empresas maiores?" (ex: Bancos são sempre grandes, startups de SaaS podem ser menores).
+
+*   **Como configurar (Scatter Plot - Mais Avançado):**
+    *   **Eixo X:** `Setor_empresa_padronizado`
+    *   **Eixo Y:** `Tamanho_Medio_Empresa`
+    *   **Tamanho do Bolha:** `Contagem de Pessoa_ID` (Isso mostra também a importância do setor pela quantidade de prospects).
+    *   **Legenda:** `Classificacao_Empresa` (para colorir as bolhas pelo porte categorizado).
+    *   **Resultado:** Você verá clusters de bolhas. Setores com bolhas grandes e no topo do gráfico (e.g., "Serviços Financeiros") são prioritários para uma venda enterprise.
+
+---
+
+#### 3.3.4. Tree Map: Tamanho vs Setor vs País (Visão Multidimensional)
+
+**Gráfico Treemap**
+
+*   **Por que usado?** Este é um gráfico de **análise exploratória avançada**. Ele compacta três dimensões (Setor, Porte, País) em um único visual, mostrando os segmentos de mercado mais relevantes.
+
+*   **Como configurar:**
+    *   **Grupo:** `Setor_empresa_padronizado` > `Classificacao_Empresa` > `Pais` (Arraste nessa hierarquia).
+    *   **Valores:** `Contagem de Pessoa_ID`
+    *   **Formatação:** Ajuste as cores por `Classificacao_Empresa` para dar um padrão visual.
+
+**Como interpretar:** Os maiores retângulos são seus segmentos mais promissores. Exemplo: Um retângulo grande para `Setor: FinTech` + `Porte: Grande` + `País: Reino Unido` é um alvo extremamente claro e valioso.
+
+####  3.3.5. Filtros e Interatividade
+
+**Slicers (Fatiadores) Essenciais:**
+*   `Classificacao_Empresa` - Para isolar apenas empresas "Pequenas", por exemplo.
+*   `Setor_empresa_padronizado` - Para responder "Qual a distribuição de tamanho no setor de TI?"
+*   `Pais` ou `Regiao Europa` - Para cruzar geografia com porte, respondendo "As empresas alemãs são maiores que as portuguesas?"
+
+**Dica de Ouro: Conexão com outras páginas**
+*   Os slicers desta página devem estar **sincronizados (Sync Slicers)** com as páginas 3.1 (Perfis) e 3.2 (Geografia).
+*   Isso permite fazer perguntas poderosas como:
+    1.  Filtre por `Classificacao_Empresa: Grande` na página 3.3.
+    2.  Vá para a página 3.1 (Perfis). O **Top 10 Cargos** agora mostrará **apenas os cargos mais comuns em empresas grandes**.
+    3.  Vá para a página 3.2 (Geografia). O **Mapa** agora destacará **quais países têm mais empresas grandes**.
+
+**Resumo Visual da Página 3.3:**
+
+| **Seção**                                       | **Visual**                          |
+| ----------------------------------------------- | ----------------------------------- |
+| **Filtros Principais (Topo)**                   | Slicers: `Porte`, `Setor`, `País`   |
+| **Visão Geral da Base (Destaque)**              | `Rosca da Distribuição por Porte` ou `Pirâmide` |
+| **Análise Setorial (Centro)**                   | `Barras: Média de Funcionários por Setor` |
+| **Segmentos de Mercado Prioritários (Abaixo)**  | `Treemap: Porte > Setor > País`     |
+
+Esta análise responderá diretamente à pergunta do desafio: **"A hCaptcha deve focar em startups, médias ou grandes empresas?"** com base em dados concretos, mostrando não apenas a quantidade, mas também a intersecção do porte com setor e geografia.
 
 ### 3.4 Presença em redes sociais e comportamento
-*[Análise do comportamento digital, uso do LinkedIn e outras plataformas sociais relevantes]*
 
+Excelente! Vamos para a **3.4 Presença em redes sociais e comportamento**. Esta análise é crucial para definir os **canais de marketing e abordagem** mais eficazes.
+
+Aqui estão as visualizações e métricas para entender o comportamento digital dos seus potenciais clientes:
+
+---
+
+#### 3.4.1. Taxa de Penetração do LinkedIn (Métrica Fundamental)
+
+**Gráfico Recomendado: 🎯 Cartão de KPI (KPI Card) ou Medida com Ícone Condicional**
+
+*   **Por que usar?** O LinkedIn é o canal principal para B2B e prospecção. Saber qual % da sua base está lá é o indicador mais importante.
+
+*   **Como configurar (Criar uma Medida DAX):**
+    ```dax
+    % Com LinkedIn = 
+    VAR TotalContatos = CALCULATE(COUNT('Fact_Contatos'[Pessoa_ID]), REMOVEFILTERS())
+    VAR ComLinkedIn = CALCULATE(COUNT('Fact_Contatos'[Pessoa_ID]), NOT(ISBLANK(Dim_Pessoa[LinkedIn])))
+    RETURN
+    DIVIDE(ComLinkedIn, TotalContatos, 0)
+    ```
+*   **Como visualizar:**
+    *   Use um **Cartão de KPI** e arraste a medida `% Com LinkedIn` para ele.
+    *   **Formate para mostrar como porcentagem**.
+    *   Adicione um **ícone condicional** (✔️ verde se >70%, ⚠️ amarelo se >50%, ❌ vermelho se menor).
+
+**Insight Imediato:** "X% da nossa base de prospects pode ser abordada via LinkedIn."
+
+---
+
+#### 3.4.2. Taxa de Penetração do LinkedIn por Cargo/Nível Hierárquico
+
+**Gráfico Recomendado: 📊 Gráfico de Barras Clusterizadas**
+
+*   **Por que usar?** Responder: "Decisores (C-Levels) são mais ou menos presentes no LinkedIn que especialistas?" Isso define se você deve usar o LinkedIn para alcançar diretamente os decisores ou apenas para pesquisa.
+
+*   **Como configurar:**
+    *   **Crie uma Medida para Contagem por Cargo:**
+        ```dax
+        % Com LinkedIn por Cargo = 
+        CALCULATE([% Com LinkedIn], ALLEXCEPT(Dim_Cargo, Dim_Cargo[Cargo]))
+        ```
+    *   **Eixo Y:** `Cargo` (ou `Cargo_Nivel_Hierarquico`)
+    *   **Eixo X:** `% Com LinkedIn por Cargo`
+    *   **Classificação:** Ordene o eixo Y pela medida de porcentagem (decrescente).
+
+**Insight Valioso:** Se C-Levels tiverem uma taxa de presença muito alta, o **Social Selling** e InMails diretos são viáveis. Se for baixa, você precisará de uma estratégia de multi-toque (email + phone).
+
+---
+
+#### 3.4.3. Proporção de E-mails Válidos vs. Presença no LinkedIn
+
+**Gráfico Recomendado: 🔄 Gráfico de Venn ou Matriz de Dispersão (Scatter Plot)**
+
+*   **Por que usar?** Entender a sobreposição entre os dois principais canais de contato. Isso ajuda a priorizar esforços.
+
+*   **Como configurar (Scatter Plot - Mais Prático no Power BI):**
+    1.  **Crie duas medidas:**
+        ```dax
+        Tem Email Valido = IF([Status_Final] = "valid", 1, 0) // Supondo que 'Status_Final' esteja na Fact
+        Tem LinkedIn = IF(NOT(ISBLANK(Dim_Pessoa[LinkedIn])), 1, 0)
+        ```
+    2.  **Configure o Scatter Plot:**
+        *   **Eixo X:** Soma de `Tem Email Valido`
+        *   **Eixo Y:** Soma de `Tem LinkedIn`
+        *   **Legenda:** `Cargo_Nivel_Hierarquico` (ou `Pais`)
+        *   **Tamanho do Bolha:** `Contagem de Pessoa_ID` (mostra o volume de cada grupo)
+    *   **Interpretação:**
+        *   Bolhas no **canto superior direito** são os melhores segmentos (têm ambos os contatos).
+        *   Bolhas no **canto inferior direito** são abordáveis principalmente por email.
+        *   Bolhas no **canto superior esquerdo** são abordáveis principalmente por LinkedIn.
+
+---
+
+#### 3.4.4. Score Médio de Confiança de E-mail por Setor
+
+**Gráfico Recomendado: 📈 Gráfico de Barras ou Heatmap de Matriz**
+
+*   **Por que usar?** Identificar setores onde os dados de contato são mais limpos e confiáveis, aumentando a efetividade das campanhas de email.
+
+*   **Como configurar (Barras):**
+    *   **Eixo Y:** `Setor_empresa_padronizado`
+    *   **Eixo X:** `AVG(Pontuacao_Confianca)` (Valor médio da pontuação de confiança que você criou)
+    *   **Classificação:** Ordene o eixo Y pela pontuação média (decrescente).
+
+*   **Como configurar (Heatmap de Matriz):**
+    *   **Linhas:** `Setor_empresa_padronizado`
+    *   **Colunas:** `Nivel_Confianca` (e.g., "Alta", "Média", "Baixa")
+    *   **Valores:** `Contagem de Pessoa_ID`
+    *   **Aplique formatação condicional de cor.**
+
+**Insight Acionável:** "O setor de `Serviços Financeiros` tem a maior qualidade de dados de email, então campanhas de email marketing devem ter alta prioridade lá."
+
+---
+
+#### 3.4.5. Análise de "Social Connectivity" (Opcional Avançado)
+
+**Gráfico Recomendado: 🔗 Gráfico de Rede**
+
+*   **Por que usar?** Se seus dados de redes sociais incluírem conexões, você pode identificar *influencers* e clusters dentro de um setor. (Isso geralmente requer Power BI custom visuals ou ferramentas especializadas como Gephi).
+
+*   **Como simular no Power BI:**
+    *   Use um **Scatter Plot** onde:
+        *   **Eixo X:** `Setor`
+        *   **Eixo Y:** `Contagem de Seguidores no LinkedIn` (se você tiver enriquecido os dados)
+        *   **Tamanho da Bolha:** `Contagem de Seguidores`
+        *   **Legenda:** `Cargo`
+    *   As bolhas grandes no topo representam os influencers potenciais.
+
+---
+
+#### 3.4.6. Filtros e Interatividade para a Página 3.4
+
+**Slicers (Fatiadores) Essenciais:**
+*   `Nivel_Confianca` (do e-mail) - Para focar apenas em leads de alta qualidade.
+*   `Tem_LinkedIn` (Sim/Não) - Criar uma segmentação binária.
+*   `Cargo_Nivel_Hierarquico` - Analisar o comportamento digital por senioridade.
+*   `Setor_empresa_padronizado` - Ver qual setor é mais "conectado".
+
+**Resumo Visual da Página 3.4:**
+
+| **Seção**                                       | **Visual**                          |
+| ----------------------------------------------- | ----------------------------------- |
+| **KPIs Principais (Topo)**                      | `Cartões: % Com LinkedIn`, `% Email Válido`, `Score Médio Confiança` |
+| **Análise por Senioridade (Centro)**            | `Barras: % Penetração LinkedIn por Cargo` |
+| **Qualidade de Dados por Setor (Centro)**       | `Barras: Score Médio de Confiança por Setor` |
+| **Canais de Contato (Abaixo)**                  | `Scatter Plot: Email Válido vs. Presença LinkedIn` (legendado por País) |
+
+**Perguntas que esta página responde:**
+*   **"Qual canal de aquisição priorizar?"** (Se a taxa de LinkedIn for altíssima, invista em Social Selling).
+*   **"A base é boa para campanhas de email em massa?"** (Se o score de confiança for baixo, não).
+*   **"Devemos abordar Gerentes e C-Levels da mesma forma?"** (Provavelmente não, se seus comportamentos digitais forem diferentes).
+*   **"Em qual setor um evento online teria mais engajamento?"** (Provavelmente no setor com maior presença digital).
+
+Esta análise transforma dados de comportamento em uma **estratégia de canal e aquisição** clara para a hCaptcha.
 ---
 
 ## 4. Insights Estratégicos
@@ -1185,11 +1407,35 @@ Esta página dará à hCaptcha uma visão clara e acionável de **ONDE** prioriz
 ### 5.2 Sugestões de posicionamento para a hCaptcha
 *[Estratégias específicas recomendadas com base nos insights obtidos]*
 
-### 5.3 Próximos passos
-*[Recomendações para enriquecimento da base de dados, novos estudos e monitoramento contínuo]*
+---
+
+**Data do Relatório:**  ![Última atualização](https://img.shields.io/github/last-commit/USUARIO/REPOSITORIO?label=%C3%9Altima%20atualiza%C3%A7%C3%A3o)
+ 
+**Analista Responsável:**
 
 ---
 
-**Data do Relatório:** [Inserir data]  
-**Analista Responsável:** [Inserir nome]  
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/104945531?v=4" alt="Germano Silva" width="100" />
+  <br>
+  <strong>Germano Silva</strong>
+  <br>
+  <em>"Dados são a linguagem do futuro. E o futuro é diverso."</em> – Lynn Conway
+</div>
+
+<div align="center">
+  <a href="https://github.com/Germano-Silva">GitHub</a> •
+  <a href="https://linkedin.com/in/germano-silva">LinkedIn</a>
+</div>
+
+---
+
+<div align="center">
+
+*Este repositório é um reflexo da minha jornada de aprendizado em Ciência de Dados. Sinta-se à vontade para explorar, contribuir ou entrar em contato!* 🚀
+
+</div>
+
+---
+
 **Versão:** 1.0
