@@ -33,7 +33,6 @@
 5. [Conclusão e Recomendações](#5-conclusão-e-recomendações)  
    - 5.1 [Resumo dos principais achados](#51-resumo-dos-principais-achados)  
    - 5.2 [Sugestões de posicionamento para a hCaptcha](#52-sugestões-de-posicionamento-para-a-hcaptcha)  
-   - 5.3 [Próximos passos](#53-próximos-passos)  
 
 ---
 
