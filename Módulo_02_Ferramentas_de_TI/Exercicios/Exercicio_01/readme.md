@@ -1023,7 +1023,7 @@ Este modelo integra de forma poderosa informações de **identificação, locali
 
 **Matriz (Matrix Visual)**
 
-*   **Por que usar?** A visualização de matriz é a única que pode mostrar perfeitamente a intersecção entre duas categorias (Cargo e Setor).
+*   **Por que usado?** A visualização de matriz é a única que pode mostrar perfeitamente a intersecção entre duas categorias (Cargo e Setor).
 
 *   **Como configurar:**
     *   **Linhas:** `Categoria_Setor_empresa` (da `Dim_Setor_Empresa`)
@@ -1036,7 +1036,7 @@ Este modelo integra de forma poderosa informações de **identificação, locali
 
 **Slicers (Fatiadores)**
 
-*   **Por que usar?** Os Slicers são a forma mais intuitiva e poderosa de criar dashboards interativos no Power BI. Eles filtram todos os outros visuais da página automaticamente.
+*   **Por que usado?** Os Slicers são a forma mais intuitiva e poderosa de criar dashboards interativos no Power BI. Eles filtram todos os outros visuais da página automaticamente.
 
 *   **Como configurar:**
     1.  Vá no painel **Visualizações** e escolha o ícone **Slicer**.
@@ -1160,7 +1160,7 @@ Esta página dará à hCaptcha uma visão clara e acionável de **ONDE** prioriz
 
 #### 3.3.1. Distribuição Geral por Porte (Visão do Todo)
 
-**Gráfico de Rosca (Doughnut Chart) ou Treemap**
+**Gráfico de Rosca (Doughnut Chart)**
 
 *   **Por que usado?** Mostra de forma clara e imediata a proporção que cada categoria representa no total da base. A rosca é mais amigável.
 
@@ -1202,8 +1202,8 @@ Esta página dará à hCaptcha uma visão clara e acionável de **ONDE** prioriz
 *   **Por que usado?** Responde à pergunta: "Existem setores que naturalmente abrigam empresas maiores?" (ex: Bancos são sempre grandes, startups de SaaS podem ser menores).
 
 *   **Como configurar (Scatter Plot - Mais Avançado):**
-    *   **Eixo X:** `Setor_empresa_padronizado`
-    *   **Eixo Y:** `Tamanho_Medio_Empresa`
+    *   **Eixo X:** `Setor_empresa`
+    *   **Eixo Y:** `Tamanho_Medio`
     *   **Tamanho do Bolha:** `Contagem de Pessoa_ID` (Isso mostra também a importância do setor pela quantidade de prospects).
     *   **Legenda:** `Classificacao_Empresa` (para colorir as bolhas pelo porte categorizado).
     *   **Resultado:** Você verá clusters de bolhas. Setores com bolhas grandes e no topo do gráfico (e.g., "Serviços Financeiros") são prioritários para uma venda enterprise.
@@ -1246,21 +1246,17 @@ Esta página dará à hCaptcha uma visão clara e acionável de **ONDE** prioriz
 | **Análise Setorial (Centro)**                   | `Barras: Média de Funcionários por Setor` |
 | **Segmentos de Mercado Prioritários (Abaixo)**  | `Treemap: Porte > Setor > País`     |
 
+Previsualização: ![Previsualização de Dashboard da Página 3.3 Tamanho Empresas](tamanho_empresa.png)
+
 Esta análise responderá diretamente à pergunta do desafio: **"A hCaptcha deve focar em startups, médias ou grandes empresas?"** com base em dados concretos, mostrando não apenas a quantidade, mas também a intersecção do porte com setor e geografia.
 
 ### 3.4 Presença em redes sociais e comportamento
 
-Excelente! Vamos para a **3.4 Presença em redes sociais e comportamento**. Esta análise é crucial para definir os **canais de marketing e abordagem** mais eficazes.
-
-Aqui estão as visualizações e métricas para entender o comportamento digital dos seus potenciais clientes:
-
----
-
 #### 3.4.1. Taxa de Penetração do LinkedIn (Métrica Fundamental)
 
-**Gráfico Recomendado: 🎯 Cartão de KPI (KPI Card) ou Medida com Ícone Condicional**
+**Cartão de KPI (KPI Card)**
 
-*   **Por que usar?** O LinkedIn é o canal principal para B2B e prospecção. Saber qual % da sua base está lá é o indicador mais importante.
+*   **Por que usado?** O LinkedIn é o canal principal para B2B e prospecção. Saber qual % da sua base está lá é o indicador mais importante.
 
 *   **Como configurar (Criar uma Medida DAX):**
     ```dax
@@ -1273,17 +1269,12 @@ Aqui estão as visualizações e métricas para entender o comportamento digital
 *   **Como visualizar:**
     *   Use um **Cartão de KPI** e arraste a medida `% Com LinkedIn` para ele.
     *   **Formate para mostrar como porcentagem**.
-    *   Adicione um **ícone condicional** (✔️ verde se >70%, ⚠️ amarelo se >50%, ❌ vermelho se menor).
-
-**Insight Imediato:** "X% da nossa base de prospects pode ser abordada via LinkedIn."
-
----
 
 #### 3.4.2. Taxa de Penetração do LinkedIn por Cargo/Nível Hierárquico
 
-**Gráfico Recomendado: 📊 Gráfico de Barras Clusterizadas**
+**Gráfico de Barras Clusterizadas**
 
-*   **Por que usar?** Responder: "Decisores (C-Levels) são mais ou menos presentes no LinkedIn que especialistas?" Isso define se você deve usar o LinkedIn para alcançar diretamente os decisores ou apenas para pesquisa.
+*   **Por que usado?** Responder: "Decisores (C-Levels) são mais ou menos presentes no LinkedIn que especialistas?" Isso define se você deve usar o LinkedIn para alcançar diretamente os decisores ou apenas para pesquisa.
 
 *   **Como configurar:**
     *   **Crie uma Medida para Contagem por Cargo:**
@@ -1303,7 +1294,7 @@ Aqui estão as visualizações e métricas para entender o comportamento digital
 
 **Gráfico Recomendado: 🔄 Gráfico de Venn ou Matriz de Dispersão (Scatter Plot)**
 
-*   **Por que usar?** Entender a sobreposição entre os dois principais canais de contato. Isso ajuda a priorizar esforços.
+*   **Por que usado?** Entender a sobreposição entre os dois principais canais de contato. Isso ajuda a priorizar esforços.
 
 *   **Como configurar (Scatter Plot - Mais Prático no Power BI):**
     1.  **Crie duas medidas:**
@@ -1325,14 +1316,9 @@ Aqui estão as visualizações e métricas para entender o comportamento digital
 
 #### 3.4.4. Score Médio de Confiança de E-mail por Setor
 
-**Gráfico Recomendado: 📈 Gráfico de Barras ou Heatmap de Matriz**
+**Gráfico Heatmap de Matriz**
 
-*   **Por que usar?** Identificar setores onde os dados de contato são mais limpos e confiáveis, aumentando a efetividade das campanhas de email.
-
-*   **Como configurar (Barras):**
-    *   **Eixo Y:** `Setor_empresa_padronizado`
-    *   **Eixo X:** `AVG(Pontuacao_Confianca)` (Valor médio da pontuação de confiança que você criou)
-    *   **Classificação:** Ordene o eixo Y pela pontuação média (decrescente).
+*   **Por que usado?** Identificar setores onde os dados de contato são mais limpos e confiáveis, aumentando a efetividade das campanhas de email.
 
 *   **Como configurar (Heatmap de Matriz):**
     *   **Linhas:** `Setor_empresa_padronizado`
@@ -1342,31 +1328,13 @@ Aqui estão as visualizações e métricas para entender o comportamento digital
 
 **Insight Acionável:** "O setor de `Serviços Financeiros` tem a maior qualidade de dados de email, então campanhas de email marketing devem ter alta prioridade lá."
 
----
-
-#### 3.4.5. Análise de "Social Connectivity" (Opcional Avançado)
-
-**Gráfico Recomendado: 🔗 Gráfico de Rede**
-
-*   **Por que usar?** Se seus dados de redes sociais incluírem conexões, você pode identificar *influencers* e clusters dentro de um setor. (Isso geralmente requer Power BI custom visuals ou ferramentas especializadas como Gephi).
-
-*   **Como simular no Power BI:**
-    *   Use um **Scatter Plot** onde:
-        *   **Eixo X:** `Setor`
-        *   **Eixo Y:** `Contagem de Seguidores no LinkedIn` (se você tiver enriquecido os dados)
-        *   **Tamanho da Bolha:** `Contagem de Seguidores`
-        *   **Legenda:** `Cargo`
-    *   As bolhas grandes no topo representam os influencers potenciais.
-
----
-
-#### 3.4.6. Filtros e Interatividade para a Página 3.4
+#### 3.4.5. Filtros e Interatividade para a Página 3.4
 
 **Slicers (Fatiadores) Essenciais:**
 *   `Nivel_Confianca` (do e-mail) - Para focar apenas em leads de alta qualidade.
 *   `Tem_LinkedIn` (Sim/Não) - Criar uma segmentação binária.
 *   `Cargo_Nivel_Hierarquico` - Analisar o comportamento digital por senioridade.
-*   `Setor_empresa_padronizado` - Ver qual setor é mais "conectado".
+*   `Setor_empresa` - Ver qual setor é mais "conectado".
 
 **Resumo Visual da Página 3.4:**
 
@@ -1382,6 +1350,8 @@ Aqui estão as visualizações e métricas para entender o comportamento digital
 *   **"A base é boa para campanhas de email em massa?"** (Se o score de confiança for baixo, não).
 *   **"Devemos abordar Gerentes e C-Levels da mesma forma?"** (Provavelmente não, se seus comportamentos digitais forem diferentes).
 *   **"Em qual setor um evento online teria mais engajamento?"** (Provavelmente no setor com maior presença digital).
+
+Previsualização: ![Previsualização de Dashboard da Página 3.4 Cargos, Redes sociais e comportamento](cargos_redes.png)
 
 Esta análise transforma dados de comportamento em uma **estratégia de canal e aquisição** clara para a hCaptcha.
 ---
