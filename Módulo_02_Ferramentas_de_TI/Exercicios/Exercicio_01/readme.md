@@ -47,6 +47,25 @@ Este relatório visa analisar os dados disponíveis para identificar segmentos d
 ### Relevância do estudo para decisões estratégicas da hCaptcha
 Os insights gerados servirão como base para decisões de investimento, desenvolvimento de produtos e estratégias de marketing direcionadas ao público europeu.
 
+### Dashboard
+
+Abaixo estão os dashboards consolidados do projeto, apresentados em formato de imagem para facilitar a visualização dos resultados:
+
+### Home
+![Home](/Módulo_02_Ferramentas_de_TI/Exercicios/Exercicio_01/assets/1.png)
+
+### Perfis dos Potenciais Clientes - Cargos e Áreas
+![Perfis dos Potenciais Clientes - Cargos e Áreas](/Módulo_02_Ferramentas_de_TI/Exercicios/Exercicio_01/assets/2.png)
+
+### Segmentação Geográfica (Países e Regiões)
+![Segmentação Geográfica (Países e Regiões)](/Módulo_02_Ferramentas_de_TI/Exercicios/Exercicio_01/assets/3.png)
+
+### Perfis das Empresas e Tamanho
+![Perfis das Empresas e Tamanho](/Módulo_02_Ferramentas_de_TI/Exercicios/Exercicio_01/assets/4.png)
+
+### Presença em Redes Sociais e Comportamentos
+![Presença em Redes Sociais e Comportamentos](/Módulo_02_Ferramentas_de_TI/Exercicios/Exercicio_01/assets/5.png)
+
 ---
 
 ## 2. Descrição do Dataset
