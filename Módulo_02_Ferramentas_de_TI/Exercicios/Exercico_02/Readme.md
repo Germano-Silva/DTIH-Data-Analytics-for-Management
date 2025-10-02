@@ -101,6 +101,7 @@ Antes de começar, consulte o tutorial oficial:
 3. Esta é a ferramenta principal para explorar bases de dados
 
 Ferramenta indisponível para o LinkedIn conforme imagem abaixo:
+
 ![Ferramenta indisponível para o LinkedIn](/Módulo_02_Ferramentas_de_TI/Exercicios/Exercico_02/assets/Localizador%20de%20e-mails.png)
 
 ### 3.2 Métodos de Prospecção
@@ -254,7 +255,7 @@ Ferramenta indisponível para o LinkedIn conforme imagem abaixo:
 
 ### 5.2 Envio do Trabalho
 
-**Enviar para:** dadoseti@preparaportugal.com
+**Enviar para o e-mail do professor responsavel:** 
 
 **Checklist Final:**
 - [x] Prints bem organizados e legíveis
