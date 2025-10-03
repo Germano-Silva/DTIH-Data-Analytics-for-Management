@@ -2,7 +2,7 @@
 ## SQL para Análise de Dados e Gestão da Informação
 
 **Curso:** Análise de Dados e TI Aplicado à Gestão  
-**Módulo:** 3 - Fundamentos de Banco de Dados  
+**Módulo:** 3 - Big Data e Inteligência Artificial na tomada de decisões estratégicas  
 **Exercício:** 1 - Exercício Prático – Introdução ao SQL  
 **Plataforma de Exercícios:** [SQL Teaching](https://www.sqlteaching.com/)
 
