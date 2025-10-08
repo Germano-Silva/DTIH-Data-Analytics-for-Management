@@ -1,0 +1,69 @@
+%%{init: {'theme':'dark', 'themeVariables': {
+  'darkMode': true,
+  'primaryColor': '#BD93F9',
+  'primaryTextColor': '#F8F8F2',
+  'primaryBorderColor': '#6272A4',
+  'lineColor': '#F8F8F2',
+  'secondaryColor': '#44475A',
+  'tertiaryColor': '#282A36',
+  'clusterBkg': '#44475A',
+  'clusterBorder': '#6272A4',
+  'nodeBorder': '#BD93F9',
+  'fontFamily': 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif'
+}}}%%
+flowchart TD
+    classDef startEnd fill:#FF79C6,stroke:#FF79C6,stroke-width:2px,color:#000000
+    classDef process fill:#44475A,stroke:#BD93F9,stroke-width:2px,color:#F8F8F2
+    classDef decision fill:#6272A4,stroke:#8BE9FD,stroke-width:2px,color:#F8F8F2
+    classDef subgraphBkg fill:#282A36,stroke:#6272A4,stroke-width:2px,color:#F8F8F2
+    classDef integration fill:#50FA7B,stroke:#50FA7B,stroke-width:2px,color:#000000
+    classDef automation fill:#FFB86C,stroke:#FFB86C,stroke-width:2px,color:#000000
+    
+    subgraph subGraph0["📋 Guia de Modelagem de Processos em Tecnologia"]
+        direction TB
+        A("🎯 Início: Objetivo do Guia"):::startEnd
+        B("Capacitar usuário em modelagem de processos de TI<br>para automação/integração"):::process
+        D("🏢 Escolha Empresa/Departamento de TI"):::process
+        D1["💼 Ex: Desenvolvimento, Infraestrutura, Suporte"]:::process
+        E("📚 Entendimento de BPM e Dados"):::process
+        E1["🔄 BPM: Sequência de atividades que agregam valor"]:::process
+        E2["📊 Dados: Essenciais para eficiência e decisão estratégica"]:::process
+        E3["📈 Ciclo de Vida: Modelagem → Execução → Monitoramento → Otimização"]:::process
+        F("📝 Elementos Obrigatórios por Atividade"):::process
+        F1["⏰ Prazo de Execução"]:::process
+        F2["📄 Descrição Clara da Atividade"]:::process
+        F3["👤 Identificação do Responsável"]:::process
+        F4["🏢 Local Onde a Atividade Ocorre"]:::process
+        G("🎨 Notação e Simbologia"):::process
+        G1["📐 Inspirar-se em BPMN: Eventos, Atividades, Decisões, Fluxos, Piscinas/Raias"]:::process
+        H("🏗️ Estrutura Hierárquica"):::process
+        H1["📂 Macro Processos → Processos → Subprocessos → Atividades"]:::process
+        I("🔍 Metodologia 5W2H para Detalhamento"):::process
+        I1["❓ What: O quê?"]:::process
+        I2["❓ Why: Por quê?"]:::process
+        I3["❓ Who: Quem?"]:::process
+        I4["❓ Where: Onde?"]:::process
+        I5["❓ When: Quando?"]:::process
+        I6["❓ How: Como?"]:::process
+        I7["❓ How much: Quanto?"]:::process
+    end
+
+    %% Conexões principais do guia
+    A --> B
+    B --> D
+    D --> D1
+    D1 --> E
+    E --> E1
+    E1 --> E2
+    E2 --> E3
+    E3 --> F
+    F --> F1 & F2 & F3 & F4
+    F4 --> G
+    G --> G1
+    G1 --> H
+    H --> H1
+    H1 --> I
+    I --> I1 & I2 & I3 & I4 & I5 & I6 & I7
+
+    %% Aplicar classes de estilo aos subgraphs
+    class subGraph0, subgraphBkg

@@ -1,0 +1,128 @@
+%%{init: {'theme':'dark', 'themeVariables': {
+  'darkMode': true,
+  'primaryColor': '#BD93F9',
+  'primaryTextColor': '#F8F8F2',
+  'primaryBorderColor': '#6272A4',
+  'lineColor': '#F8F8F2',
+  'secondaryColor': '#44475A',
+  'tertiaryColor': '#282A36',
+  'clusterBkg': '#44475A',
+  'clusterBorder': '#6272A4',
+  'nodeBorder': '#BD93F9',
+  'fontFamily': 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif'
+}}}%%
+flowchart TD
+    classDef startEnd fill:#FF79C6,stroke:#FF79C6,stroke-width:2px,color:#000000
+    classDef process fill:#44475A,stroke:#BD93F9,stroke-width:2px,color:#F8F8F2
+    classDef decision fill:#6272A4,stroke:#8BE9FD,stroke-width:2px,color:#F8F8F2
+    classDef subgraphBkg fill:#282A36,stroke:#6272A4,stroke-width:2px,color:#F8F8F2
+    classDef integration fill:#50FA7B,stroke:#50FA7B,stroke-width:2px,color:#000000
+    classDef automation fill:#FFB86C,stroke:#FFB86C,stroke-width:2px,color:#000000
+
+    subgraph subGraph7["🔄 Processo de Gestão de Incidentes<br> (Exemplo<br> Prático)"]
+        direction TB
+        
+        subgraph subGraph1["👤 Papel: Usuário/Sistema"]
+            INC_A("📥 Início: Incidente Reportado"):::startEnd
+        end
+        
+        subgraph subGraph2["👤 Papel: Analista de Suporte N1"]
+            INC_B["📝 Registrar Incidente<br>⏰ Prazo: 15min<br>📄 Coletar informações iniciais<br>👤 Analista Suporte N1<br>🏢 Sistema ITSM"]:::process
+            INC_C{"🔍 Classificar Incidente?"}:::decision
+            INC_D["🏷️ Classificar e Priorizar<br>⏰ Prazo: 30min<br>📄 Avaliar natureza, impacto e urgência<br>👤 Analista N1/N2<br>🏢 Sistema ITSM"]:::process
+        end
+        
+        subgraph subGraph3["👤 Papel: Analista N2 / Gerente"]
+            INC_E["👥 Atribuir à Equipe<br>⏰ Prazo: 15min<br>📄 Encaminhar para equipe técnica<br>👤 Analista N2/Gerente<br>🏢 Sistema ITSM"]:::process
+        end
+        
+        subgraph subGraph4["👤 Papel: Equipe Técnica"]
+            INC_F["🔬 Investigar e Diagnosticar<br>⏰ Prazo: 1h-24h<br>📄 Analisar, reproduzir erro<br>👤 Equipe Técnica<br>🏢 Ferramentas monitoramento"]:::process
+            INC_G{"✅ Solução Encontrada?"}:::decision
+            INC_H["⚡ Implementar Solução<br>⏰ Prazo: 30min-48h<br>📄 Aplicar correção<br>👤 Equipe Técnica<br>🏢 Ambiente desenvolvimento"]:::process
+            INC_I["📤 Escalar Incidente<br>⏰ Prazo: Imediato<br>📄 Encaminhar nível superior<br>👤 Equipe Técnica/Gerente<br>🏢 Sistema ITSM"]:::process
+        end
+        
+        subgraph subGraph5["👤 Papel: QA / Suporte / Usuário"]
+            INC_J["🧪 Testar e Validar<br>⏰ Prazo: 1h<br>📄 Garantir resolução completa<br>👤 QA/Suporte/Usuário<br>🏢 Ambiente testes"]:::process
+        end
+        
+        subgraph subGraph6["👤 Papel: Analista N1/N2"]
+            INC_K["📢 Comunicar Resolução<br>⏰ Prazo: 30min<br>📄 Informar usuário<br>👤 Analista N1/N2<br>🏢 Sistema ITSM/E-mail"]:::process
+            INC_L["🔒 Fechar Incidente<br>⏰ Prazo: 1h<br>📄 Atualizar base conhecimento<br>👤 Analista N1/N2<br>🏢 Sistema ITSM"]:::process
+            INC_M("✅ Fim: Incidente Resolvido"):::startEnd
+        end
+    end
+
+    subgraph subGraph10["⚡ Pontos de Integração e Automatização"]
+        direction TB
+        
+        subgraph subGraph8["🔗 Integração (Exemplos)"]
+            INT1["🖥️ Monitoramento ↔ ITSM"]:::integration
+            INT1_DESC["📊 Cria incidentes automaticamente<br>com alertas críticos"]:::process
+            
+            INT2["📧 E-mail/Chatbot ↔ ITSM"]:::integration
+            INT2_DESC["🤖 Converte reportes em tickets<br>automaticamente"]:::process
+            
+            INT3["📚 Base Conhecimento ↔ ITSM"]:::integration
+            INT3_DESC["💡 Sugere artigos durante<br>registro/investigação"]:::process
+            
+            INT4["💬 Comunicação ↔ ITSM"]:::integration
+            INT4_DESC["🔔 Notificações automáticas de status<br>para Slack/Teams"]:::process
+        end
+        
+        subgraph subGraph9["🤖 Automação (Exemplos)"]
+            AUTO1["🎯 Registro e Classificação"]:::automation
+            AUTO1_DESC["🧠 Chatbots/formulários inteligentes<br>pré-classificam incidentes"]:::process
+            
+            AUTO2["📋 Atribuição Automática"]:::automation
+            AUTO2_DESC["⚙️ Regras no ITSM atribuem incidentes<br>por palavras-chave/tipo"]:::process
+            
+            AUTO3["📨 Respostas Padrão"]:::automation
+            AUTO3_DESC["📤 Envio automático de soluções<br>pré-definidas"]:::process
+            
+            AUTO4["⬆️ Escalonamento Automático"]:::automation
+            AUTO4_DESC["⏰ Escala incidentes não resolvidos<br>dentro do SLA"]:::process
+            
+            AUTO5["🔒 Fechamento Automático"]:::automation
+            AUTO5_DESC["🕒 Fecha incidentes 'resolvidos'<br>após período sem reabertura"]:::process
+            
+            AUTO6["🔄 Atualização Base"]:::automation
+            AUTO6_DESC["📝 Sugere inclusão de novas soluções<br>na base após fechamento"]:::process
+        end
+    end
+
+
+    %% Conexões do processo de incidentes
+    INC_A --> INC_B
+    INC_B --> INC_C
+    INC_C -- Sim --> INC_D
+    INC_C -- Não --> INC_B
+    INC_D --> INC_E
+    INC_E --> INC_F
+    INC_F --> INC_G
+    INC_G -- Sim --> INC_H
+    INC_G -- Não --> INC_I
+    INC_I --> INC_F
+    INC_H --> INC_J
+    INC_J --> INC_K
+    INC_K --> INC_L
+    INC_L --> INC_M
+
+    %% Conexões de integração e automação
+    INT1 --> INT1_DESC
+    INT2 --> INT2_DESC
+    INT3 --> INT3_DESC
+    INT4 --> INT4_DESC
+    AUTO1 --> AUTO1_DESC
+    AUTO2 --> AUTO2_DESC
+    AUTO3 --> AUTO3_DESC
+    AUTO4 --> AUTO4_DESC
+    AUTO5 --> AUTO5_DESC
+    AUTO6 --> AUTO6_DESC
+
+    %% Conexões entre seções principais
+    INC_M --> INT1 & AUTO1
+
+    %% Aplicar classes de estilo aos subgraphs
+    class subGraph1,subGraph2,subGraph3,subGraph4,subGraph5,subGraph6,subGraph7,subGraph8,subGraph9,subGraph10 subgraphBkg
